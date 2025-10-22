@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Trang tìm kiếm</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="home">
+  <div class="home-container">
+    <div class="home-logo">Tìm Kiếm</div>
+
+    <form class="home-search-bar" onsubmit="return search()">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="Nhập từ khóa tìm kiếm..." autocomplete="off">
+    </form>
+
+    <div class="home-buttons">
+      <button type="button" onclick="search()">Tìm kiếm</button>
+      <button type="button" onclick="randomSearch()">Tôi cảm thấy may mắn 🍀</button>
+    </div>
+  </div>
+
+  <script>
+    function search() {
+      const q = document.getElementById('searchInput').value.trim();
+      if (q) {
+        window.location.href = `results.html?q=${encodeURIComponent(q)}`;
+      }
+      return false;
+    }
+
+    function randomSearch() {
+      fetch('data.json')
+        .then(res => res.json())
+        .then(data => {
+          const item = data[Math.floor(Math.random() * data.length)];
+          if (item && item.link) window.open(item.link, '_blank');
+        });
+    }
+  </script>
+</body>
+</html>

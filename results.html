@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kết quả tìm kiếm</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .load-more-container {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .load-more-btn {
+      background: #1a73e8;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 15px;
+    }
+    .load-more-btn:hover {
+      background: #0f5bb5;
+    }
+  </style>
+</head>
+<body class="srp">
+  <!-- HEADER -->
+  <header class="search-header">
+    <form class="header-search-bar" onsubmit="return search()">
+      <div class="header-logo" onclick="window.location='index.html'">Tìm Kiếm</div>
+      <input type="text" id="searchBox" placeholder="Nhập từ khóa..." />
+      <button type="submit">🔍</button>
+    </form>
+    <!-- NAVIGATION TABS -->
+    <nav class="tabs">
+      <button class="tab active" data-type="all">Tất cả</button>
+      <button class="tab" data-type="image">Hình ảnh</button>
+      <button class="tab" data-type="video">Video</button>
+    </nav>
+  </header>
+
+  <!-- KẾT QUẢ -->
+  <div class="results-container" id="resultsContainer"></div>
+  <div class="load-more-container" id="loadMoreContainer" style="display:none;">
+    <button class="load-more-btn" id="loadMoreBtn">Thêm kết quả</button>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const query = params.get('q') || '';
+    document.getElementById('searchBox').value = query;
+
+    const tabs = document.querySelectorAll('.tab');
+    let currentType = 'all';
+    let allResults = [];
+    let visibleCount = 20;
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        tabs.forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        currentType = tab.getAttribute('data-type');
+        visibleCount = 20; // reset khi chuyển tab
+        loadResults();
+      });
+    });
+
+    function search() {
+      const q = document.getElementById('searchBox').value.trim();
+      if (q) {
+        window.location.href = `results.html?q=${encodeURIComponent(q)}&type=${currentType}`;
+      }
+      return false;
+    }
+
+    function loadResults() {
+      const fileMap = { all: 'data.json', image: 'image.json', video: 'video.json' };
+      fetch(fileMap[currentType])
+        .then(res => res.json())
+        .then(data => {
+          allResults = data.filter(item =>
+            (item.title || '').toLowerCase().includes(query.toLowerCase()) ||
+            (item.desc || '').toLowerCase().includes(query.toLowerCase()) ||
+            (item.domain || '').toLowerCase().includes(query.toLowerCase())
+          );
+          renderResults();
+        });
+    }
+
+    function renderResults() {
+      const container = document.getElementById('resultsContainer');
+      const loadMoreContainer = document.getElementById('loadMoreContainer');
+      const resultsToShow = allResults.slice(0, visibleCount);
+
+      if (allResults.length === 0) {
+        container.innerHTML = `<div class="no-result">Không tìm thấy kết quả nào cho “<b>${query}</b>”</div>`;
+        loadMoreContainer.style.display = 'none';
+        return;
+      }
+
+      if (currentType === 'all') {
+        container.innerHTML = resultsToShow.map(item => `
+          <div class="result-item">
+            <div class="result-link">
+              <img src="${item.favicon}" alt="">
+              <span>${item.domain}</span>
+            </div>
+            <a href="${item.link}" class="result-title" target="_blank">${item.title}</a>
+            <p class="result-desc">${item.desc || ''}</p>
+          </div>
+        `).join('');
+      } else if (currentType === 'image') {
+        container.innerHTML = `
+          <div class="image-grid">
+            ${resultsToShow.map(item => `
+              <div class="image-item">
+                <a href="${item.link}" target="_blank">
+                  <img src="${item.link}" alt="${item.title}">
+                </a>
+                <div class="image-info">
+                  <img src="${item.favicon}" alt="">
+                  <span>${item.domain}</span>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      } else if (currentType === 'video') {
+        container.innerHTML = resultsToShow.map(item => `
+          <div class="video-item">
+            <a href="${item.link}" target="_blank">
+              <div class="video-thumb">
+                <img src="https://img.youtube.com/vi/${extractYoutubeId(item.link)}/0.jpg" alt="${item.title}">
+              </div>
+              <div class="video-info">
+                <div class="result-title">${item.title}</div>
+                <div class="result-desc">${item.desc || ''}</div>
+                <div class="result-link">
+                  <img src="${item.favicon}" alt="">
+                  <span>${item.domain}</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        `).join('');
+      }
+
+      // Hiện nút “Thêm kết quả” nếu còn nhiều kết quả khác
+      if (visibleCount < allResults.length) {
+        loadMoreContainer.style.display = 'block';
+      } else {
+        loadMoreContainer.style.display = 'none';
+      }
+    }
+
+    document.getElementById('loadMoreBtn').addEventListener('click', () => {
+      visibleCount += 20;
+      renderResults();
+    });
+
+    function extractYoutubeId(url) {
+      const match = url.match(/(?:v=|youtu\.be\/)([a-zA-Z0-9_-]+)/);
+      return match ? match[1] : 'dQw4w9WgXcQ';
+    }
+
+    const typeFromUrl = params.get('type');
+    if (typeFromUrl && ['all', 'image', 'video'].includes(typeFromUrl)) {
+      currentType = typeFromUrl;
+      tabs.forEach(t => t.classList.remove('active'));
+      document.querySelector(`.tab[data-type="${currentType}"]`).classList.add('active');
+    }
+
+    loadResults();
+  </script>
+</body>
+</html>
+
