@@ -12385,7 +12385,790 @@
   "domain": "www.youtube.com",
   "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
 }
-
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "Thưởng thức video và nhạc bạn yêu thích, tải nội dung do bạn sáng tạo lên và chia sẻ nội dung đó với gia đình, bạn bè cũng như mọi người trên YouTube.",
+  "link": "https://www.youtube.com/?app=desktop&hl=vi",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube - Ứng dụng trên Google Play",
+  "desc": "YouTube - Ứng dụng trên Google Play\n\nGoogle Play\nhttps://play.google.com › details\n·\nTranslate this page",
+  "link": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=vi",
+  "domain": "play.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=play.google.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "YouTube\n\nYouTube\nhttps://www.youtube.com",
+  "link": "https://www.youtube.com/",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Xem, xoá, bật hoặc tắt nhật ký xem - Máy tính - YouTube ...",
+  "desc": "Xem, xoá, bật hoặc tắt nhật ký xem - Máy tính - YouTube ...\n\nGoogle\nhttps://support.google.com › answer\n·\nTranslate this page",
+  "link": "https://support.google.com/youtube/answer/95725?hl=vi&co=GENIE.Platform%3DDesktop",
+  "domain": "support.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=support.google.com"
+}
+,{
+  "type": "link",
+  "title": "Duyệt xem YouTube ở chế độ ẩn danh trên thiết bị di động",
+  "desc": "Duyệt xem YouTube ở chế độ ẩn danh trên thiết bị di động\n\nGoogle\nhttps://support.google.com › answer\n·\nTranslate this page",
+  "link": "https://support.google.com/youtube/answer/9040743?hl=vi",
+  "domain": "support.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=support.google.com"
+}
+,{
+  "type": "link",
+  "title": "Phim và chương trình truyền hình",
+  "desc": "Phim và chương trình truyền hình\n\nYouTube\nhttps://www.youtube.com › movies\n·\nTranslate this page",
+  "link": "https://www.youtube.com/movies?hl=vi",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Trải nghiệm xem YouTube tốt hơn",
+  "desc": "Trải nghiệm xem YouTube tốt hơn\n\nBrave\nhttps://brave.com › youtube-ad-bl...\n·\nTranslate this page",
+  "link": "https://brave.com/vi/youtube-ad-blocker/",
+  "domain": "brave.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=brave.com"
+}
+,{
+  "type": "link",
+  "title": "Top 7+ công cụ hỗ trợ xem Youtube chung đáng thử trong ...",
+  "desc": "Top 7+ công cụ hỗ trợ xem Youtube chung đáng thử trong ...\n\nFPT Telecom\nhttps://fpt.vn › tin-tuc › top-7-cong-cu-ho-tro-xem-you...",
+  "link": "https://fpt.vn/tin-tuc/top-7-cong-cu-ho-tro-xem-youtube-chung-dang-thu-trong-nam-2025-11410.html",
+  "domain": "fpt.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=fpt.vn"
+}
+,{
+  "type": "link",
+  "title": "Cập nhật ứng dụng YouTube cho Android 5.0 và 5.1",
+  "desc": "",
+  "link": "https://support.google.com/youtube/answer/7370539?hl=vi&co=GENIE.Platform%3DAndroid",
+  "domain": "support.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=support.google.com"
+}
+,{
+  "type": "link",
+  "title": "Cách replay Youtube trên điện thoại và laptop cực đơn giản bạn nên biết",
+  "desc": "",
+  "link": "https://fptshop.com.vn/tin-tuc/thu-thuat/bo-tui-ngay-cach-replay-youtube-tren-dien-thoai-va-laptop-cuc-don-gian-nhanh-chong-139885#:~:text=B%E1%BA%A1n%20h%C3%A3y%20m%E1%BB%9F%20%E1%BB%A9ng%20d%E1%BB%A5ng,video%20l%E1%BA%B7p%20l%E1%BA%A1i%20%C4%91ang%20b%E1%BA%ADt.",
+  "domain": "fptshop.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=fptshop.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Trình duyệt của bạn đã được cập nhật",
+  "desc": "Trình duyệt của bạn đã được cập nhật\n\nYouTube\nhttps://www.youtube.com › support...\n·\nTranslate this page",
+  "link": "https://www.youtube.com/supported_browsers?hl=vi",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube trên App Store - Apple",
+  "desc": "YouTube trên App Store - Apple\n\nApple\nhttps://apps.apple.com › app › yout...\n·\nTranslate this page",
+  "link": "https://apps.apple.com/vn/app/youtube/id544007664?l=vi",
+  "domain": "apps.apple.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com"
+}
+,{
+  "type": "link",
+  "title": "XEM NHANH 20H",
+  "desc": "XEM NHANH 20H\n\nYouTube · Báo Thanh Niên\n6.3M+ followers",
+  "link": "https://www.youtube.com/playlist?list=PLLsO3pH5RkASUKS-bXI5E3Ue8MYDwxDn5",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Cách xem video YouTube bằng thuyết minh tiếng Việt mới ...",
+  "desc": "Cách xem video YouTube bằng thuyết minh tiếng Việt mới ...\n\nBáo Pháp Luật TP. Hồ Chí Minh\nhttps://plo.vn › ky-nguyen-so › cac...\n·\nTranslate this page",
+  "link": "https://plo.vn/ky-nguyen-so/cach-xem-video-youtube-bang-thuyet-minh-tieng-viet-moi-nhat-post837304.html",
+  "domain": "plo.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=plo.vn"
+}
+,{
+  "type": "link",
+  "title": "Cách sửa lỗi không vào, không xem được YouTube trên ...",
+  "desc": "Cách sửa lỗi không vào, không xem được YouTube trên ...\n\nThegioididong.com\nhttps://www.thegioididong.com › c...\n·\nTranslate this page",
+  "link": "https://www.thegioididong.com/hoi-dap/cach-khac-phuc-loi-khong-vao-khong-xem-duoc-youtube-tren-652991",
+  "domain": "www.thegioididong.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.thegioididong.com"
+}
+,{
+  "type": "link",
+  "title": "CLIP XEM NHIỀU NHẤT",
+  "desc": "CLIP XEM NHIỀU NHẤT\n\nYouTube · Báo Tuổi Trẻ\n3.1M+ followers",
+  "link": "https://www.youtube.com/playlist?list=PLnNF6Q96_zSkG0lIULD6491IiovphNOey",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Cách xem YouTube ngoài màn hình PC cực kỳ đơn giản ...",
+  "desc": "Cách xem YouTube ngoài màn hình PC cực kỳ đơn giản ...\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › ca...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/kinh-nghiem-hay/cach-xem-youtube-ngoai-man-hinh-pc-1537113?srsltid=AfmBOoqLtc3ZtjE3yDbe8cOZVcHb3C3IOAOyi5LdOUaOvkTOwKVK3O3b",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Cách xem YouTube ngoài màn hình PC cực kỳ đơn giản ...\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › ca...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/kinh-nghiem-hay/cach-xem-youtube-ngoai-man-hinh-pc-1537113",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "Xem",
+  "desc": "Xem\n\nYouTube · Xem\n73.4K+ followers",
+  "link": "https://www.youtube.com/channel/UCaFpiGti2mWqybtpECeMHMw",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Cách xem các video YouTube có nội dung \"Không khả ...",
+  "desc": "Cách xem các video YouTube có nội dung \"Không khả ...\n\nViettimes\nhttps://viettimes.vn › cach-xem-cac-...\n·\nTranslate this page",
+  "link": "https://viettimes.vn/cach-xem-cac-video-youtube-co-noi-dung-khong-kha-dung-o-quoc-gia-cua-ban-post164119.html",
+  "domain": "viettimes.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=viettimes.vn"
+}
+,{
+  "type": "link",
+  "title": "Bản Tin Thời Sự: Tin Nhanh 24h Mới Nhất Trong Ngày",
+  "desc": "Bản Tin Thời Sự: Tin Nhanh 24h Mới Nhất Trong Ngày\n\nYouTube · Đảng với Dân\n902K+ followers",
+  "link": "https://www.youtube.com/playlist?list=PLO3kDP4jdFAbDky__yJOsWPx1SR1qYnaq",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "7 cách tải video trên Youtube về máy tính dễ dàng không ...",
+  "desc": "7 cách tải video trên Youtube về máy tính dễ dàng không ...\n\nThegioididong.com\nhttps://www.thegioididong.com › 7...\n·\nTranslate this page",
+  "link": "https://www.thegioididong.com/game-app/7-cach-tai-video-goc-tren-youtube-ve-may-tinh-de-dang-khong-can-1273072",
+  "domain": "www.thegioididong.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.thegioididong.com"
+}
+,{
+  "type": "link",
+  "title": "vidIQ Vision for YouTube - Cửa hàng Chrome trực tuyến",
+  "desc": "vidIQ Vision for YouTube - Cửa hàng Chrome trực tuyến\n\nChrome Web Store\nhttps://chromewebstore.google.com › ...\n·\nTranslate this page",
+  "link": "https://chromewebstore.google.com/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl?hl=vi",
+  "domain": "chromewebstore.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=chromewebstore.google.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube tung \"vũ khí” giải cứu người xem khỏi loạt video ...",
+  "desc": "YouTube tung \"vũ khí” giải cứu người xem khỏi loạt video ...\n\nTin tức 24h\nhttps://www.24h.com.vn › youtub...\n·\nTranslate this page",
+  "link": "https://www.24h.com.vn/cong-nghe-thong-tin/youtube-tung-vu-khi-giai-cuu-nguoi-xem-khoi-loat-video-goi-y-ep-buoc-c55a1701028.html",
+  "domain": "www.24h.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.24h.com.vn"
+}
+,{
+  "type": "link",
+  "title": "2 NGÀY 1 ĐÊM VIETNAM",
+  "desc": "2 NGÀY 1 ĐÊM VIETNAM\n\nYouTube · 2 NGÀY 1 ĐÊM VIETNAM\n1.6M+ followers",
+  "link": "https://www.youtube.com/2NGAY1DEM",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Google tung bản cập nhật “thay máu” giao diện YouTube",
+  "desc": "Google tung bản cập nhật “thay máu” giao diện YouTube\n\nVOV\nhttps://vov.vn › tin-cong-nghe › g...\n·\nTranslate this page",
+  "link": "https://vov.vn/cong-nghe/tin-cong-nghe/google-tung-ban-cap-nhat-thay-mau-giao-dien-youtube-post1238208.vov",
+  "domain": "vov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vov.vn"
+}
+,{
+  "type": "link",
+  "title": "YouTube - Ứng dụng trên Google Play",
+  "desc": "YouTube - Ứng dụng trên Google Play\n\nGoogle Play\nhttps://play.google.com › details › i...\n·\nTranslate this page",
+  "link": "https://play.google.com/store/apps/details?id=com.google.android.apps.automotive.youtube&hl=vi",
+  "domain": "play.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=play.google.com"
+}
+,{
+  "type": "link",
+  "title": "Cách xem video YouTube bị chặn hoặc bị hạn chế người ...",
+  "desc": "Cách xem video YouTube bị chặn hoặc bị hạn chế người ...\n\nBáo Bình Dương\nhttps://baobinhduong.vn › cach-xe...\n·\nTranslate this page",
+  "link": "https://baobinhduong.vn/cach-xem-video-youtube-bi-chan-hoac-bi-han-che-nguoi-xem-ma-khong-can-dang-nhap-hoac-proxy-a144553.html",
+  "domain": "baobinhduong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baobinhduong.vn"
+}
+,{
+  "type": "link",
+  "title": "Lâm Vlog",
+  "desc": "Lâm Vlog\n\nYouTube · Lâm Vlog\n10.9M+ followers",
+  "link": "https://www.youtube.com/channel/UConnM5zwOP9vG_LPTYbRsAg",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube Music thử nghiệm tính năng dịch lời bài hát",
+  "desc": "YouTube Music thử nghiệm tính năng dịch lời bài hát\n\nLaodong.vn\nhttps://laodong.vn › cong-nghe\n·\nTranslate this page",
+  "link": "https://laodong.vn/cong-nghe/youtube-music-thu-nghiem-tinh-nang-dich-loi-bai-hat-1585955.ldo",
+  "domain": "laodong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=laodong.vn"
+}
+,{
+  "type": "link",
+  "title": "Các gói Google AI và tính năng",
+  "desc": "Các gói Google AI và tính năng\n\nGoogle One\nhttps://one.google.com › about\n·\nTranslate this page",
+  "link": "https://one.google.com/intl/vi_vn/about/google-ai-plans/",
+  "domain": "one.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=one.google.com"
+}
+,{
+  "type": "link",
+  "title": "Xem truyền hình trực tuyến, TV Online VTV1, video trên ...",
+  "desc": "Xem truyền hình trực tuyến, TV Online VTV1, video trên ...\n\nVTV.vn\nhttps://vtv.vn › vtv1\n·\nTranslate this page",
+  "link": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm",
+  "domain": "vtv.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vtv.vn"
+}
+,{
+  "type": "link",
+  "title": "VTV24",
+  "desc": "VTV24\n\nYouTube · VTV24\n6.8M+ followers",
+  "link": "https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Le Trung Khoa (Journalist ) - Thoibao.de",
+  "desc": "Le Trung Khoa (Journalist ) - Thoibao.de\n\nFacebook · Le Trung Khoa\n415.4K+ followers",
+  "link": "https://www.facebook.com/le.t.khoa.1/",
+  "domain": "www.facebook.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com"
+}
+,{
+  "type": "link",
+  "title": "Google Analytics",
+  "desc": "Google Analytics\n\nGoogle for Developers\nhttps://developers.google.com › a...\n·\nTranslate this page",
+  "link": "https://developers.google.com/analytics?hl=vi",
+  "domain": "developers.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=developers.google.com"
+}
+,{
+  "type": "link",
+  "title": "Google Xu hướng",
+  "desc": "Google Xu hướng\n\nGoogle Xu hướng\nhttps://trends.google.com.vn › trends\n·\nTranslate this page",
+  "link": "https://trends.google.com.vn/trends/",
+  "domain": "trends.google.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=trends.google.com.vn"
+}
+,{
+  "type": "link",
+  "title": "YouTube mở rộng công cụ phát hiện deepfake, giúp người ...",
+  "desc": "YouTube mở rộng công cụ phát hiện deepfake, giúp người ...\n\nLaodong.vn\nhttps://laodong.vn › cong-nghe\n·\nTranslate this page",
+  "link": "https://laodong.vn/cong-nghe/youtube-mo-rong-cong-cu-phat-hien-deepfake-giup-nguoi-sang-tao-bao-ve-hinh-anh-ca-nhan-1596203.ldo",
+  "domain": "laodong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=laodong.vn"
+}
+,{
+  "type": "link",
+  "title": "Kết nối cả nhà bằng nhóm gia đình",
+  "desc": "Kết nối cả nhà bằng nhóm gia đình\n\nGoogle Families\nhttps://families.google › families\n·\nTranslate this page",
+  "link": "https://families.google/intl/vi/families/",
+  "domain": "families.google",
+  "favicon": "https://www.google.com/s2/favicons?domain=families.google"
+}
+,{
+  "type": "link",
+  "title": "Google AdSense – Kiếm tiền từ trang web bằng tính năng ...",
+  "desc": "Google AdSense – Kiếm tiền từ trang web bằng tính năng ...\n\nGoogle AdSense\nhttps://adsense.google.com › start\n·\nTranslate this page",
+  "link": "https://adsense.google.com/intl/vi_vn/start/",
+  "domain": "adsense.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=adsense.google.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube ra mắt bộ hẹn giờ giúp bạn “cai” Shorts",
+  "desc": "YouTube ra mắt bộ hẹn giờ giúp bạn “cai” Shorts\n\nMinh Tuấn Mobile\nhttps://minhtuanmobile.com › tin-tuc\n·\nTranslate this page",
+  "link": "https://minhtuanmobile.com/tin-tuc/youtube-ra-mat-bo-hen-gio-giup-ban-cai-shorts/",
+  "domain": "minhtuanmobile.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=minhtuanmobile.com"
+}
+,{
+  "type": "link",
+  "title": "VieON - TẢI APP, XEM PHIM ĐỘC QUYỀN",
+  "desc": "VieON - TẢI APP, XEM PHIM ĐỘC QUYỀN\n\nYouTube · VieON - TẢI APP, XEM PHIM ĐỘC QUYỀN\n511K+ followers",
+  "link": "https://www.youtube.com/channel/UCgRsCneg3qJi3sONZF69WjA",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Chính sách bảo mật – Bảo mật và Điều khoản – Google",
+  "desc": "Chính sách bảo mật – Bảo mật và Điều khoản – Google\n\nGoogle\nhttps://policies.google.com › privacy\n·\nTranslate this page",
+  "link": "https://policies.google.com/privacy?hl=vi",
+  "domain": "policies.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=policies.google.com"
+}
+,{
+  "type": "link",
+  "title": "Le Trung Khoa",
+  "desc": "Le Trung Khoa\n\nFacebook · Le Trung Khoa\n620+ reactions · 18 hours ago",
+  "link": "https://www.facebook.com/le.t.khoa.1/posts/ai-%C4%91%C6%B0%E1%BB%A3c-l%C3%B2ng-d%C3%A2n-ai-m%E1%BA%A5t-%C4%91i%E1%BB%83m-kh%E1%BA%A3o-s%C3%A1t-g%C3%A2y-ch%E1%BA%A5n-%C4%91%E1%BB%99ng-tr%C3%AAn-m%E1%BA%A1ng-x%C3%A3-h%E1%BB%99i-facebook-1-/10240532242671571/",
+  "domain": "www.facebook.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com"
+}
+,{
+  "type": "link",
+  "title": "So sánh ba gói cước MyTV cho ba phong cách giải trí cá ...",
+  "desc": "So sánh ba gói cước MyTV cho ba phong cách giải trí cá ...\n\nVNPT\nhttps://vnpt.com.vn › tin-tuc › so-...\n·\nTranslate this page",
+  "link": "https://vnpt.com.vn/tin-tuc/so-sanh-ba-goi-cuoc-mytv-cho-ba-phong-cach-giai-tri-ca-nhan-chon-dung-gu-ban.html",
+  "domain": "vnpt.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vnpt.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Sử dụng YouTube Tìm kiếm - Cách YouTube hoạt động",
+  "desc": "Sử dụng YouTube Tìm kiếm - Cách YouTube hoạt động\n\nYouTube\nhttps://www.youtube.com › search\n·\nTranslate this page",
+  "link": "https://www.youtube.com/intl/ALL_vn/howyoutubeworks/product-features/search/",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Xem truyền hình trực tuyến, TV Online VTV3, video trên ...",
+  "desc": "Xem truyền hình trực tuyến, TV Online VTV3, video trên ...\n\nVTV.vn\nhttps://vtv.vn › vtv3\n·\nTranslate this page",
+  "link": "https://vtv.vn/truyen-hinh-truc-tuyen/vtv3.htm",
+  "domain": "vtv.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vtv.vn"
+}
+,{
+  "type": "link",
+  "title": "Lằn ranh cho AI khi sáng tạo nghệ thuật?",
+  "desc": "Lằn ranh cho AI khi sáng tạo nghệ thuật?\n\nBáo Dân Tộc\nhttps://baodantoc.vn › lan-ranh-ch...\n·\nTranslate this page",
+  "link": "https://baodantoc.vn/lan-ranh-cho-ai-khi-sang-tao-nghe-thuat-1761117764651.htm",
+  "domain": "baodantoc.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baodantoc.vn"
+}
+,{
+  "type": "link",
+  "title": "CGV Cinemas Vietnam | Thông tin - Lịch chiếu - Hệ thống rạp ...",
+  "desc": "CGV Cinemas Vietnam | Thông tin - Lịch chiếu - Hệ thống rạp ...\n\nCgv.vn\nhttps://www.cgv.vn\n·\nTranslate this page",
+  "link": "https://www.cgv.vn/",
+  "domain": "www.cgv.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.cgv.vn"
+}
+,{
+  "type": "link",
+  "title": "Phát Triển Kênh Social (Tiktok/Youtube) (Hybrid)",
+  "desc": "Phát Triển Kênh Social (Tiktok/Youtube) (Hybrid)\n\nTopCV\nhttps://www.topcv.vn › viec-lam\n·\nTranslate this page",
+  "link": "https://www.topcv.vn/viec-lam/phat-trien-kenh-social-tiktok-youtube-hybrid/1918617.html",
+  "domain": "www.topcv.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.topcv.vn"
+}
+,{
+  "type": "link",
+  "title": "HTV - Đài Hà Nội",
+  "desc": "HTV - Đài Hà Nội\n\nYouTube · HTV - Đài Hà Nội\n1.7M+ followers",
+  "link": "https://www.youtube.com/channel/UC7_mgS3z22z0WhR7COJ8E2w",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Cách khắc phục YouTube bị lỗi không vào xem được hiệu ...",
+  "desc": "Cách khắc phục YouTube bị lỗi không vào xem được hiệu ...\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › ca...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/kinh-nghiem-hay/cach-khac-phuc-youtube-bi-loi-khong-vao-xem-duoc-h-1228707?srsltid=AfmBOooOydFFIzOAgUYLxO3tHqoAxwQHM4NSLzP6BOxwosrTPhxC9Zm1",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Cách khắc phục YouTube bị lỗi không vào xem được hiệu ...\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › ca...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/kinh-nghiem-hay/cach-khac-phuc-youtube-bi-loi-khong-vao-xem-duoc-h-1228707",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "Tiêm Botox làm đẹp và điều trị các bệnh lý thần kinh",
+  "desc": "Tiêm Botox làm đẹp và điều trị các bệnh lý thần kinh\n\nBệnh viện Đa khoa Tâm Anh\nhttps://tamanhhospital.vn › live › t...\n·\nTranslate this page",
+  "link": "https://tamanhhospital.vn/live/tiem-botox-lam-dep-va-dieu-tri-cac-benh-ly-than-kinh/",
+  "domain": "tamanhhospital.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tamanhhospital.vn"
+}
+,{
+  "type": "link",
+  "title": "VNPT: Tập đoàn Bưu chính Viễn thông Việt Nam",
+  "desc": "VNPT: Tập đoàn Bưu chính Viễn thông Việt Nam\n\nVNPT\nhttps://vnpt.com.vn\n·\nTranslate this page",
+  "link": "https://vnpt.com.vn/",
+  "domain": "vnpt.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vnpt.com.vn"
+}
+,{
+  "type": "link",
+  "title": "THVL1 HD",
+  "desc": "THVL1 HD\n\nTHVLi\nhttps://www.thvli.vn › live › thvl1...\n·\nTranslate this page",
+  "link": "https://www.thvli.vn/live/thvl1-hd",
+  "domain": "www.thvli.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.thvli.vn"
+}
+,{
+  "type": "link",
+  "title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+  "desc": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất\n\nVnExpress\nhttps://vnexpress.net\n·\nTranslate this page",
+  "link": "https://vnexpress.net/",
+  "domain": "vnexpress.net",
+  "favicon": "https://www.google.com/s2/favicons?domain=vnexpress.net"
+}
+,{
+  "type": "link",
+  "title": "Bác sĩ Nguyên",
+  "desc": "Bác sĩ Nguyên\n\nYouTube · Bác sĩ Nguyên\n308K+ followers",
+  "link": "https://www.youtube.com/channel/UCpioI4aMUNdhLXgqe5oOVXw",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Kết quả Cuộc thi video du lịch \"Việt Nam: Đi để yêu!\"",
+  "desc": "Kết quả Cuộc thi video du lịch \"Việt Nam: Đi để yêu!\"\n\nBáo Nhân Dân điện tử\nhttps://nhandan.vn › ket-qua-cuoc-t...\n·\nTranslate this page",
+  "link": "https://nhandan.vn/ket-qua-cuoc-thi-sang-tao-video-du-lich-viet-nam-di-de-yeu-post916024.html",
+  "domain": "nhandan.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=nhandan.vn"
+}
+,{
+  "type": "link",
+  "title": "Vì sao Sun Group Nha Trang được xem là tâm điểm đầu tư ...",
+  "desc": "Vì sao Sun Group Nha Trang được xem là tâm điểm đầu tư ...\n\nBáo Thanh Hóa\nhttps://baothanhhoa.vn › vi-sao-sun...\n·\nTranslate this page",
+  "link": "https://baothanhhoa.vn/vi-sao-sun-group-nha-trang-duoc-xem-la-tam-diem-dau-tu-2025-265639.htm",
+  "domain": "baothanhhoa.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baothanhhoa.vn"
+}
+,{
+  "type": "link",
+  "title": "Học online - Hệ thống Giáo dục Tenschool.vn",
+  "desc": "Học online - Hệ thống Giáo dục Tenschool.vn\n\nTenschool.vn\nhttps://tenschool.vn\n·\nTranslate this page",
+  "link": "https://tenschool.vn/",
+  "domain": "tenschool.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tenschool.vn"
+}
+,{
+  "type": "link",
+  "title": "Theo dõi, trạng thái phát hàng cho các lô hàng ... - DHL Express",
+  "desc": "Theo dõi, trạng thái phát hàng cho các lô hàng ... - DHL Express\n\nMyDHL.DHL.com\nhttps://mydhl.express.dhl › tracking\n·\nTranslate this page",
+  "link": "https://mydhl.express.dhl/vn/vi/tracking.html",
+  "domain": "mydhl.express.dhl",
+  "favicon": "https://www.google.com/s2/favicons?domain=mydhl.express.dhl"
+}
+,{
+  "type": "link",
+  "title": "Giới thiệu Gemini, trợ lý AI cá nhân mới của bạn",
+  "desc": "Giới thiệu Gemini, trợ lý AI cá nhân mới của bạn\n\nGoogle Gemini\nhttps://gemini.google › assistant\n·\nTranslate this page",
+  "link": "https://gemini.google/vn/assistant/?hl=vi",
+  "domain": "gemini.google",
+  "favicon": "https://www.google.com/s2/favicons?domain=gemini.google"
+}
+,{
+  "type": "link",
+  "title": "Đồng hồ thông minh | Smartwatch giá rẻ, Góp 0%, Có thu cũ",
+  "desc": "Đồng hồ thông minh | Smartwatch giá rẻ, Góp 0%, Có thu cũ\n\nCellphoneS\nhttps://cellphones.com.vn › do-ch...\n·\nTranslate this page",
+  "link": "https://cellphones.com.vn/do-choi-cong-nghe.html",
+  "domain": "cellphones.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=cellphones.com.vn"
+}
+,{
+  "type": "link",
+  "title": "xr projected | Jetpack",
+  "desc": "xr projected | Jetpack\n\nAndroid Developers\nhttps://developer.android.com › xr...\n·\nTranslate this page",
+  "link": "https://developer.android.com/jetpack/androidx/releases/xr-projected?hl=vi",
+  "domain": "developer.android.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=developer.android.com"
+}
+,{
+  "type": "link",
+  "title": "Dầu cá Omega-3 có lợi ích bất ngờ đến răng miệng",
+  "desc": "Dầu cá Omega-3 có lợi ích bất ngờ đến răng miệng\n\nBáo Thanh Niên\nhttps://thanhnien.vn › ... › Sức khỏe\n·\nTranslate this page",
+  "link": "https://thanhnien.vn/phat-hien-moi-dau-ca-omega-3-co-loi-ich-bat-ngo-den-rang-mieng-185251022223211091.htm",
+  "domain": "thanhnien.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thanhnien.vn"
+}
+,{
+  "type": "link",
+  "title": "Đơn giản hóa thủ tục mua lại cổ phiếu của Bộ Tài chính",
+  "desc": "Đơn giản hóa thủ tục mua lại cổ phiếu của Bộ Tài chính\n\nVnEconomy\nhttps://vneconomy.vn › doanh-nghi...\n·\nTranslate this page",
+  "link": "https://vneconomy.vn/doanh-nghiep-dai-chung-duoc-chu-dong-mua-lai-co-phieu-khong-can-cho-uy-ban-chung-khoan-xem-xet.htm",
+  "domain": "vneconomy.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vneconomy.vn"
+}
+,{
+  "type": "link",
+  "title": "Từ Tiêm Phòng, Dinh Dưỡng & Chăm Sóc Thai Kỳ Toàn Diện",
+  "desc": "Từ Tiêm Phòng, Dinh Dưỡng & Chăm Sóc Thai Kỳ Toàn Diện\n\nBệnh viện Đa khoa Tâm Anh\nhttps://tamanhhospital.vn › live\n·\nTranslate this page",
+  "link": "https://tamanhhospital.vn/live/hanh-trinh-me-tron-con-vuong-tu-tiem-phong-dinh-duong-cham-soc-thai-ky-toan-dien/",
+  "domain": "tamanhhospital.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tamanhhospital.vn"
+}
+,{
+  "type": "link",
+  "title": "Những cảnh báo sớm cần đưa trẻ đi khám mắt, nếu không ...",
+  "desc": "Những cảnh báo sớm cần đưa trẻ đi khám mắt, nếu không ...\n\nBáo Người Lao Động\nhttps://nld.com.vn › Sức khỏe\n·\nTranslate this page",
+  "link": "https://nld.com.vn/nhung-canh-bao-som-can-dua-tre-di-kham-mat-neu-khong-se-hoi-han-19625102314370596.htm",
+  "domain": "nld.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=nld.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Ca sĩ Khánh Thy: “Mỗi khán giả sẽ gọi album của tôi bằng ...",
+  "desc": "Ca sĩ Khánh Thy: “Mỗi khán giả sẽ gọi album của tôi bằng ...\n\nBáo Kinh tế đô thị\nhttps://kinhtedothi.vn › Văn hóa\n·\nTranslate this page",
+  "link": "https://kinhtedothi.vn/ca-si-khanh-thy-moi-khan-gia-se-goi-album-cua-toi-bang-cam-xuc-rieng.885244.html",
+  "domain": "kinhtedothi.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=kinhtedothi.vn"
+}
+,{
+  "type": "link",
+  "title": "Myanmar đột kích ổ lừa đảo trực tuyến khét tiếng, bắt giữ ...",
+  "desc": "Myanmar đột kích ổ lừa đảo trực tuyến khét tiếng, bắt giữ ...\n\nBáo VietNamNet\nhttps://vietnamnet.vn › Công nghệ › An ninh mạng",
+  "link": "https://vietnamnet.vn/quan-doi-myanmar-dot-kich-o-lua-dao-khet-tieng-bat-giu-hon-2-000-nguoi-2454823.html",
+  "domain": "vietnamnet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vietnamnet.vn"
+}
+,{
+  "type": "link",
+  "title": "YouTube History",
+  "desc": "YouTube History\n\nYouTube\nhttps://www.youtube.com › feed › history",
+  "link": "https://www.youtube.com/feed/history",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "xem full phần trên Youtube: xuyên không 1000 năm giúp ...",
+  "desc": "xem full phần trên Youtube: xuyên không 1000 năm giúp ...\n\nTikTok · kevodanh.3\n74K+ views · 1 day ago",
+  "link": "https://www.tiktok.com/@kevodanh.3/video/7563970517338901778",
+  "domain": "www.tiktok.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.tiktok.com"
+}
+,{
+  "type": "link",
+  "title": "Xiaomi Redmi Note 14 giá rẻ | Bảo hành 18 tháng, góp 0%",
+  "desc": "Xiaomi Redmi Note 14 giá rẻ | Bảo hành 18 tháng, góp 0%\n\nCellphoneS\nhttps://cellphones.com.vn › dien-t...\n·\nTranslate this page",
+  "link": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-14.html",
+  "domain": "cellphones.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=cellphones.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Tivi giá rẻ, Smart TV 4K, OLED, QLED",
+  "desc": "Tivi giá rẻ, Smart TV 4K, OLED, QLED\n\nSiêu Thị Điện Máy Chợ Lớn\nhttps://dienmaycholon.com › tivi\n·\nTranslate this page",
+  "link": "https://dienmaycholon.com/tivi",
+  "domain": "dienmaycholon.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=dienmaycholon.com"
+}
+,{
+  "type": "link",
+  "title": "Hướng Dẫn Chọn Trình Duyệt Xem Video YouTube Trên ...",
+  "desc": "Hướng Dẫn Chọn Trình Duyệt Xem Video YouTube Trên ...\n\nTikTok · Phương Đi Xe Điện\n5.4K+ views · 5 days ago",
+  "link": "https://www.tiktok.com/@votinh1993vn/video/7562290558031416584",
+  "domain": "www.tiktok.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.tiktok.com"
+}
+,{
+  "type": "link",
+  "title": "Kenh YouTV",
+  "desc": "Kenh YouTV\n\nYouTube · Kenh YouTV\n579K+ followers",
+  "link": "https://www.youtube.com/c/KenhYouTV",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "- YouTube",
+  "desc": "- YouTube\n\nYouTube\nhttps://www.youtube.com › feed › you",
+  "link": "https://www.youtube.com/feed/you",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "[xXx]🌶🌶)* xem phim xxx XXX Sex Xnxx Viral Porn ...",
+  "desc": "[xXx]🌶🌶)* xem phim xxx XXX Sex Xnxx Viral Porn ...\n\nFederal Bar Association\nhttps://www.fedbar.org › uploads › formidable\nPDF",
+  "link": "https://www.fedbar.org/wp-content/uploads/formidable/25/alq4cul7.pdf",
+  "domain": "www.fedbar.org",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.fedbar.org"
+}
+,{
+  "type": "link",
+  "title": "video",
+  "desc": "video\n\nYouTube · YouTube\n44.1M+ followers",
+  "link": "https://www.youtube.com/user/YouTube",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Movies & TV",
+  "desc": "Movies & TV\n\nYouTube\nhttps://www.youtube.com › feed › storefront",
+  "link": "https://www.youtube.com/feed/storefront",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "PHƯƠNG NY Official",
+  "desc": "PHƯƠNG NY Official\n\nYouTube · PHƯƠNG NY Official\n6K+ followers",
+  "link": "https://www.youtube.com/channel/UCqlxfOxTkuzPPVeualJdoGw",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Chuyện Thỏ Đần",
+  "desc": "Chuyện Thỏ Đần\n\nYouTube · Chuyện Thỏ Đần\n8.9K+ followers",
+  "link": "https://www.youtube.com/channel/UCH1GX1uymq1HXZP6AWstOYg",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "GMA Integrated News",
+  "desc": "GMA Integrated News\n\nYouTube · GMA Integrated News\n17.5M+ followers",
+  "link": "https://www.youtube.com/channel/UCqYw-CTd1dU2yGI71sEyqNw",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Home",
+  "desc": "Home\n\nYouTube\nhttps://www.youtube.com › feed",
+  "link": "https://www.youtube.com/feed",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Home",
+  "desc": "Home\n\nYouTube\nhttps://www.youtube.com › ...",
+  "link": "https://www.youtube.com/index?desktop_uri=%2F&app=desktop",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Přihlásit se",
+  "desc": "Přihlásit se\n\nYouTube\nhttps://www.youtube.com › ...\n·\nTranslate this page",
+  "link": "https://www.youtube.com/?hl=cs&gl=CZ&app=desktop",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "YouTube\n\nYouTube\nhttps://www.youtube.com › user › YouTube › videos",
+  "link": "https://www.youtube.com/user/YouTube/videos?app=desktop",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "YouTube\n\nYouTube\nhttps://www.youtube.com › ...\n·\nTranslate this page",
+  "link": "https://www.youtube.com/?app=desktop&hl=id&gl=id",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Ái Vân Trần",
+  "desc": "Ái Vân Trần\n\nYouTube\nhttps://www.youtube.com › channel\n·\nTranslate this page",
+  "link": "https://www.youtube.com/channel/UCxq-z9a0aYv_jK0I4zVrNOQ",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "YouTube\n\nYouTube\nhttps://www.youtube.com › ...\n·\nTranslate this page",
+  "link": "https://www.youtube.com/?hl=es-419",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "LT_ngocc",
+  "desc": "LT_ngocc\n\nYouTube\nhttps://www.youtube.com › channel",
+  "link": "https://www.youtube.com/channel/UCCsLY50pZpMs-ZNIqKAw_SQ",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Dung Tran thi dung",
+  "desc": "Dung Tran thi dung\n\nYouTube\nhttps://www.youtube.com › channel › UCl8_VOkUePXe...",
+  "link": "https://www.youtube.com/channel/UCl8_VOkUePXeHjlAyXHyyog",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Cuc Huynh Thi Hong",
+  "desc": "Cuc Huynh Thi Hong\n\nYouTube\nhttps://www.youtube.com › channel",
+  "link": "https://www.youtube.com/channel/UCWtmy0OyBtLuMNKZpNsKekg",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "YouTube\n\nYouTube\nhttps://www.youtube.com › ...\n·\nTranslate this page",
+  "link": "https://www.youtube.com/?gl=MX&hl=es",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "YouTube\n\nYouTube\nhttps://www.youtube.com › ...",
+  "link": "https://www.youtube.com/;",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "首頁",
+  "desc": "首頁\n\nYouTube\nhttps://www.youtube.com › ...\n·\nTranslate this page",
+  "link": "https://www.youtube.com/index?app=desktop&desktop_uri=%2F%3Fgl%3DTW%26hl%3Dzh-TW&hl=zh-TW&gl=TW",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Coba telusuri untuk memulai",
+  "desc": "Coba telusuri untuk memulai\n\nYouTube\nhttps://www.youtube.com › ...\n·\nTranslate this page",
+  "link": "https://www.youtube.com/?app=desktop&hl=ID",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "YouTube",
+  "desc": "YouTube\n\nYouTube\nhttps://m.youtube.com › ...\n·\nTranslate this page",
+  "link": "https://m.youtube.com/?hl=th&gl=TH",
+  "domain": "m.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=m.youtube.com"
+}
 
 
 
