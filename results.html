@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>Kết quả tìm kiếm</title>
-  <link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="style.css" />  
   <style>
     .load-more-container {
       text-align: center;
@@ -24,14 +24,12 @@
   </style>
 </head>
 <body class="srp">
-  <!-- HEADER -->
   <header class="search-header">
     <form class="header-search-bar" onsubmit="return search()">
       <div class="header-logo" onclick="window.location='index.html'">Tìm Kiếm</div>
       <input type="text" id="searchBox" placeholder="Nhập từ khóa..." />
       <button type="submit">🔍</button>
     </form>
-    <!-- NAVIGATION TABS -->
     <nav class="tabs">
       <button class="tab active" data-type="all">Tất cả</button>
       <button class="tab" data-type="image">Hình ảnh</button>
@@ -39,7 +37,6 @@
     </nav>
   </header>
 
-  <!-- KẾT QUẢ -->
   <div class="results-container" id="resultsContainer"></div>
   <div class="load-more-container" id="loadMoreContainer" style="display:none;">
     <button class="load-more-btn" id="loadMoreBtn">Thêm kết quả</button>
@@ -60,7 +57,7 @@
         tabs.forEach(t => t.classList.remove('active'));
         tab.classList.add('active');
         currentType = tab.getAttribute('data-type');
-        visibleCount = 20; // reset khi chuyển tab
+        visibleCount = 20;
         loadResults();
       });
     });
@@ -73,18 +70,43 @@
       return false;
     }
 
+    // === HÀM CẢI TIẾN ===
     function loadResults() {
       const fileMap = { all: 'data.json', image: 'image.json', video: 'video.json' };
       fetch(fileMap[currentType])
         .then(res => res.json())
         .then(data => {
-          allResults = data.filter(item =>
-            (item.title || '').toLowerCase().includes(query.toLowerCase()) ||
-            (item.desc || '').toLowerCase().includes(query.toLowerCase()) ||
-            (item.domain || '').toLowerCase().includes(query.toLowerCase())
-          );
+          const keyword = query.toLowerCase().trim();
+          const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const regex = new RegExp(`\\b${safeKeyword}\\b`, 'i');
+          const regexStart = new RegExp(`^${safeKeyword}\\b`, 'i');
+          const regexExact = new RegExp(`^${safeKeyword}$`, 'i');
+
+          allResults = data
+            .map(item => {
+              const title = (item.title || '').toLowerCase().trim();
+              const desc = (item.desc || '').toLowerCase();
+              const domain = (item.domain || '').toLowerCase();
+              let score = 0;
+
+              // === ĐÁNH GIÁ ĐỘ LIÊN QUAN ===
+              // Ưu tiên tiêu đề khớp chính xác hoặc bắt đầu bằng từ khóa
+              if (regexExact.test(title)) score += 100; // chính xác 100%
+              else if (regexStart.test(title)) score += 60; // bắt đầu bằng từ khóa
+              else if (regex.test(title)) score += 30; // chứa từ khóa
+              
+              // Mô tả và domain ít quan trọng hơn
+              if (regex.test(desc)) score += 10;
+              if (regex.test(domain)) score += 5;
+
+              return { ...item, score };
+            })
+            .filter(item => item.score > 0)
+            .sort((a, b) => b.score - a.score);
+
           renderResults();
-        });
+        })
+        .catch(err => console.error('Lỗi tải dữ liệu:', err));
     }
 
     function renderResults() {
@@ -145,12 +167,7 @@
         `).join('');
       }
 
-      // Hiện nút “Thêm kết quả” nếu còn nhiều kết quả khác
-      if (visibleCount < allResults.length) {
-        loadMoreContainer.style.display = 'block';
-      } else {
-        loadMoreContainer.style.display = 'none';
-      }
+      loadMoreContainer.style.display = visibleCount < allResults.length ? 'block' : 'none';
     }
 
     document.getElementById('loadMoreBtn').addEventListener('click', () => {
@@ -174,4 +191,3 @@
   </script>
 </body>
 </html>
-

@@ -1,43 +1,304 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <title>Trang tìm kiếm</title>
-  <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<title>Trang tìm kiếm</title>
+<link rel="stylesheet" href="style.css" />
+<style>
+body { font-family: sans-serif; margin: 0; padding: 0; background:#f9f9f9; }
+
+.home-container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+.home-logo { font-size: 2em; margin-bottom: 10px; text-align:center; }
+
+.home-search-bar { display: flex; margin-bottom: 10px; position: relative; }
+.home-search-bar input { flex: 1; padding: 10px; font-size: 1em; }
+.home-search-bar button { padding: 10px; font-size:1em; cursor:pointer; }
+
+.home-buttons { margin-bottom: 10px; display:flex; justify-content:center; }
+.home-buttons button { margin-right: 5px; padding: 6px 12px; cursor: pointer; }
+
+.news-container-wrapper {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
+.news-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.news-title { font-weight: bold; font-size: 1.2em; }
+.hide-btn, .show-btn {
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 2px 6px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.show-btn { position: fixed; bottom: 10px; right: 10px; display: none; z-index: 1000; }
+
+/* ===== DESKTOP ===== */
+.news-container {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding-bottom: 10px;
+}
+
+.news-item {
+  flex: 0 0 250px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #fff;
+  overflow: hidden;
+  min-width: 200px;
+}
+
+.news-item img { width: 100%; height: 140px; object-fit: cover; }
+.news-content { padding: 10px; }
+.news-content a { display: block; font-weight: bold; text-decoration: none; color: #1a0dab; margin-bottom: 5px; }
+.news-content span { font-size: 0.8em; color: #555; }
+
+.news-container::-webkit-scrollbar { height: 6px; }
+.news-container::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.3); border-radius: 3px; }
+
+.suggestions-box {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 100;
+}
+.suggestion-item {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.suggestion-item:hover { background: #f0f0f0; }
+
+/* ===== MOBILE ===== */
+@media(max-width: 768px){
+  body { font-size: 16px; }
+  .home-container { padding: 15px; }
+  .home-logo { font-size: 2.2em; margin-bottom: 20px; }
+
+  .home-search-bar { flex-direction: column; gap: 10px; }
+  .home-search-bar input,
+  .home-search-bar button {
+    width: 100%;
+    font-size: 1.3em;
+    padding: 14px;
+  }
+
+  .home-buttons button {
+    width: 100%;
+    font-size: 1.2em;
+    padding: 12px;
+    margin-bottom: 10px;
+  }
+
+  /* Tin tức xếp dọc full-width, scroll dọc */
+  .news-container {
+    display: block !important;
+  }
+  .news-item {
+    width: 100% !important;
+    flex: none !important;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  .news-item img {
+    width: 100% !important;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+  }
+  .news-content a { font-size: 1.2em; font-weight: bold; }
+  .news-content span { font-size: 1em; color: #555; }
+}
+</style>
+
 </head>
-<body class="home">
-  <div class="home-container">
-    <div class="home-logo">zozi</div>
+<body>
+<div class="home-container">
+  <div class="home-logo">Tìm Kiếm</div>
 
-    <form class="home-search-bar" onsubmit="return search()">
-      <span class="search-icon">🔍</span>
-      <input type="text" id="searchInput" placeholder="Nhập từ khóa tìm kiếm..." autocomplete="off">
-    </form>
+  <form class="home-search-bar" onsubmit="return search()">
+    <input type="text" id="searchInput" placeholder="Nhập từ khóa tìm kiếm..." autocomplete="off" oninput="showSuggestions()">
+    <button type="submit">🔍</button>
+    <div id="suggestions" class="suggestions-box"></div>
+  </form>
 
-    <div class="home-buttons">
-      <button type="button" onclick="search()">Tìm kiếm</button>
-      <button type="button" onclick="randomSearch()">Tôi cảm thấy may mắn 🍀</button>
-    </div>
+  <div class="home-buttons">
+    <button onclick="randomSearch()">Ramdom 🍀</button>
   </div>
 
-  <script>
-    function search() {
-      const q = document.getElementById('searchInput').value.trim();
-      if (q) {
-        window.location.href = `results.html?q=${encodeURIComponent(q)}`;
-      }
-      return false;
-    }
+  <div class="news-container-wrapper" id="newsWrapper">
+    <div class="news-header">
+      <span class="news-title">Tin tức</span>
+      <button class="hide-btn" onclick="hideNews()">✕ Ẩn</button>
+    </div>
+    <div class="news-container" id="newsContainer"></div>
+  </div>
 
-    function randomSearch() {
-      fetch('data.json')
-        .then(res => res.json())
-        .then(data => {
-          const item = data[Math.floor(Math.random() * data.length)];
-          if (item && item.link) window.open(item.link, '_blank');
-        });
+  <button class="show-btn" id="showNewsBtn" onclick="showNews()">Hiện tin</button>
+</div>
+
+<script>
+const RSS_FEEDS = {
+  latest: 'https://vnexpress.net/rss/tin-moi-nhat.rss',
+  sports: 'https://vnexpress.net/rss/the-thao.rss',
+  entertainment: 'https://vnexpress.net/rss/giai-tri.rss'
+};
+
+function search() {
+  const q = document.getElementById('searchInput').value.trim();
+  if(q) window.location.href = `results.html?q=${encodeURIComponent(q)}`;
+  return false;
+}
+
+function randomSearch() {
+  fetch('data.json')
+    .then(res => res.json())
+    .then(data => {
+      const item = data[Math.floor(Math.random()*data.length)];
+      if(item && item.link) window.open(item.link,'_blank');
+    });
+}
+
+let currentFeedKey = 'latest';
+let allItems = [];
+let loadedCount = 0;
+const ITEMS_PER_BATCH = 5;
+
+function loadRSS(feedKey){
+  if(feedKey) { currentFeedKey = feedKey; allItems = []; loadedCount = 0; }
+  const feedUrl = RSS_FEEDS[currentFeedKey];
+  const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}`;
+
+  fetch(proxyUrl)
+    .then(res=>res.json())
+    .then(data=>{
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(data.contents,"text/xml");
+      allItems = Array.from(xmlDoc.querySelectorAll("item"));
+      document.getElementById('newsContainer').innerHTML='';
+      loadNextBatch();
+    }).catch(err=>console.error(err));
+}
+
+function loadNextBatch(){
+  const container = document.getElementById('newsContainer');
+  const nextItems = allItems.slice(loadedCount, loadedCount + ITEMS_PER_BATCH);
+  nextItems.forEach(item=>{
+    const title = item.querySelector("title")?.textContent || "(Không có tiêu đề)";
+    const link = item.querySelector("link")?.textContent || "#";
+    const pubDate = item.querySelector("pubDate")?.textContent || "";
+    let img = "";
+    const enclosure = item.querySelector("enclosure");
+    const media = item.querySelector("media\\:content, content");
+    if(enclosure) img = enclosure.getAttribute("url");
+    else if(media) img = media.getAttribute("url");
+    else img = "https://via.placeholder.com/250x140?text=No+Image";
+
+    const div = document.createElement("div");
+    div.className = "news-item";
+    div.innerHTML = `
+      <img src="${img}" alt="${title}">
+      <div class="news-content">
+        <a href="${link}" target="_blank">${title}</a>
+        <span>${pubDate}</span>
+      </div>
+    `;
+    container.appendChild(div);
+  });
+  loadedCount += nextItems.length;
+}
+
+// Scroll listener để load thêm tin khi kéo hết
+const newsContainer = document.getElementById('newsContainer');
+newsContainer.addEventListener('wheel', (e)=>{
+  e.preventDefault();
+  if(window.innerWidth > 768){
+    newsContainer.scrollLeft += e.deltaY;
+  } else {
+    newsContainer.scrollTop += e.deltaY;
+  }
+});
+newsContainer.addEventListener('scroll', ()=>{
+  if(window.innerWidth > 768){
+    if(newsContainer.scrollLeft + newsContainer.clientWidth >= newsContainer.scrollWidth - 5){
+      loadNextBatch();
     }
-  </script>
+  } else {
+    if(newsContainer.scrollTop + newsContainer.clientHeight >= newsContainer.scrollHeight - 5){
+      loadNextBatch();
+    }
+  }
+});
+
+// Nút ẩn/hiện
+function hideNews(){
+  document.getElementById('newsWrapper').style.display='none';
+  document.getElementById('showNewsBtn').style.display='block';
+}
+function showNews(){
+  document.getElementById('newsWrapper').style.display='block';
+  document.getElementById('showNewsBtn').style.display='none';
+}
+
+// --- Gợi ý tìm kiếm ---
+let jsonData = [];
+fetch('data.json')
+  .then(res => res.json())
+  .then(data => { jsonData = data; })
+  .catch(err => console.error('Không tải được data.json:', err));
+
+function showSuggestions() {
+  const input = document.getElementById('searchInput').value.toLowerCase();
+  const suggestionsBox = document.getElementById('suggestions');
+  suggestionsBox.innerHTML = '';
+  if (!input) return;
+
+  const matches = jsonData.filter(item => item.title.toLowerCase().includes(input)).slice(0, 10);
+  matches.forEach(item => {
+    const div = document.createElement('div');
+    div.className = 'suggestion-item';
+    div.textContent = item.title;
+    div.onclick = () => {
+      document.getElementById('searchInput').value = item.title;
+      suggestionsBox.innerHTML = '';
+    };
+    suggestionsBox.appendChild(div);
+  });
+}
+
+// Ẩn gợi ý khi click ngoài
+document.addEventListener('click', function(e){
+  const input = document.getElementById('searchInput');
+  const box = document.getElementById('suggestions');
+  if(!input.contains(e.target) && !box.contains(e.target)){
+    box.innerHTML = '';
+  }
+});
+
+// Tự load tin khi vào web
+window.addEventListener('DOMContentLoaded', ()=>{
+  loadRSS('latest');
+});
+</script>
 </body>
 </html>
-
