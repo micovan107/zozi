@@ -29712,9 +29712,3054 @@
   "link": "https://www.bachhoaxanh.com/nuoc-mam-nam-ngu",
   "domain": "www.bachhoaxanh.com",
   "favicon": "https://www.google.com/s2/favicons?domain=www.bachhoaxanh.com"
+},
+  {
+    "type": "link",
+    "title": "Đăng ký",
+    "desc": "Trang chủ",
+    "link": "https://lazi.vn/users/register",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đăng nhập",
+    "desc": "Trang chủ",
+    "link": "https://lazi.vn/users/login",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Gửi câu hỏi",
+    "desc": "Trang chủ",
+    "link": "https://lazi.vn/edu/gui_bai_tap",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trang chủ",
+    "desc": "Trang chủ",
+    "link": "https://lazi.vn/",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Giải bài tập Online",
+    "desc": "Giải bài tập Online",
+    "link": "https://lazi.vn/edu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Dịch thuật",
+    "desc": "Dịch thuật",
+    "link": "https://lazi.vn/translate",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "LAZI Confessions",
+    "desc": "LAZI Confessions",
+    "link": "https://lazi.vn/talk",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Flashcard - Học & Chơi",
+    "desc": "Flashcard - Học & Chơi",
+    "link": "https://go.lazi.vn/flashcard/all?utm_source=Lazi&utm_medium=Lazi&utm_term=flashcard&utm_campaign=Lazi",
+    "domain": "go.lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=go.lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Cộng đồng",
+    "desc": "Cộng đồng",
+    "link": "https://lazi.vn/friend",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trắc nghiệm tri thức",
+    "desc": "Trắc nghiệm tri thức",
+    "link": "https://lazi.vn/quiz",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Khảo sát ý kiến",
+    "desc": "Khảo sát ý kiến",
+    "link": "https://lazi.vn/survey",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hỏi đáp tổng hợp",
+    "desc": "Hỏi đáp tổng hợp",
+    "link": "https://lazi.vn/qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đố vui",
+    "desc": "Đố vui",
+    "link": "https://lazi.vn/fun_qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đuổi hình bắt chữ",
+    "desc": "Đuổi hình bắt chữ",
+    "link": "https://lazi.vn/dhbc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Quà tặng và trang trí",
+    "desc": "Quà tặng và trang trí",
+    "link": "https://lazi.vn/store",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Truyện",
+    "desc": "Truyện",
+    "link": "https://lazi.vn/truyen",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Thơ văn danh ngôn",
+    "desc": "Thơ văn danh ngôn",
+    "link": "https://lazi.vn/tvdn",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xem lịch",
+    "desc": "Xem lịch",
+    "link": "https://lazi.vn/today",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ca dao tục ngữ",
+    "desc": "Ca dao tục ngữ",
+    "link": "https://lazi.vn/cdtn",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xem ảnh",
+    "desc": "Xem ảnh",
+    "link": "https://lazi.vn/photo",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bản tin hướng nghiệp",
+    "desc": "Bản tin hướng nghiệp",
+    "link": "https://lazi.vn/news",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Chia sẻ hàng ngày",
+    "desc": "Chia sẻ hàng ngày",
+    "link": "https://lazi.vn/p",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng xếp hạng",
+    "desc": "Bảng xếp hạng",
+    "link": "https://lazi.vn/statistic",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng Huy hiệu",
+    "desc": "Bảng Huy hiệu",
+    "link": "https://lazi.vn/statistic/ranks",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đề thi, kiểm tra, tài liệu học tập",
+    "desc": "Đề thi, kiểm tra, tài liệu học tập",
+    "link": "https://lazi.vn/tai_lieu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xem thêm",
+    "desc": "Xem thêm",
+    "link": "https://lazi.vn/all",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học",
+    "desc": "Toán học",
+    "link": "https://lazi.vn/edu/lists/toan-hoc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Vật lý",
+    "desc": "Vật lý",
+    "link": "https://lazi.vn/edu/lists/vat-ly",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hóa học",
+    "desc": "Hóa học",
+    "link": "https://lazi.vn/edu/lists/hoa-hoc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ngữ văn",
+    "desc": "Ngữ văn",
+    "link": "https://lazi.vn/edu/lists/ngu-van",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tiếng Anh",
+    "desc": "Tiếng Anh",
+    "link": "https://lazi.vn/edu/lists/tieng-anh",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Sinh học",
+    "desc": "Sinh học",
+    "link": "https://lazi.vn/edu/lists/sinh-hoc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tin học",
+    "desc": "Tin học",
+    "link": "https://lazi.vn/edu/lists/tin-hoc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Khoa học",
+    "desc": "Khoa học",
+    "link": "https://lazi.vn/edu/lists/khoa-hoc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Mỹ thuật",
+    "desc": "Mỹ thuật",
+    "link": "https://lazi.vn/edu/lists/my-thuat",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Âm nhạc",
+    "desc": "Âm nhạc",
+    "link": "https://lazi.vn/edu/lists/am-nhac",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tiếng Việt",
+    "desc": "Tiếng Việt",
+    "link": "https://lazi.vn/edu/lists/tieng-viet",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Lập trình",
+    "desc": "Lập trình",
+    "link": "https://lazi.vn/edu/lists/lap-trinh",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xác suất thống kê",
+    "desc": "Xác suất thống kê",
+    "link": "https://lazi.vn/edu/lists/xac-suat-thong-ke",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tài chính tiền tệ",
+    "desc": "Tài chính tiền tệ",
+    "link": "https://lazi.vn/edu/lists/tai-chinh-tien-te",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Flashcard",
+    "desc": "Flashcard",
+    "link": "https://go.lazi.vn/flashcard/all?utm_source=Lazi&utm_medium=Lazi&utm_term=flashcard&utm_campaign=Lazi",
+    "domain": "go.lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=go.lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Cộng đồng",
+    "desc": "Cộng đồng",
+    "link": "https://lazi.vn/friend",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Chia sẻ hàng ngày",
+    "desc": "Chia sẻ hàng ngày",
+    "link": "https://lazi.vn/p",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Quà tặng và trang trí",
+    "desc": "Quà tặng và trang trí",
+    "link": "https://lazi.vn/store",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trắc nghiệm tri thức",
+    "desc": "Trắc nghiệm tri thức",
+    "link": "https://lazi.vn/quiz",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Khảo sát ý kiến",
+    "desc": "Khảo sát ý kiến",
+    "link": "https://lazi.vn/survey",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hỏi đáp tổng hợp",
+    "desc": "Hỏi đáp tổng hợp",
+    "link": "https://lazi.vn/qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đố vui",
+    "desc": "Đố vui",
+    "link": "https://lazi.vn/fun_qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đuổi hình bắt chữ",
+    "desc": "Đuổi hình bắt chữ",
+    "link": "https://lazi.vn/dhbc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ca dao tục ngữ",
+    "desc": "Ca dao tục ngữ",
+    "link": "https://lazi.vn/cdtn",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Thơ văn danh ngôn",
+    "desc": "Thơ văn danh ngôn",
+    "link": "https://lazi.vn/tvdn",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xem lịch",
+    "desc": "Xem lịch",
+    "link": "https://lazi.vn/today",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng xếp hạng",
+    "desc": "Bảng xếp hạng",
+    "link": "https://lazi.vn/statistic",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng Huy hiệu",
+    "desc": "Bảng Huy hiệu",
+    "link": "https://lazi.vn/statistic/ranks",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng tin hướng nghiệp",
+    "desc": "Bảng tin hướng nghiệp",
+    "link": "https://lazi.vn/news",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "GỬI CÂU HỎI",
+    "desc": "10 phút",
+    "link": "https://lazi.vn/edu/gui_bai_tap",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "LAZI Confessions - Bạn đọc viết",
+    "desc": "10 phút",
+    "link": "https://lazi.vn/talk",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trả lời nhanh trong 10 phút và nhận thưởng",
+    "desc": "10 phút",
+    "link": "https://lazi.vn/event/d/9/chinh-sach-thuong-cho-thanh-vien",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bài tập",
+    "desc": "Cấp học Đại học Cấp 3 (Trung học phổ thông) - Lớp 12 - Lớp 11 - Lớp 10 Cấp 2 (Trung học cơ sở) - Lớp 9 - Lớp 8 - Lớp 7 - Lớp 6 Cấp 1 (Tiểu học) - Lớp 5 - Lớp 4 - Lớp 3 - Lớp 2 - Lớp 1 Trình độ khác Môn học Âm nhạc Mỹ thuật Toán học Vật lý Hóa học Ngữ văn Tiếng Việt Tiếng Anh Đạo đức Khoa học Lịch sử Địa lý Sinh học Tin học Lập trình Công nghệ Giáo dục thể chất Giáo dục Công dân Giáo dục Quốc phòng và An ninh Ngoại ngữ khác Xác suất thống kê Tài chính tiền tệ Giáo dục kinh tế và pháp luật Hoạt động trải nghiệm Khoa học tự nhiên Khoa học xã hội Tự nhiên & xã hội Bằng lái xe Tổng hợp Trả lời có/chưa? Chưa trả lời Đã trả lời",
+    "link": "https://lazi.vn/edu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bài chưa trả lời",
+    "desc": "Cấp học Đại học Cấp 3 (Trung học phổ thông) - Lớp 12 - Lớp 11 - Lớp 10 Cấp 2 (Trung học cơ sở) - Lớp 9 - Lớp 8 - Lớp 7 - Lớp 6 Cấp 1 (Tiểu học) - Lớp 5 - Lớp 4 - Lớp 3 - Lớp 2 - Lớp 1 Trình độ khác Môn học Âm nhạc Mỹ thuật Toán học Vật lý Hóa học Ngữ văn Tiếng Việt Tiếng Anh Đạo đức Khoa học Lịch sử Địa lý Sinh học Tin học Lập trình Công nghệ Giáo dục thể chất Giáo dục Công dân Giáo dục Quốc phòng và An ninh Ngoại ngữ khác Xác suất thống kê Tài chính tiền tệ Giáo dục kinh tế và pháp luật Hoạt động trải nghiệm Khoa học tự nhiên Khoa học xã hội Tự nhiên & xã hội Bằng lái xe Tổng hợp Trả lời có/chưa? Chưa trả lời Đã trả lời",
+    "link": "https://lazi.vn/edu/help",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ẩn danh",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499421/viet-cac-dong-phan-cau-tao-cua-alcohol-co-cong-thuc-phan-tu-c4h8o-va-goi-ten-theo-danh-phap-thay-the",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hóa học - Lớp 11",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/lists/hoa-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Viết các đồng phân cấu tạo của alcohol có công thức phân tử C4H8O và gọi tên theo danh pháp\nthay thế",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499421/viet-cac-dong-phan-cau-tao-cua-alcohol-co-cong-thuc-phan-tu-c4h8o-va-goi-ten-theo-danh-phap-thay-the",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499421",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ẩn danh",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499420/cau-6-viet-cac-dong-phan-cau-tao-cua-alcohol-co-cong-thuc-phan-tu-c4h10o-va-goi-ten-theo-danh-phap-thay-the",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hóa học - Lớp 11",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/lists/hoa-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Câu 6. Viết các đồng phân cấu tạo của alcohol có công thức phân tử C4H10O và gọi tên theo danh pháp thay thế",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499420/cau-6-viet-cac-dong-phan-cau-tao-cua-alcohol-co-cong-thuc-phan-tu-c4h10o-va-goi-ten-theo-danh-phap-thay-the",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499420",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Anh Phạm",
+    "desc": "3",
+    "link": "https://lazi.vn/user/anh.pham2442",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ngữ văn - Lớp 8",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/lists/ngu-van/lop-8",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Viết một bài thơ ngắn(ít nhất 4 câu thơ) 7 chữ về phong cảnh quê hương\nGiúp e vs ạ,e đg cần gấp",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/exercise/2499419/viet-mot-bai-tho-ngan-it-nhat-4-cau-tho-7-chu-ve-phong-canh-que-huong-giup-e-vs-a-e-dg-can-gap",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499419",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "☭ lão_ nguyên ☭",
+    "desc": "1",
+    "link": "https://lazi.vn/user/hoang-khoi-nguyen.4",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ngữ văn - Lớp 8",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/lists/ngu-van/lop-8",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xác định ý chính, chỉ ra câu chủ đề (nếu có), cách triển khai ý và kiểu đoạn văn của mội đoạn văn dưới đây : Đoạn a, Cây cối luôn được ví là “lá phổi xanh”. Lá cây giúp che chắn các thành phần bụi bẩn, độc hại có trong không khí. Nếu không có cây xanh che bụi và các chất ô nhiễm, con người sẽ khó thở và mắc nhiều bệnh mãn tính do không khí ô nhiễm gây ra. (Theo Thu Thủy).\nĐoạn b, Chính quyền nhân dân ta vững chắc. Quân đội nhân dân ta hùng mạnh. Mặt trận dân tộc rộng rãi. Công nhân, nông dân và tri thức được rèn luyện, thử thách và tiến bộ không ngừng. Nói tóm lại, lực lượng của chúng ta to lớn và ngày càng to lớn. (Hồ Chí Minh).\nĐoạn c, Chúng thẳng tay chém giết những người yêu nước thương nòi của ta. Chúng tắm các cuộc khởi nghĩa của ta trong những bể máu. (Hồ Chí Minh). Đoạn văn này gồm những câu có quan hệ bình đẳng với nhau cùng làm rõ ý khái quát nêu ở phần trước: Hành động của chúng trái hẳn với nhân đạo và chính nghĩa. Đoạn d, Các con vật trong nhà có xu hướng mang lại một cảm",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/exercise/2499418/xac-dinh-y-chinh-chi-ra-cau-chu-de-neu-co-cach-trien-khai-y-va-kieu-doan-van-cua-moi-doan-van-duoi-day-doan-a-cay-coi-luon-duoc-vi",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499418",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "˚ ༘ ೀ⋆｡˚λɳɧ ೀ",
+    "desc": "2",
+    "link": "https://lazi.vn/user/luc.tran101",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tin học - Lớp 7",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/lists/tin-hoc/lop-7",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "I. PHẦN TRẮC NGHIỆM (7 điểm)1. Câu trắc nghiệm nhiều phương án lựa chọn(3 điểm- Mỗi câu 0,25 điểm)Chọn chữ cái đứng trước phương án đúng ở các câu từ 1 đến 12 điền vào bảng sau:Câu 1.Trong các thiết bị sau, thiết bị nào dùng để đưa thông tin (dữ liệu hoặc mệnh lệnh) vào máy tính?A. Màn hình. B. Máy in. C. Chuột. D. Loa.Câu 2.Khi học online, thiết bị nào giúp máy tính chuyển dữ liệu âm thanh từ bên ngoài (như giọng nói của giáo viên) đến tai học sinh?A. Micro. B. Màn hình. C. Bàn phím. D. Tai nghe/Loa.Câu 3. Em đang sử dụng máy tính. Nếu em chọn chức năng Restart của hệ điều hành Windows, điều gì sẽ xảy ra?A. Hệ điều hành sẽ khởi động lại máy tính. B. Hệ điều hành sẽ tắt máy tính an toàn.C. Máy tính sẽ mất kết nối với mạng Internet. D. Máy tính sẽ bị hỏng do ngắt điện đột ngột.Câu 4.Hệ điều hành là gì?A. Phần mềm ứng dụng giúp người dùng làm việc cụ thể.B. Phần mềm hệ thống quản lí và điều khiển hoạt động chung của máy tính.C. Phần mềm giúp máy tính tự động",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/exercise/2499417/i-phan-trac-nghiem-7-diem-1-cau-trac-nghiem-nhieu-phuong-an-lua-chon-3-diem-moi-cau-0-25-diem-chon-chu-cai-dung-truoc-phuong-an-du",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499417",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "nguyen tran linh dan",
+    "desc": "1",
+    "link": "https://lazi.vn/user/nguyen.tran-linh-dan",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 11",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đề kiểm tra 15 phút có 10 câu trắc nghiệm mỗi câu có bốn phương án trả lời, trong đó có một\nphương án đúng, trả lời đúng được 1, 0 điểm. Một thí sinh làm cả 10 câu, mỗi câu chọn một phương án. Tính xác suất để thí sinh đó đạt từ 8, 0 trở lên",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/exercise/2499416/de-kiem-tra-15-phut-co-10-cau-trac-nghiem-moi-cau-co-bon-phuong-an-tra-loi-trong-do-co-mot-lt-br-gt-phuong-an-dung-tra-loi-dung-du",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499416",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "nguyen tran linh dan",
+    "desc": "1",
+    "link": "https://lazi.vn/user/nguyen.tran-linh-dan",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 11",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Cho hai đường thẳng song song a và b . Trên đường thẳng a lấy 6 điểm phân biệt. Trên đường\nthẳng b lấy 5 điểm phân biệt. Chọn ngẫu nhiên 3 điểm. Xác định số phần tử của:\nBiến cố A : \"Ba điểm được chọn tạo thành một tam giác\"",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/exercise/2499415/cho-hai-duong-thang-song-song-a-va-b-tren-duong-thang-a-lay-6-diem-phan-biet-tren-duong-lt-br-gt-thang-b-lay-5-diem-phan-biet-chon",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499415",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "phương",
+    "desc": "1",
+    "link": "https://lazi.vn/user/binh.tran124",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tin học - Lớp 9",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/lists/tin-hoc/lop-9",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Câu nào trong các câu sau là đúng nhất về vai trò của thông tin trong giải quyết vấn đề?A. Thông tin giúp ta hiểu đúng nhiệm vụ đặt ra.B. Không có thông tin thì không thể ra quyết định được.C. Không cần thu thập và xử lý thông tin đầy đủ khi ra quyết định.D. Thông tin chỉ là một phần nhỏ khi ra quyết vấn đề",
+    "desc": "1",
+    "link": "https://lazi.vn/edu/exercise/2499414/cau-nao-trong-cac-cau-sau-la-dung-nhat-ve-vai-tro-cua-thong-tin-trong-giai-quyet-van-de-a-thong-tin-giup-ta-hieu-dung-nhiem-vu-dat",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499414",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ẩn danh",
+    "desc": "4",
+    "link": "https://lazi.vn/edu/exercise/2499413/tinh-s-1-4-4-mu-2-4-mu-3-4-mu-99-4-mu-100",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 6",
+    "desc": "4",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-6",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tính S=1+4+4 mũ 2+4 mũ 3+4 mũ 99+4 mũ 100",
+    "desc": "4",
+    "link": "https://lazi.vn/edu/exercise/2499413/tinh-s-1-4-4-mu-2-4-mu-3-4-mu-99-4-mu-100",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499413",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ẩn danh",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/exercise/2499412/nhan-xet-ve-cuoc-dau-tranh-chong-thuc-dan-phuong-tay-cua-cac-nc-dong-nam-a",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Lịch sử - Lớp 8",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/lists/lich-su/lop-8",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Nhận xét về cuộc đấu tranh chống thực dân phương tây của các nc đông nam á",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/exercise/2499412/nhan-xet-ve-cuoc-dau-tranh-chong-thuc-dan-phuong-tay-cua-cac-nc-dong-nam-a",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499412",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Minh Huyền",
+    "desc": "0",
+    "link": "https://lazi.vn/user/huyen.minh62",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 9",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-9",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Cho hình chữ nhật ABCD. Kẻ AH vuông góc với BD tại H. a) Cho AB = 9cm, AD = 12cm. Tính BD, AH và số đo AB; b) Kẻ HI vuông góc với AB tại I, chứng minh AH và AB = HM.HN; c) Chứng minh rằng tan' MNC = \\(\\frac{AB^2}{2S_{AND}}\\) (gồm làm tròn đến độ, đổi dải làm phần mở) Bài V (0,5 điểm) Một rạp chiếu phim có 120 ghế, giá vé hiện tại là 100 nghìn đồng mỗi vé. Với giá vé này, tất cả các ghế đều được bán hết cho mỗi suất chiếu. Bạn quản lý rạp phim đang xem xét việc tăng giá vé để tối ưu hóa doanh thu. Sau khi thử nghiệm, rạp phim nhận thấy cứ mỗi lần tăng giá thêm 5 nghìn đồng, số ghế bị bỏ trống sẽ tăng thêm 4 ghế. Hỏi mức giá vé mới là bao nhiêu để rạp phim đạt doanh thu lớn nhất? _____________ (Hế) (Cán bộ coi thi không giải thích gì thêm)",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499411/cho-hinh-chu-nhat-abcd-ke-ah-vuong-goc-voi-bd-tai-h-a-cho-ab-9cm-ad-12cm-tinh-bd-ah-va-so-do-ab-b-ke-hi-vuong-goc-voi",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499411",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Nguyên Thảo",
+    "desc": "2",
+    "link": "https://lazi.vn/user/thao_nguyen03",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hóa học - Lớp 11",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/lists/hoa-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Câu 5. Xác định bậc của các alcohol sau: a) CH₃-CH₂-OH b) CH₂=CH-CH₂-OH c) CH₃-CH-CH-CH₃ CH₃ OH",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/exercise/2499410/cau-5-xac-dinh-bac-cua-cac-alcohol-sau-a-ch-ch-oh-b-ch-ch-ch-oh-c-ch-ch-ch-ch-ch-oh",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499410",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ẩn danh",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499409/phan-3-cau-hoi-trac-nghiem-tra-loi-ngan-cau-1-vo-nguyen-tu-cua-cac-nguyen-to-kim-loai-kiem-khi-hiem-thuong-chua-bao-nhieu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Khoa học tự nhiên - Lớp 7",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/lists/khoa-hoc-tu-nhien/lop-7",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "``` Phần 3.) Câu hỏi trắc nghiệm trả lời ngắn Câu 1. Vô nguyên tử của các nguyên tố kim loại kiềm, khi hiếm thường chứa bao nhiêu electron ở lớp ngoài cùng? Câu 2. Tìm chu kỳ của nguyên tố có số thứ tự 15 và 16 trong bảng tuần hoàn. Câu 3. Tính khối lượng phân tử của: sulfur trioxide (SO3), sulfur dioxide (SO2), sulfuric acid (H2SO4)? Câu 4. Tìm hóa trị của Al trong công thức Al2O3 và S trong công thức SO3 B. TỰ LUẬN Bài 1: Một nguyên tử của nguyên tố A có tổng số hạt là 10, số hạt mang điện nhiều hơn số hạt không mang điện 2 hạt, tìm số hạt e-, p, n của nguyên tử nguyên tố đó? Bài 2: Một nguyên tử của nguyên tố A có tổng số hạt là 34, số hạt mang điện nhiều hơn số hạt không mang điện 10 hạt, tìm số hạt e-, p, n của nguyên tử nguyên tố đó? Bài 3: Viết tên đầy đủ của các nguyên tố hóa học sau: Ba, Na, P, S, K, Mg? Bài 4: Cho các phân tử sau: NaCl, BaO, Br2, O2, K2O, KCl, CaO, N2, Cl2, Na2O. Phân tử có chứa liên kết cộng hóa trị, phần tử có liên kết ion là? Bài 5: Lập công thức hóa học",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499409/phan-3-cau-hoi-trac-nghiem-tra-loi-ngan-cau-1-vo-nguyen-tu-cua-cac-nguyen-to-kim-loai-kiem-khi-hiem-thuong-chua-bao-nhieu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499409",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "nguyen minh phuong",
+    "desc": "2",
+    "link": "https://lazi.vn/user/nguyen.minh-phuong40",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 11",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Có 10 học sinh nam và 10 học sinh nữ xếp vào 1 hàng dọc. Hãy xác định số các kết quả thuận lợi cho biến cố “Học sinh nam và học sinh nữ đứng xen kẽ nhau”",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/exercise/2499408/co-10-hoc-sinh-nam-va-10-hoc-sinh-nu-xep-vao-1-hang-doc-hay-xac-dinh-so-cac-ket-qua-thuan-loi-cho-bien-co-hoc-sinh-nam-va-hoc-si",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499408",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "nguyen minh phuong",
+    "desc": "3",
+    "link": "https://lazi.vn/user/nguyen.minh-phuong40",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 11",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hộp thứ nhất chứa 6 quả bóng được đánh số từ 1 đến 6. Hộp thứ hai chứa 4 quả bóng được đánh\nsố từ 1 đến 4. Chọn ngẫu nhiên mỗi hộp 1 quả bóng.\nCó bao nhiêu kết quả thuận lợi cho biến cố \"Tổng các số ghi trên hai quả bóng không nhỏ hơn\n5'",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/exercise/2499407/hop-thu-nhat-chua-6-qua-bong-duoc-danh-so-tu-1-den-6-hop-thu-hai-chua-4-qua-bong-duoc-danh-lt-br-gt-so-tu-1-den-4-chon-ngau-nhien",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499407",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "nguyen minh phuong",
+    "desc": "2",
+    "link": "https://lazi.vn/user/nguyen.minh-phuong40",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 6",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-6",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hộp thứ nhất chứa 5 quả bóng được đánh số từ 1 đến 5. Hộp thứ hai chứa 6 quả bóng được đánh\nsố từ 1 đến 6. Chọn ngẫu nhiên mỗi hộp 1 quả bóng. Có bao nhiêu kết quả thuận lợi cho biến cố\n“Tổng các số ghi trên hai quả bóng không lớn hơn 8''",
+    "desc": "2",
+    "link": "https://lazi.vn/edu/exercise/2499406/hop-thu-nhat-chua-5-qua-bong-duoc-danh-so-tu-1-den-5-hop-thu-hai-chua-6-qua-bong-duoc-danh-lt-br-gt-so-tu-1-den-6-chon-ngau-nhien",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499406",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "nguyen minh phuong",
+    "desc": "4",
+    "link": "https://lazi.vn/user/nguyen.minh-phuong40",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 7",
+    "desc": "4",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-7",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Một hộp đựng 5 viên bi xanh, 4 viên bi đỏ, 7 viên bi vàng. Chọn ngẫu nhiên cùng một lúc ra\n8 viên bi. Hãy xác định số các kết quả thuận lợi cho biến cố “ 8 viên bi được chọn có đủ 3 màu”",
+    "desc": "4",
+    "link": "https://lazi.vn/edu/exercise/2499405/mot-hop-dung-5-vien-bi-xanh-4-vien-bi-do-7-vien-bi-vang-chon-ngau-nhien-cung-mot-luc-ra-lt-br-gt-8-vien-bi-hay-xac-dinh-so-cac-ket",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499405",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "huyền đỗ",
+    "desc": "0",
+    "link": "https://lazi.vn/user/huyen.do476",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Khoa học tự nhiên - Lớp 7",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/lists/khoa-hoc-tu-nhien/lop-7",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Cứu giải chi tiết",
+    "desc": "0",
+    "link": "https://lazi.vn/edu/exercise/2499404/cuu-giai-chi-tiet",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499404",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ẩn danh",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/exercise/2499403/viet-cong-thuc-cau-tao-cua-cac-hop-chat-co-ten-goi-sau",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hóa học - Lớp 11",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/lists/hoa-hoc/lop-11",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Viết công thức cấu tạo của các hợp chất có tên gọi sau",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/exercise/2499403/viet-cong-thuc-cau-tao-cua-cac-hop-chat-co-ten-goi-sau",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499403",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hoa Phương",
+    "desc": "3",
+    "link": "https://lazi.vn/user/hoa.phuong244",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Toán học - Lớp 9",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/lists/toan-hoc/lop-9",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Mảnh vườn hình chữ nhật có chiều dài lớn hơn chiều rộng",
+    "desc": "3",
+    "link": "https://lazi.vn/edu/exercise/2499402/manh-vuon-hinh-chu-nhat-co-chieu-dai-lon-hon-chieu-rong",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+ Trả lời +3đ",
+    "desc": "+3đ",
+    "link": "https://lazi.vn/edu/reply/2499402",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Giải bài tập",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://lazi.vn/edu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Flashcard",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://go.lazi.vn/flashcard/all?utm_source=Lazi&utm_medium=Lazi&utm_term=flashcard&utm_campaign=Lazi",
+    "domain": "go.lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=go.lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trò chơi",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://chat.lazi.vn/games",
+    "domain": "chat.lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=chat.lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đố vui",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://lazi.vn/fun_qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Khảo sát",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://lazi.vn/survey",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trắc nghiệm",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://lazi.vn/quiz",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hình/chữ",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://lazi.vn/dhbc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Quà tặng",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://lazi.vn/store",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hỏi đáp",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://lazi.vn/qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Lazi.vn - Cộng đồng Tri thức & Giáo dục",
+    "desc": "Bảng xếp hạng thành viên",
+    "link": "https://www.facebook.com/lazi.vn",
+    "domain": "www.facebook.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com"
+  },
+  {
+    "type": "link",
+    "title": "1 Little Wolf 1.374 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/o.lac",
+    "link": "https://lazi.vn/user/o.lac",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "2 Le Thi Ngoc Anh 1.339 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/le-thi-ngoc.anh15",
+    "link": "https://lazi.vn/user/le-thi-ngoc.anh15",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "3 Chouuu 739 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/chau.nguyen102",
+    "link": "https://lazi.vn/user/chau.nguyen102",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "4 Lương Mỹ Duyên 473 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/hau.ngoc30",
+    "link": "https://lazi.vn/user/hau.ngoc30",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "5 Heu 402 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/thanhnhann",
+    "link": "https://lazi.vn/user/thanhnhann",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "1 Little Wolf 1.030 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/o.lac",
+    "link": "https://lazi.vn/user/o.lac",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "2 Châu 981 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/nguyen-ngoc.chau",
+    "link": "https://lazi.vn/user/nguyen-ngoc.chau",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "3 Jim 832 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/hunggoldman",
+    "link": "https://lazi.vn/user/hunggoldman",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "4 Heu 791 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/thanhnhann",
+    "link": "https://lazi.vn/user/thanhnhann",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "5 Vy 733 điểm",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/mei_bbi_iu_anh",
+    "link": "https://lazi.vn/user/mei_bbi_iu_anh",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "1 ღ_GenZine_ღ 2.401 sao",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/quynh.mai269",
+    "link": "https://lazi.vn/user/quynh.mai269",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "2 ᵔᴥᵔ Nguyn ᵔᴥᵔ 1.903 sao",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/nguyen.do293",
+    "link": "https://lazi.vn/user/nguyen.do293",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "3 Nhuee 1.865 sao",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/lovee.you",
+    "link": "https://lazi.vn/user/lovee.you",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "4 ღ_Embecute_ღ 1.836 sao",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/la.verena",
+    "link": "https://lazi.vn/user/la.verena",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "5 ≯ duy an ␦ 1.337 sao",
+    "desc": "lazi.vn\nhttps://lazi.vn/user/anh.nguyen9860",
+    "link": "https://lazi.vn/user/anh.nguyen9860",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Thưởng th.9.2025",
+    "desc": "lazi.vn\nhttps://lazi.vn/event/d/143/giai-thuong-thang-9-nam-2025",
+    "link": "https://lazi.vn/event/d/143/giai-thuong-thang-9-nam-2025",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng xếp hạng",
+    "desc": "lazi.vn\nhttps://lazi.vn/statistic",
+    "link": "https://lazi.vn/statistic",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trang chủ",
+    "desc": "lazi.vn\nhttps://lazi.vn/",
+    "link": "https://lazi.vn/",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Giải đáp bài tập",
+    "desc": "lazi.vn\nhttps://lazi.vn/edu",
+    "link": "https://lazi.vn/edu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đố vui",
+    "desc": "lazi.vn\nhttps://lazi.vn/fun_qa",
+    "link": "https://lazi.vn/fun_qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ca dao tục ngữ",
+    "desc": "lazi.vn\nhttps://lazi.vn/cdtn",
+    "link": "https://lazi.vn/cdtn",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Liên hệ",
+    "desc": "lazi.vn\nhttps://lazi.vn/contact",
+    "link": "https://lazi.vn/contact",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Giới thiệu",
+    "desc": "lazi.vn\nhttps://lazi.vn/gioi-thieu",
+    "link": "https://lazi.vn/gioi-thieu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hỏi đáp tổng hợp",
+    "desc": "lazi.vn\nhttps://lazi.vn/qa",
+    "link": "https://lazi.vn/qa",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đuổi hình bắt chữ",
+    "desc": "lazi.vn\nhttps://lazi.vn/dhbc",
+    "link": "https://lazi.vn/dhbc",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Thi trắc nghiệm",
+    "desc": "lazi.vn\nhttps://lazi.vn/exam",
+    "link": "https://lazi.vn/exam",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Ý tưởng phát triển Lazi",
+    "desc": "lazi.vn\nhttps://lazi.vn/contest/gui_bai",
+    "link": "https://lazi.vn/contest/gui_bai",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Chính sách bảo mật",
+    "desc": "lazi.vn\nhttps://lazi.vn/chinh-sach",
+    "link": "https://lazi.vn/chinh-sach",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Trắc nghiệm tri thức",
+    "desc": "lazi.vn\nhttps://lazi.vn/quiz",
+    "link": "https://lazi.vn/quiz",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Điều ước và lời chúc",
+    "desc": "lazi.vn\nhttps://lazi.vn/wish",
+    "link": "https://lazi.vn/wish",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Kết bạn 4 phương",
+    "desc": "lazi.vn\nhttps://lazi.vn/friend",
+    "link": "https://lazi.vn/friend",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xem lịch",
+    "desc": "lazi.vn\nhttps://lazi.vn/today",
+    "link": "https://lazi.vn/today",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Điều khoản sử dụng",
+    "desc": "lazi.vn\nhttps://lazi.vn/dieu-khoan-su-dung",
+    "link": "https://lazi.vn/dieu-khoan-su-dung",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Khảo sát ý kiến",
+    "desc": "lazi.vn\nhttps://lazi.vn/survey",
+    "link": "https://lazi.vn/survey",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xem ảnh",
+    "desc": "lazi.vn\nhttps://lazi.vn/photo",
+    "link": "https://lazi.vn/photo",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Hội nhóm",
+    "desc": "lazi.vn\nhttps://lazi.vn/group",
+    "link": "https://lazi.vn/group",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng xếp hạng",
+    "desc": "lazi.vn\nhttps://lazi.vn/statistic",
+    "link": "https://lazi.vn/statistic",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Tuyển dụng",
+    "desc": "lazi.vn\nhttps://lazi.vn/tuyen-dung",
+    "link": "https://lazi.vn/tuyen-dung",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Flashcard",
+    "desc": "go.lazi.vn\nhttps://go.lazi.vn/flashcard/all?utm_source=Lazi&utm_medium=Lazi&utm_term=flashcard_footer_menu&utm_campaign=Lazi",
+    "link": "https://go.lazi.vn/flashcard/all?utm_source=Lazi&utm_medium=Lazi&utm_term=flashcard_footer_menu&utm_campaign=Lazi",
+    "domain": "go.lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=go.lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Thơ văn danh ngôn",
+    "desc": "lazi.vn\nhttps://lazi.vn/tvdn",
+    "link": "https://lazi.vn/tvdn",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Mua ô tô",
+    "desc": "carlist.vn\nhttps://carlist.vn?utm_source=Lazi&utm_medium=Lazi&utm_term=Lazi_footer&utm_campaign=Lazi",
+    "link": "https://carlist.vn?utm_source=Lazi&utm_medium=Lazi&utm_term=Lazi_footer&utm_campaign=Lazi",
+    "domain": "carlist.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=carlist.vn"
+  },
+  {
+    "type": "link",
+    "title": "Bảng Huy hiệu",
+    "desc": "lazi.vn\nhttps://lazi.vn/statistic/ranks",
+    "link": "https://lazi.vn/statistic/ranks",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Đề thi, kiểm tra",
+    "desc": "lazi.vn\nhttps://lazi.vn/tai_lieu",
+    "link": "https://lazi.vn/tai_lieu",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "Xem thêm",
+    "desc": "lazi.vn\nhttps://lazi.vn/all",
+    "link": "https://lazi.vn/all",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  },
+  {
+    "type": "link",
+    "title": "+Gửi câu hỏi",
+    "desc": "lazi.vn\nhttps://lazi.vn/edu/gui_bai_tap",
+    "link": "https://lazi.vn/edu/gui_bai_tap",
+    "domain": "lazi.vn",
+    "favicon": "https://www.google.com/s2/favicons?domain=lazi.vn"
+  }
+,{
+  "type": "link",
+  "title": "Game hay - GameVui",
+  "desc": "Game hay - GameVui\n\nGame Vui\nhttps://gamevui.vn › gamehay\n·\nTranslate this page",
+  "link": "https://gamevui.vn/gamehay",
+  "domain": "gamevui.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamevui.vn"
 }
-
-
-
+,{
+  "type": "link",
+  "title": "GameVui.vn - Game hay nhất, chơi game online, trò chơi đỉnh ...",
+  "desc": "GameVui.vn - Game hay nhất, chơi game online, trò chơi đỉnh ...\n\nGame Vui\nhttps://gamevui.vn\n·\nTranslate this page",
+  "link": "https://gamevui.vn/",
+  "domain": "gamevui.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamevui.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 30 tựa game hay nhất thế giới 2025 trên điện thoại, ...",
+  "desc": "Top 30 tựa game hay nhất thế giới 2025 trên điện thoại, ...\n\nCellphoneS\nhttps://cellphones.com.vn › sforum\n·\nTranslate this page",
+  "link": "https://cellphones.com.vn/sforum/game-hay",
+  "domain": "cellphones.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=cellphones.com.vn"
+}
+,{
+  "type": "link",
+  "title": "TOP Game Hay - Tải trò chơi miễn phí tại ...",
+  "desc": "TOP Game Hay - Tải trò chơi miễn phí tại ...\n\nDownload.com.vn\nhttps://download.com.vn › downl...\n·\nTranslate this page",
+  "link": "https://download.com.vn/download-game-tro-choi",
+  "domain": "download.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=download.com.vn"
+}
+,{
+  "type": "link",
+  "title": "CrazyGames - Trò chơi trực tuyến miễn phí trên CrazyGames ...",
+  "desc": "CrazyGames - Trò chơi trực tuyến miễn phí trên CrazyGames ...\n\nCrazyGames\nhttps://vn.crazygames.com",
+  "link": "https://vn.crazygames.com/",
+  "domain": "vn.crazygames.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=vn.crazygames.com"
+}
+,{
+  "type": "link",
+  "title": "Các ứng dụng dành cho Android trên Google Play",
+  "desc": "Các ứng dụng dành cho Android trên Google Play\n\nGoogle Play\nhttps://play.google.com › games\n·\nTranslate this page",
+  "link": "https://play.google.com/store/games?hl=vi",
+  "domain": "play.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=play.google.com"
+}
+,{
+  "type": "link",
+  "title": "Top 30 game online trên máy tính PC, laptop miễn phí hay ...",
+  "desc": "Top 30 game online trên máy tính PC, laptop miễn phí hay ...\n\nThegioididong.com\nhttps://www.thegioididong.com › to...\n·\nTranslate this page",
+  "link": "https://www.thegioididong.com/game-app/top-10-game-online-pc-hay-nhat-moi-thoi-dai-cap-nhat-1305640",
+  "domain": "www.thegioididong.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.thegioididong.com"
+}
+,{
+  "type": "link",
+  "title": "Game Cực Hay",
+  "desc": "Game Cực Hay\n\nYouTube · Game Cực Hay\n593K+ followers",
+  "link": "https://www.youtube.com/c/gamecuchay",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Top 20+ game hay trên điện thoại, PC được yêu thích mà ...",
+  "desc": "Top 20+ game hay trên điện thoại, PC được yêu thích mà ...\n\nFPTShop\nhttps://fptshop.com.vn › ... › Bài viết\n·\nTranslate this page",
+  "link": "https://fptshop.com.vn/tin-tuc/giai-tri/tong-hop-10-game-hay-tren-dien-thoai-pc-168892",
+  "domain": "fptshop.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=fptshop.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Chơi Ngay Trong Tầm Tay | Vào Game Trong 1 Giây",
+  "desc": "Chơi Ngay Trong Tầm Tay | Vào Game Trong 1 Giây\n\nChơi Ngay Trong Tầm Tay\nhttps://m.choingay.vn\n·\nTranslate this page",
+  "link": "https://m.choingay.vn/",
+  "domain": "m.choingay.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=m.choingay.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 50+ Game Hay Nhất Thế Giới Năm 2024 Cho Điện ...",
+  "desc": "Top 50+ Game Hay Nhất Thế Giới Năm 2024 Cho Điện ...\n\nNguyễn Kim\nhttps://www.nguyenkim.com › top-...\n·\nTranslate this page",
+  "link": "https://www.nguyenkim.com/top-10-game-pc-hay-nhat-ma-game-thu-nao-cung-ghien.html?srsltid=AfmBOooxqIncawHVo2vB1ZS1Y2A0UQPASyah5WDvlcdJqkeaozrK8xwc",
+  "domain": "www.nguyenkim.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.nguyenkim.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Top 50+ Game Hay Nhất Thế Giới Năm 2024 Cho Điện ...\n\nNguyễn Kim\nhttps://www.nguyenkim.com › top-...\n·\nTranslate this page",
+  "link": "https://www.nguyenkim.com/top-10-game-pc-hay-nhat-ma-game-thu-nao-cung-ghien.html",
+  "domain": "www.nguyenkim.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.nguyenkim.com"
+}
+,{
+  "type": "link",
+  "title": "Game Hay Thế Giới",
+  "desc": "Game Hay Thế Giới\n\nYouTube · Game Hay Thế Giới\n1.1M+ followers",
+  "link": "https://www.youtube.com/c/GameHayTh%E1%BA%BFGi%E1%BB%9Bi",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "TOP 15+ những game nhiều người chơi nhất trên điện ...",
+  "desc": "TOP 15+ những game nhiều người chơi nhất trên điện ...\n\nCellphoneS\nhttps://cellphones.com.vn › sforum\n·\nTranslate this page",
+  "link": "https://cellphones.com.vn/sforum/nhung-game-nhieu-nguoi-choi-nhat-tren-dien-thoai",
+  "domain": "cellphones.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=cellphones.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Board game là gì? Top 15 board game hay dành cho nhiều ...",
+  "desc": "Board game là gì? Top 15 board game hay dành cho nhiều ...\n\nbachhoaxanh.com\nhttps://www.bachhoaxanh.com › to...\n·\nTranslate this page",
+  "link": "https://www.bachhoaxanh.com/kinh-nghiem-hay/tong-hop-15-board-game-viet-hoa-hay-duoc-gioi-tre-yeu-thich-hien-nay-1402739",
+  "domain": "www.bachhoaxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.bachhoaxanh.com"
+}
+,{
+  "type": "link",
+  "title": "Top 20 game hay trên Steam miễn phí, được chơi nhiều ...",
+  "desc": "Top 20 game hay trên Steam miễn phí, được chơi nhiều ...\n\nPhong Vũ\nhttps://phongvu.vn › Home › Game\n·\nTranslate this page",
+  "link": "https://phongvu.vn/cong-nghe/top-20-game-duoc-choi-nhieu-nhat-tren-steam/?srsltid=AfmBOoqyy35RymIUqs-QFTXX9kgIeXBVvs5Q30bUJDjiKkjrZHkLqun4",
+  "domain": "phongvu.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=phongvu.vn"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Top 20 game hay trên Steam miễn phí, được chơi nhiều ...\n\nPhong Vũ\nhttps://phongvu.vn › Home › Game\n·\nTranslate this page",
+  "link": "https://phongvu.vn/cong-nghe/top-20-game-duoc-choi-nhieu-nhat-tren-steam/",
+  "domain": "phongvu.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=phongvu.vn"
+}
+,{
+  "type": "link",
+  "title": "Free Fire - Light Fest - Ứng dụng trên Google Play",
+  "desc": "Free Fire - Light Fest - Ứng dụng trên Google Play\n\nGoogle Play\nhttps://play.google.com › details\n·\nTranslate this page",
+  "link": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=vi",
+  "domain": "play.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=play.google.com"
+}
+,{
+  "type": "link",
+  "title": "Top 25+ game online mobile (Android, iOS) hay nhất nên ...",
+  "desc": "Top 25+ game online mobile (Android, iOS) hay nhất nên ...\n\nThegioididong.com\nhttps://www.thegioididong.com › to...\n·\nTranslate this page",
+  "link": "https://www.thegioididong.com/game-app/top-10-game-online-hay-nhat-tren-dien-thoai-android-ios-1312542",
+  "domain": "www.thegioididong.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.thegioididong.com"
+}
+,{
+  "type": "link",
+  "title": "Game mobile hay - Tải game mobile 2019 mới nhất",
+  "desc": "Game mobile hay - Tải game mobile 2019 mới nhất\n\ngame24h.vn\nhttps://game24h.vn\n·\nTranslate this page",
+  "link": "https://game24h.vn/",
+  "domain": "game24h.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=game24h.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 10 Game Hay Nhất Thế Giới Cho PC Và Mobile 2025",
+  "desc": "Top 10 Game Hay Nhất Thế Giới Cho PC Và Mobile 2025\n\nHoàng Hà PC\nhttps://hoanghapc.vn › tro-choi-hay...\n·\nTranslate this page",
+  "link": "https://hoanghapc.vn/tro-choi-hay-nhat-the-gioi?srsltid=AfmBOoqrJ9lTXUuPj9GKspCmrVt6ANajlEASfrMnbeQVRUT7Ai8V-_GY",
+  "domain": "hoanghapc.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghapc.vn"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Top 10 Game Hay Nhất Thế Giới Cho PC Và Mobile 2025\n\nHoàng Hà PC\nhttps://hoanghapc.vn › tro-choi-hay...\n·\nTranslate this page",
+  "link": "https://hoanghapc.vn/tro-choi-hay-nhat-the-gioi",
+  "domain": "hoanghapc.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghapc.vn"
+}
+,{
+  "type": "link",
+  "title": "Bảng xếp hạng Steam",
+  "desc": "Bảng xếp hạng Steam\n\nSteam\nhttps://store.steampowered.com › c...\n·\nTranslate this page",
+  "link": "https://store.steampowered.com/charts?l=vietnamese",
+  "domain": "store.steampowered.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=store.steampowered.com"
+}
+,{
+  "type": "link",
+  "title": "Trò Chơi Trực Tuyến Miễn Phí - Chơi Ngay Trên Playhop!",
+  "desc": "Trò Chơi Trực Tuyến Miễn Phí - Chơi Ngay Trên Playhop!\n\nPlayhop\nhttps://playhop.com › ...\n·\nTranslate this page",
+  "link": "https://playhop.com/vi",
+  "domain": "playhop.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=playhop.com"
+}
+,{
+  "type": "link",
+  "title": "Top 50 Nghị luận về nghiện game (hay nhất)",
+  "desc": "Top 50 Nghị luận về nghiện game (hay nhất)\n\nVietJack\nhttps://vietjack.com › nghi-luan-su...\n·\nTranslate this page",
+  "link": "https://vietjack.com/van-mau-lop-12/nghi-luan-suy-nghi-ve-hien-tuong-nghien-game-online-hay-nhat.jsp",
+  "domain": "vietjack.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=vietjack.com"
+}
+,{
+  "type": "link",
+  "title": "Top 20+ game mobile hay, mới nhất trên Android, IOS 2024",
+  "desc": "Top 20+ game mobile hay, mới nhất trên Android, IOS 2024\n\nZalopay\nhttps://zalopay.vn › top-game-onli...\n·\nTranslate this page",
+  "link": "https://zalopay.vn/top-game-online-mobile-hay-nhat-tren-dien-thoai-2343",
+  "domain": "zalopay.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=zalopay.vn"
+}
+,{
+  "type": "link",
+  "title": "Chơi Game Online - Trò Chơi Miễn Phí Hay Nhất - Game Vui ...",
+  "desc": "Chơi Game Online - Trò Chơi Miễn Phí Hay Nhất - Game Vui ...\n\nokgamehay.com\nhttps://okgamehay.com\n·\nTranslate this page",
+  "link": "https://okgamehay.com/",
+  "domain": "okgamehay.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=okgamehay.com"
+}
+,{
+  "type": "link",
+  "title": "TOP game hay trên Microsoft Store miễn phí 2025",
+  "desc": "TOP game hay trên Microsoft Store miễn phí 2025\n\nĐiện Thoại Vui\nhttps://dienthoaivui.com.vn › tin-tuc\n·\nTranslate this page",
+  "link": "https://dienthoaivui.com.vn/tin-tuc/game-hay-tren-microsoft-store",
+  "domain": "dienthoaivui.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=dienthoaivui.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 25 game hay trên Steam 2024 có nhiều người chơi nhất",
+  "desc": "Top 25 game hay trên Steam 2024 có nhiều người chơi nhất\n\nHoàng Hà Mobile\nhttps://hoanghamobile.com › tin-tuc\n·\nTranslate this page",
+  "link": "https://hoanghamobile.com/tin-tuc/game-hay-tren-steam/?srsltid=AfmBOoou-ymyH3ZS7702taKGo89eWULu-fX_X8gQTFJ4jQ6TbLMTRLIK",
+  "domain": "hoanghamobile.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghamobile.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Top 25 game hay trên Steam 2024 có nhiều người chơi nhất\n\nHoàng Hà Mobile\nhttps://hoanghamobile.com › tin-tuc\n·\nTranslate this page",
+  "link": "https://hoanghamobile.com/tin-tuc/game-hay-tren-steam/",
+  "domain": "hoanghamobile.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghamobile.com"
+}
+,{
+  "type": "link",
+  "title": "Top 20 game nhiều người chơi nhất, gay cấn nhất trên thế ...",
+  "desc": "Top 20 game nhiều người chơi nhất, gay cấn nhất trên thế ...\n\nFPTShop\nhttps://fptshop.com.vn › ... › Bài viết\n·\nTranslate this page",
+  "link": "https://fptshop.com.vn/tin-tuc/giai-tri/game-nhieu-nguoi-choi-nhat-165944",
+  "domain": "fptshop.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=fptshop.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Những game hay nhất:",
+  "desc": "Những game hay nhất:\n\nThreads\nhttps://www.threads.com › post\n·\nTranslate this page",
+  "link": "https://www.threads.com/@ktln_thread/post/DQIjcOZD8rv/nh%E1%BB%AFng-game-hay-nh%E1%BA%A5t",
+  "domain": "www.threads.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.threads.com"
+}
+,{
+  "type": "link",
+  "title": "Danh sách game cổ điển hay nhất mọi thời đại, cập nhật ...",
+  "desc": "Danh sách game cổ điển hay nhất mọi thời đại, cập nhật ...\n\nXTmobile\nhttps://www.xtmobile.vn › game-c...\n·\nTranslate this page",
+  "link": "https://www.xtmobile.vn/game-co-dien",
+  "domain": "www.xtmobile.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.xtmobile.vn"
+}
+,{
+  "type": "link",
+  "title": "1000 trò chơi miễn phí - Tóp những trò chơi hay nhất 2025",
+  "desc": "1000 trò chơi miễn phí - Tóp những trò chơi hay nhất 2025\n\n1000trochoi.com\nhttps://www.1000trochoi.com\n·\nTranslate this page",
+  "link": "https://www.1000trochoi.com/",
+  "domain": "www.1000trochoi.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.1000trochoi.com"
+}
+,{
+  "type": "link",
+  "title": "TOP 15+ những game nhiều người chơi nhất trên điện ...",
+  "desc": "TOP 15+ những game nhiều người chơi nhất trên điện ...\n\nHoàng Hà Mobile\nhttps://hoanghamobile.com › tin-tuc\n·\nTranslate this page",
+  "link": "https://hoanghamobile.com/tin-tuc/game-dien-thoai/?srsltid=AfmBOooMLKg3nHdt6-A1_4Sc3p-q_ccUAiasxstSZvQTg9VW0Qucmkqq",
+  "domain": "hoanghamobile.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghamobile.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "TOP 15+ những game nhiều người chơi nhất trên điện ...\n\nHoàng Hà Mobile\nhttps://hoanghamobile.com › tin-tuc\n·\nTranslate this page",
+  "link": "https://hoanghamobile.com/tin-tuc/game-dien-thoai/",
+  "domain": "hoanghamobile.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghamobile.com"
+}
+,{
+  "type": "link",
+  "title": "Chơi game hay là bị game chơi đây ae 😭😭😭",
+  "desc": "Chơi game hay là bị game chơi đây ae 😭😭😭\n\nFacebook · Võ Lâm Truyền Kỳ 2.0 PC - Hội Quán Game Thủ - Chính Chủ VNGGames\n5 comments · 7 hours ago",
+  "link": "https://www.facebook.com/groups/vltk2.0/posts/806486525337940/",
+  "domain": "www.facebook.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com"
+}
+,{
+  "type": "link",
+  "title": "Top 10 game mobile hay nhất 2025 - Cập nhật mới nhất",
+  "desc": "Top 10 game mobile hay nhất 2025 - Cập nhật mới nhất\n\nFPT Telecom\nhttps://fpt.vn › tin-tuc › top-10-game-mobile-hay-nhat-...",
+  "link": "https://fpt.vn/tin-tuc/top-10-game-mobile-hay-nhat-2025-cap-nhat-moi-nhat-12388.html",
+  "domain": "fpt.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=fpt.vn"
+}
+,{
+  "type": "link",
+  "title": "Tổng hợp game offline hay nhất cho điện thoại và PC 2025",
+  "desc": "Tổng hợp game offline hay nhất cho điện thoại và PC 2025\n\nPhong Vũ\nhttps://phongvu.vn › Home › Game\n·\nTranslate this page",
+  "link": "https://phongvu.vn/cong-nghe/game-offline/?srsltid=AfmBOormenAC-V_uhIKz7FckkA3mbiu36nbET5TC9hxE8of6bEQTwjO_",
+  "domain": "phongvu.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=phongvu.vn"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Tổng hợp game offline hay nhất cho điện thoại và PC 2025\n\nPhong Vũ\nhttps://phongvu.vn › Home › Game\n·\nTranslate this page",
+  "link": "https://phongvu.vn/cong-nghe/game-offline/",
+  "domain": "phongvu.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=phongvu.vn"
+}
+,{
+  "type": "link",
+  "title": "Game Tuổi Thơ - Chơi Game Điện Tử Thẻ Online",
+  "desc": "Game Tuổi Thơ - Chơi Game Điện Tử Thẻ Online\n\nGame Tuổi Thơ\nhttps://gametuoitho.vn\n·\nTranslate this page",
+  "link": "https://gametuoitho.vn/",
+  "domain": "gametuoitho.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=gametuoitho.vn"
+}
+,{
+  "type": "link",
+  "title": "Trò chơi miễn phí hàng đầu",
+  "desc": "Trò chơi miễn phí hàng đầu\n\nMicrosoft\nhttps://www.microsoft.com › games\n·\nTranslate this page",
+  "link": "https://www.microsoft.com/vi-vn/store/top-free/games/pc",
+  "domain": "www.microsoft.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.microsoft.com"
+}
+,{
+  "type": "link",
+  "title": "Game hay",
+  "desc": "Game hay\n\nBáo VietNamNet\nhttps://vietnamnet.vn › game-hay-tag52177363169968...",
+  "link": "https://vietnamnet.vn/game-hay-tag5217736316996804834-page8.html",
+  "domain": "vietnamnet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vietnamnet.vn"
+}
+,{
+  "type": "link",
+  "title": "Mỗi tuần một game hay",
+  "desc": "Mỗi tuần một game hay\n\nTin tức 24h\nhttps://www.24h.com.vn › game-h...\n·\nTranslate this page",
+  "link": "https://www.24h.com.vn/game-hay-moi-tuan-mot-game-hay-c471e1481.html",
+  "domain": "www.24h.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.24h.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Trang tổng hợp code game, thủ thuật game hay trên PC và ...",
+  "desc": "Trang tổng hợp code game, thủ thuật game hay trên PC và ...\n\nGEARVN\nhttps://gearvn.com › blogs › game-...\n·\nTranslate this page",
+  "link": "https://gearvn.com/blogs/game-hay?srsltid=AfmBOorj76LoUBeNvaG7JpQRUwlaFQ702d_WkT9IX1C5F5RfMV5lDH4N",
+  "domain": "gearvn.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=gearvn.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Trang tổng hợp code game, thủ thuật game hay trên PC và ...\n\nGEARVN\nhttps://gearvn.com › blogs › game-...\n·\nTranslate this page",
+  "link": "https://gearvn.com/blogs/game-hay",
+  "domain": "gearvn.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=gearvn.com"
+}
+,{
+  "type": "link",
+  "title": "Kênh tin Game lớn nhất, thư viện Game đầy đủ nhất",
+  "desc": "Kênh tin Game lớn nhất, thư viện Game đầy đủ nhất\n\nm.gamek.vn\nhttps://gamek.vn\n·\nTranslate this page",
+  "link": "https://gamek.vn/",
+  "domain": "gamek.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamek.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 20 tựa game hay nên chơi trên iPhone và iPad",
+  "desc": "Top 20 tựa game hay nên chơi trên iPhone và iPad\n\nViện Di Động\nhttps://viendidong.com › top-20-t...\n·\nTranslate this page",
+  "link": "https://viendidong.com/top-20-tua-game-hay-tren-iphone-va-ipad/",
+  "domain": "viendidong.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=viendidong.com"
+}
+,{
+  "type": "link",
+  "title": "Top Trò chơi trên Android",
+  "desc": "Top Trò chơi trên Android\n\nUptodown\nhttps://vi.uptodown.com › games\n·\nTranslate this page",
+  "link": "https://vi.uptodown.com/android/games",
+  "domain": "vi.uptodown.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=vi.uptodown.com"
+}
+,{
+  "type": "link",
+  "title": "Top 25+ Game hay nhất thế giới cho PC và Mobile 2022",
+  "desc": "Top 25+ Game hay nhất thế giới cho PC và Mobile 2022\n\nDi Động Việt\nhttps://didongviet.vn › dchannel\n·\nTranslate this page",
+  "link": "https://didongviet.vn/dchannel/game-hay-nhat-the-gioi/",
+  "domain": "didongviet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=didongviet.vn"
+}
+,{
+  "type": "link",
+  "title": "Hay Day",
+  "desc": "Hay Day\n\nHay Day\nhttps://hayday.com",
+  "link": "https://hayday.com/",
+  "domain": "hayday.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=hayday.com"
+}
+,{
+  "type": "link",
+  "title": "Game Cho Máy Yếu Archives",
+  "desc": "Game Cho Máy Yếu Archives\n\nHaDoanTV\nhttps://hadoantv.com › category\n·\nTranslate this page",
+  "link": "https://hadoantv.com/category/game-hay-cho-may-yeu/",
+  "domain": "hadoantv.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=hadoantv.com"
+}
+,{
+  "type": "link",
+  "title": "Game Vui, Game miễn phí, Game IO, Y8, Game 24h",
+  "desc": "Game Vui, Game miễn phí, Game IO, Y8, Game 24h\n\ngamevui.io\nhttps://www.gamevui.io\n·\nTranslate this page",
+  "link": "https://www.gamevui.io/",
+  "domain": "www.gamevui.io",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.gamevui.io"
+}
+,{
+  "type": "link",
+  "title": "Chơi game hay với vô số các tựa game hấp dẫn mobile và PC",
+  "desc": "Chơi game hay với vô số các tựa game hấp dẫn mobile và PC\n\nchoigamehay.me\nhttps://choigamehay.me\n·\nTranslate this page",
+  "link": "https://choigamehay.me/",
+  "domain": "choigamehay.me",
+  "favicon": "https://www.google.com/s2/favicons?domain=choigamehay.me"
+}
+,{
+  "type": "link",
+  "title": "Tin công nghệ - Game 24h online, offline, mobile hay",
+  "desc": "Tin công nghệ - Game 24h online, offline, mobile hay\n\nBáo Thanh Niên\nhttps://thanhnien.vn › cong-nghe\n·\nTranslate this page",
+  "link": "https://thanhnien.vn/cong-nghe.htm",
+  "domain": "thanhnien.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thanhnien.vn"
+}
+,{
+  "type": "link",
+  "title": "Võ Lâm Truyền Kỳ | Game Kiếm Hiệp Nhập Vai Online Hay Nhất",
+  "desc": "Võ Lâm Truyền Kỳ | Game Kiếm Hiệp Nhập Vai Online Hay Nhất\n\nVNGGames\nhttps://volam.vnggames.com\n·\nTranslate this page",
+  "link": "https://volam.vnggames.com/",
+  "domain": "volam.vnggames.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=volam.vnggames.com"
+}
+,{
+  "type": "link",
+  "title": "Top 51 Game Hay Nhất Thế Giới Trên Điện Thoại Và PC ...",
+  "desc": "Top 51 Game Hay Nhất Thế Giới Trên Điện Thoại Và PC ...\n\nbiluxury\nhttps://biluxury.vn › Giải trí\n·\nTranslate this page",
+  "link": "https://biluxury.vn/blogs/cate2/top-game-hay-nhat?srsltid=AfmBOooiHKPhXSrIkctp6MZTI735n7Ht2xzQSvSeAXDC9tSEg76m_Wly",
+  "domain": "biluxury.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=biluxury.vn"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Top 51 Game Hay Nhất Thế Giới Trên Điện Thoại Và PC ...\n\nbiluxury\nhttps://biluxury.vn › Giải trí\n·\nTranslate this page",
+  "link": "https://biluxury.vn/blogs/cate2/top-game-hay-nhat",
+  "domain": "biluxury.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=biluxury.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 13 những game nhiều người chơi nhất trên điện thoại",
+  "desc": "Top 13 những game nhiều người chơi nhất trên điện thoại\n\nDi Động Việt\nhttps://didongviet.vn › dchannel\n·\nTranslate this page",
+  "link": "https://didongviet.vn/dchannel/nhung-game-nhieu-nguoi-choi-nhat-tren-dien-thoai/",
+  "domain": "didongviet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=didongviet.vn"
+}
+,{
+  "type": "link",
+  "title": "Chào mừng đến với Liên Minh Huyền Thoại: Tốc Chiến",
+  "desc": "Chào mừng đến với Liên Minh Huyền Thoại: Tốc Chiến\n\nWild Rift\nhttps://wildrift.leagueoflegends.com › ...\n·\nTranslate this page",
+  "link": "https://wildrift.leagueoflegends.com/vi-vn/",
+  "domain": "wildrift.leagueoflegends.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=wildrift.leagueoflegends.com"
+}
+,{
+  "type": "link",
+  "title": "Top 10 Các Loại Game Hot Nhất 2023 Nhất Định Anh Em ...",
+  "desc": "Top 10 Các Loại Game Hot Nhất 2023 Nhất Định Anh Em ...\n\nHoangHaPc\nhttps://hoanghapc.vn › cac-loai-game\n·\nTranslate this page",
+  "link": "https://hoanghapc.vn/cac-loai-game?srsltid=AfmBOoraC9hKvX9MDfKHilsujPVjmR9Y7s3xasXrzqmo6GCFulUeskgR",
+  "domain": "hoanghapc.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghapc.vn"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Top 10 Các Loại Game Hot Nhất 2023 Nhất Định Anh Em ...\n\nHoangHaPc\nhttps://hoanghapc.vn › cac-loai-game\n·\nTranslate this page",
+  "link": "https://hoanghapc.vn/cac-loai-game",
+  "domain": "hoanghapc.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoanghapc.vn"
+}
+,{
+  "type": "link",
+  "title": "Google Theo chân ông già Noel",
+  "desc": "Google Theo chân ông già Noel\n\nGoogle\nhttps://santatracker.google.com › ...\n·\nTranslate this page",
+  "link": "https://santatracker.google.com/?hl=vi",
+  "domain": "santatracker.google.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=santatracker.google.com"
+}
+,{
+  "type": "link",
+  "title": "Hay Day on the App Store",
+  "desc": "Hay Day on the App Store\n\nApple\nhttps://apps.apple.com › app › hay-day",
+  "link": "https://apps.apple.com/us/app/hay-day/id506627515",
+  "domain": "apps.apple.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=apps.apple.com"
+}
+,{
+  "type": "link",
+  "title": "Thiết Kế Mẫu Slide Game Chuyên Nghiệp, Miễn Phí, ...",
+  "desc": "Thiết Kế Mẫu Slide Game Chuyên Nghiệp, Miễn Phí, ...\n\nCanva\nhttps://www.canva.com › mau › g...\n·\nTranslate this page",
+  "link": "https://www.canva.com/vi_vn/ban-thuyet-trinh/mau/game/",
+  "domain": "www.canva.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.canva.com"
+}
+,{
+  "type": "link",
+  "title": "Hay Day",
+  "desc": "Hay Day\n\nSupercell\nhttps://supercell.com › games › hayday",
+  "link": "https://supercell.com/en/games/hayday/",
+  "domain": "supercell.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=supercell.com"
+}
+,{
+  "type": "link",
+  "title": "Tin game mới nhất 2025. Tải game mới ra hay nhất miễn phí",
+  "desc": "Tin game mới nhất 2025. Tải game mới ra hay nhất miễn phí\n\ngame8.vn\nhttps://game8.vn\n·\nTranslate this page",
+  "link": "https://game8.vn/",
+  "domain": "game8.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=game8.vn"
+}
+,{
+  "type": "link",
+  "title": "Kahoot! Trò chơi trắc nghiệm",
+  "desc": "Kahoot! Trò chơi trắc nghiệm\n\nKahoot! | Learning games\nhttps://kahoot.com › home › kaho...\n·\nTranslate this page",
+  "link": "https://kahoot.com/vi/home/kahoot-quiz-games/",
+  "domain": "kahoot.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=kahoot.com"
+}
+,{
+  "type": "link",
+  "title": "Tìm partner💐",
+  "desc": "Tìm partner💐\n\nFacebook · Genshin Impact Việt Nam\n2 comments · 1 hour ago",
+  "link": "https://www.facebook.com/groups/648618483681727/posts/1193285919214978/",
+  "domain": "www.facebook.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com"
+}
+,{
+  "type": "link",
+  "title": "Game hay nhất",
+  "desc": "Game hay nhất\n\ngamehaynhat.com.vn\nhttp://gamehaynhat.com.vn\n·\nTranslate this page",
+  "link": "http://gamehaynhat.com.vn/",
+  "domain": "gamehaynhat.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamehaynhat.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Y8 1 Người, Game Y8, Game Vui, Game Hay VL",
+  "desc": "Y8 1 Người, Game Y8, Game Vui, Game Hay VL\n\nY8 1 người\nhttps://www.y81nguoi.com\n·\nTranslate this page",
+  "link": "https://www.y81nguoi.com/",
+  "domain": "www.y81nguoi.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.y81nguoi.com"
+}
+,{
+  "type": "link",
+  "title": "game hay nhat cua con gai.xhtml",
+  "desc": "game hay nhat cua con gai.xhtml\n\nm.nhipcaudautu.vn\nhttps://nhipcaudautu.vn › game ha...\n·\nTranslate this page",
+  "link": "https://nhipcaudautu.vn/game%20hay%20nhat%20cua%20con%20gai.xhtml",
+  "domain": "nhipcaudautu.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=nhipcaudautu.vn"
+}
+,{
+  "type": "link",
+  "title": "Gamehay.io - Tải game, ứng dụng miễn phí hay trên Android",
+  "desc": "Gamehay.io - Tải game, ứng dụng miễn phí hay trên Android\n\nGameHay.IO\nhttps://www.gamehay.io\n·\nTranslate this page",
+  "link": "https://www.gamehay.io/",
+  "domain": "www.gamehay.io",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.gamehay.io"
+}
+,{
+  "type": "link",
+  "title": "Vừa chơi game vừa thêm thu nhập? Hãy để BTG giúp ...",
+  "desc": "Vừa chơi game vừa thêm thu nhập? Hãy để BTG giúp ...\n\nKenh14.vn\nhttps://kenh14.vn › Sport › eSports\n·\nTranslate this page",
+  "link": "https://kenh14.vn/vua-choi-game-vua-them-thu-nhap-hay-de-btg-giup-genz-tro-thanh-streamer-215251008144618158.chn",
+  "domain": "kenh14.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=kenh14.vn"
+}
+,{
+  "type": "link",
+  "title": "Võ Lâm Truyền Kỳ 2 | Game Online Kiếm Hiệp Nhập Vai Hay",
+  "desc": "Võ Lâm Truyền Kỳ 2 | Game Online Kiếm Hiệp Nhập Vai Hay\n\nVõ Lâm Truyền Kỳ 2\nhttps://volam2.vnggames.com\n·\nTranslate this page",
+  "link": "https://volam2.vnggames.com/",
+  "domain": "volam2.vnggames.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=volam2.vnggames.com"
+}
+,{
+  "type": "link",
+  "title": "Top tựa game hay cho iOS, Android, máy tính PC",
+  "desc": "Top tựa game hay cho iOS, Android, máy tính PC\n\nĐiện Thoại Vui\nhttps://dienthoaivui.com.vn › tin-tuc\n·\nTranslate this page",
+  "link": "https://dienthoaivui.com.vn/tin-tuc/thu-thuat/game",
+  "domain": "dienthoaivui.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=dienthoaivui.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Game vui 2019 - Chơi game vui nhộn 24h hoàn toàn miễn phí",
+  "desc": "Game vui 2019 - Chơi game vui nhộn 24h hoàn toàn miễn phí\n\ngame24h.vn\nhttps://game24h.vn › vui-nhon-c124\n·\nTranslate this page",
+  "link": "https://game24h.vn/vui-nhon-c124.html",
+  "domain": "game24h.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=game24h.vn"
+}
+,{
+  "type": "link",
+  "title": "Toplist chủ đề game hay (87 toplist) trong (1/5) trang",
+  "desc": "Toplist chủ đề game hay (87 toplist) trong (1/5) trang\n\ntoplist.vn\nhttps://toplist.vn › top-lists › game...\n·\nTranslate this page",
+  "link": "https://toplist.vn/top-lists/game-hay/",
+  "domain": "toplist.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=toplist.vn"
+}
+,{
+  "type": "link",
+  "title": "game mobile hay",
+  "desc": "game mobile hay\n\nBáo VietNamNet\nhttps://vietnamnet.vn › game-mobile-hay-tag88852190...",
+  "link": "https://vietnamnet.vn/game-mobile-hay-tag8885219037325633658.html",
+  "domain": "vietnamnet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vietnamnet.vn"
+}
+,{
+  "type": "link",
+  "title": "Tải Game Online + Co-op + Multiplayer PC Hay Miễn Phí #1",
+  "desc": "Tải Game Online + Co-op + Multiplayer PC Hay Miễn Phí #1\n\nDaominhha.net\nhttps://daominhha.net › tai-game-...\n·\nTranslate this page",
+  "link": "https://daominhha.net/tai-game-online-co-op-multiplayer/",
+  "domain": "daominhha.net",
+  "favicon": "https://www.google.com/s2/favicons?domain=daominhha.net"
+}
+,{
+  "type": "link",
+  "title": "Game MOD, Ứng Dụng APK cho Android Miễn Phí",
+  "desc": "Game MOD, Ứng Dụng APK cho Android Miễn Phí\n\nGAMEHAYVL.com\nhttps://gamehayvl.com\n·\nTranslate this page",
+  "link": "https://gamehayvl.com/",
+  "domain": "gamehayvl.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamehayvl.com"
+}
+,{
+  "type": "link",
+  "title": "TaigameKP - Tải Game Offline Hay Cho PC Miễn Phí ...",
+  "desc": "TaigameKP - Tải Game Offline Hay Cho PC Miễn Phí ...\n\nTaigameKP\nhttps://taigamekp.com\n·\nTranslate this page",
+  "link": "https://taigamekp.com/",
+  "domain": "taigamekp.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=taigamekp.com"
+}
+,{
+  "type": "link",
+  "title": "Những tựa game nhập vai đình đám trên Steam, càng bỏ ...",
+  "desc": "Những tựa game nhập vai đình đám trên Steam, càng bỏ ...\n\nm.gamek.vn\nhttps://gamek.vn › nhung-tua-gam...\n·\nTranslate this page",
+  "link": "https://gamek.vn/nhung-tua-game-nhap-vai-dinh-dam-tren-steam-cang-bo-qua-cot-truyen-chinh-cang-hay-den-bat-ngo-178251020103531475.chn",
+  "domain": "gamek.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamek.vn"
+}
+,{
+  "type": "link",
+  "title": "Khôi phục Tài khoản Riot - Riot Games",
+  "desc": "Khôi phục Tài khoản Riot - Riot Games\n\nRiot Games\nhttps://recovery.riotgames.com › ...",
+  "link": "https://recovery.riotgames.com/vi",
+  "domain": "recovery.riotgames.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=recovery.riotgames.com"
+}
+,{
+  "type": "link",
+  "title": "TOP game hot, nhiều người chơi nhất hiện nay ...",
+  "desc": "TOP game hot, nhiều người chơi nhất hiện nay ...\n\nViettel Store\nhttps://viettelstore.vn › tin-tuc › ga...\n·\nTranslate this page",
+  "link": "https://viettelstore.vn/tin-tuc/game-hot-nhieu-nguoi-choi-nhat?srsltid=AfmBOoqoVqdg4EFybiNqG8X3MisSeBEz4DGwZ8Jv8xZrCvejQdOUQU9m",
+  "domain": "viettelstore.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=viettelstore.vn"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "TOP game hot, nhiều người chơi nhất hiện nay ...\n\nViettel Store\nhttps://viettelstore.vn › tin-tuc › ga...\n·\nTranslate this page",
+  "link": "https://viettelstore.vn/tin-tuc/game-hot-nhieu-nguoi-choi-nhat",
+  "domain": "viettelstore.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=viettelstore.vn"
+}
+,{
+  "type": "link",
+  "title": "Y8 2 Người - Chơi Game Y8 Miễn Phí Hay Nhất",
+  "desc": "Y8 2 Người - Chơi Game Y8 Miễn Phí Hay Nhất\n\ny82nguoi.com\nhttps://www.y82nguoi.com\n·\nTranslate this page",
+  "link": "https://www.y82nguoi.com/",
+  "domain": "www.y82nguoi.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.y82nguoi.com"
+}
+,{
+  "type": "link",
+  "title": "Game Web Hay: Trò Chơi Miễn Phí, Game Online Hay Nhất",
+  "desc": "Game Web Hay: Trò Chơi Miễn Phí, Game Online Hay Nhất\n\ngamewebhay.com\nhttps://gamewebhay.com\n·\nTranslate this page",
+  "link": "https://gamewebhay.com/",
+  "domain": "gamewebhay.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamewebhay.com"
+}
+,{
+  "type": "link",
+  "title": "Game Chiến Thuật - Chơi Game Online - Chơi Game Online",
+  "desc": "Game Chiến Thuật - Chơi Game Online - Chơi Game Online\n\nokgamehay.com\nhttps://okgamehay.com › game-chi...\n·\nTranslate this page",
+  "link": "https://okgamehay.com/game-chien-thuat",
+  "domain": "okgamehay.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=okgamehay.com"
+}
+,{
+  "type": "link",
+  "title": "www.gamehay.vn - Domain for sale, Tên miền được đăng bán",
+  "desc": "www.gamehay.vn - Domain for sale, Tên miền được đăng bán\n\ngamehay.vn\nhttp://www.gamehay.vn\n·\nTranslate this page",
+  "link": "http://www.gamehay.vn/",
+  "domain": "www.gamehay.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.gamehay.vn"
+}
+,{
+  "type": "link",
+  "title": "https://hoikhuyenhoc.phutho.gov.vn/android/game-vu...",
+  "desc": "https://hoikhuyenhoc.phutho.gov.vn/android/game-vu...\n\nphutho.gov\nhttps://hoikhuyenhoc.phutho.gov.vn › ...\n·\nTranslate this page",
+  "link": "https://hoikhuyenhoc.phutho.gov.vn/android/game-vui-hay-nhat.html",
+  "domain": "hoikhuyenhoc.phutho.gov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=hoikhuyenhoc.phutho.gov.vn"
+}
+,{
+  "type": "link",
+  "title": "Game hay cho Android YEUAPK: Chợ đen mod hack game ...",
+  "desc": "Game hay cho Android YEUAPK: Chợ đen mod hack game ...\n\ndlmod.com\nhttps://dlmod.com\n·\nTranslate this page",
+  "link": "https://dlmod.com/",
+  "domain": "dlmod.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=dlmod.com"
+}
+,{
+  "type": "link",
+  "title": "Bandishare - Chia sẻ Game MOD, Apps APK Miễn Phí cho ...",
+  "desc": "Bandishare - Chia sẻ Game MOD, Apps APK Miễn Phí cho ...\n\nBandishare\nhttps://bandishare.io\n·\nTranslate this page",
+  "link": "https://bandishare.io/",
+  "domain": "bandishare.io",
+  "favicon": "https://www.google.com/s2/favicons?domain=bandishare.io"
+}
+,{
+  "type": "link",
+  "title": "https://chuyendoiso.quangtri.gov.vn/zop/game-hay-n...",
+  "desc": "https://chuyendoiso.quangtri.gov.vn/zop/game-hay-n...\n\nUBND Tỉnh Quảng Trị\nhttps://chuyendoiso.quangtri.gov.vn › ...\n·\nTranslate this page",
+  "link": "https://chuyendoiso.quangtri.gov.vn/zop/game-hay-nhat-cho-pc/",
+  "domain": "chuyendoiso.quangtri.gov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=chuyendoiso.quangtri.gov.vn"
+}
+,{
+  "type": "link",
+  "title": "Game Hay - TechPhone.vn",
+  "desc": "Game Hay - TechPhone.vn\n\ntechphone.vn\nhttps://techphone.vn › Category\n·\nTranslate this page",
+  "link": "https://techphone.vn/game-hay/",
+  "domain": "techphone.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=techphone.vn"
+}
+,{
+  "type": "link",
+  "title": "http://trungtamtgxh.gov.vn/rna/cac-game-hay-online...",
+  "desc": "http://trungtamtgxh.gov.vn/rna/cac-game-hay-online...\n\ntrungtamtgxh.gov.vn\nhttp://trungtamtgxh.gov.vn › rna\n·\nTranslate this page",
+  "link": "http://trungtamtgxh.gov.vn/rna/cac-game-hay-online.aspx",
+  "domain": "trungtamtgxh.gov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=trungtamtgxh.gov.vn"
+}
+,{
+  "type": "link",
+  "title": "Tai Game Java, Wap Tai Game Hay Miễn Phí",
+  "desc": "Tai Game Java, Wap Tai Game Hay Miễn Phí\n\nTai Game Java\nhttps://gamehub.pro\n·\nTranslate this page",
+  "link": "https://gamehub.pro/",
+  "domain": "gamehub.pro",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamehub.pro"
+}
+,{
+  "type": "link",
+  "title": "Game Mobile Hay – Tải Game Mobile Miễn Phí Cập Nhật Mỗi ...",
+  "desc": "Game Mobile Hay – Tải Game Mobile Miễn Phí Cập Nhật Mỗi ...\n\nGame Mobile Hay\nhttps://gamemobilehay.com\n·\nTranslate this page",
+  "link": "https://gamemobilehay.com/",
+  "domain": "gamemobilehay.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamemobilehay.com"
+}
+,{
+  "type": "link",
+  "title": "https://gamehay9.info/",
+  "desc": "https://gamehay9.info/\n\ngamehay9.info\nhttps://gamehay9.info\n·\nTranslate this page",
+  "link": "https://gamehay9.info/",
+  "domain": "gamehay9.info",
+  "favicon": "https://www.google.com/s2/favicons?domain=gamehay9.info"
+}
+,{
+  "type": "link",
+  "title": "Game Hay Miền Nam: Cùng Khám Phá AOV",
+  "desc": "Game Hay Miền Nam: Cùng Khám Phá AOV\n\nTikTok · pháp sư flop :))\n10K+ views · 4 days ago",
+  "link": "https://www.tiktok.com/@userz4wurx1ohb/video/7563160970818850055",
+  "domain": "www.tiktok.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.tiktok.com"
+}
+,{
+  "type": "link",
+  "title": "Cá – Wikipedia tiếng Việt",
+  "desc": "Cá – Wikipedia tiếng Việt\n\nWikipedia\nhttps://vi.wikipedia.org › wiki › Cá\n·\nTranslate this page",
+  "link": "https://vi.wikipedia.org/wiki/C%C3%A1",
+  "domain": "vi.wikipedia.org",
+  "favicon": "https://www.google.com/s2/favicons?domain=vi.wikipedia.org"
+}
+,{
+  "type": "link",
+  "title": "Cá, hải sản tươi ngon, giá tốt tại Bách hoá XANH",
+  "desc": "Cá, hải sản tươi ngon, giá tốt tại Bách hoá XANH\n\nbachhoaxanh.com\nhttps://www.bachhoaxanh.com › ca-tom-muc-ech",
+  "link": "https://www.bachhoaxanh.com/ca-tom-muc-ech",
+  "domain": "www.bachhoaxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.bachhoaxanh.com"
+}
+,{
+  "type": "link",
+  "title": "Loài cá nhỏ xíu bụng chứa đầy trứng vàng ươm, là món ...",
+  "desc": "Loài cá nhỏ xíu bụng chứa đầy trứng vàng ươm, là món ...\n\nEva.vn\nhttps://eva.vn › Lifestyle\n·\nTranslate this page",
+  "link": "https://eva.vn/di-dau-xem-gi/loai-ca-nho-xiu-bung-chua-day-trung-vang-uom-la-mon-qua-que-cua-nguoi-mien-tay-nhung-an-la-ghien-c40a649992.html",
+  "domain": "eva.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=eva.vn"
+}
+,{
+  "type": "link",
+  "title": "Bể cá khổng lồ vỡ tung, nhà hàng ngập nước và đàn cá ...",
+  "desc": "Bể cá khổng lồ vỡ tung, nhà hàng ngập nước và đàn cá ...\n\nBáo Dân trí\nhttps://dantri.com.vn › ... › Tin tức\n·\nTranslate this page",
+  "link": "https://dantri.com.vn/du-lich/be-ca-khong-lo-vo-tung-nha-hang-ngap-nuoc-va-dan-ca-song-boi-khap-san-20251023145016471.htm",
+  "domain": "dantri.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=dantri.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Đàn cá chim 'bơi' vào nhà dân tránh lũ",
+  "desc": "Đàn cá chim 'bơi' vào nhà dân tránh lũ\n\nVnExpress\nhttps://vnexpress.net › thu-gian-vi...\n·\nTranslate this page",
+  "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dan-ca-chim-boi-vao-nha-cam-trai-sau-lu-4950665.html",
+  "domain": "vnexpress.net",
+  "favicon": "https://www.google.com/s2/favicons?domain=vnexpress.net"
+}
+,{
+  "type": "link",
+  "title": "Loài cá tên nghe đã thấy khó ăn là đặc sản được ví như ...",
+  "desc": "Loài cá tên nghe đã thấy khó ăn là đặc sản được ví như ...\n\nEva.vn\nhttps://eva.vn › Lifestyle\n·\nTranslate this page",
+  "link": "https://eva.vn/di-dau-xem-gi/loai-ca-ten-nghe-da-thay-kho-an-la-dac-san-duoc-vi-nhu-nhan-sam-duoi-nuoc-chi-dung-de-dai-khach-quy-vi-sieu-hiem-c40a649273.html",
+  "domain": "eva.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=eva.vn"
+}
+,{
+  "type": "link",
+  "title": "các loại cá",
+  "desc": "các loại cá\n\nYouTube · Bông Kids TV\n621K+ followers",
+  "link": "https://www.youtube.com/playlist?list=PLFD_MKY01gpxjv3CkB5vPJkLEejmF1hv9",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Loại cá đồng bụng đầy trứng là đặc sản miền Tây, mỗi ...",
+  "desc": "Loại cá đồng bụng đầy trứng là đặc sản miền Tây, mỗi ...\n\nTạp chí Saostar\nhttps://www.saostar.vn › loai-ca-d...\n·\nTranslate this page",
+  "link": "https://www.saostar.vn/an-choi-kham-pha/loai-ca-dong-bung-day-trung-la-dac-san-mien-tay-moi-nam-co-dung-1-mua-202510090707023411.html",
+  "domain": "www.saostar.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.saostar.vn"
+}
+,{
+  "type": "link",
+  "title": "Những loại cá tốt và không tốt cho sức khỏe của bạn",
+  "desc": "Những loại cá tốt và không tốt cho sức khỏe của bạn\n\nVinmec\nhttps://www.vinmec.com › bai-viet\n·\nTranslate this page",
+  "link": "https://www.vinmec.com/vie/bai-viet/nhung-loai-ca-tot-va-khong-tot-cho-suc-khoe-cua-ban-vi",
+  "domain": "www.vinmec.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.vinmec.com"
+}
+,{
+  "type": "link",
+  "title": "Ba loại cá vừa ngon vừa bổ dưỡng, nên có trong bữa ăn",
+  "desc": "Ba loại cá vừa ngon vừa bổ dưỡng, nên có trong bữa ăn\n\nZnews\nhttps://lifestyle.znews.vn › ba-loai-...\n·\nTranslate this page",
+  "link": "https://lifestyle.znews.vn/ba-loai-ca-vua-ngon-vua-bo-duong-nen-co-trong-bua-an-post1590045.html",
+  "domain": "lifestyle.znews.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=lifestyle.znews.vn"
+}
+,{
+  "type": "link",
+  "title": "Những loại cá nước ngọt (cá sông) ngon nhất thế giới",
+  "desc": "Những loại cá nước ngọt (cá sông) ngon nhất thế giới\n\nbachhoaxanh.com\nhttps://www.bachhoaxanh.com › nh...\n·\nTranslate this page",
+  "link": "https://www.bachhoaxanh.com/kinh-nghiem-hay/nhung-loai-ca-nuoc-ngot-ngon-nhat-the-gioi-1042034",
+  "domain": "www.bachhoaxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.bachhoaxanh.com"
+}
+,{
+  "type": "link",
+  "title": "Cá dữ – Wikipedia tiếng Việt",
+  "desc": "Cá dữ – Wikipedia tiếng Việt\n\nWikipedia\nhttps://vi.wikipedia.org › wiki › C...\n·\nTranslate this page",
+  "link": "https://vi.wikipedia.org/wiki/C%C3%A1_d%E1%BB%AF",
+  "domain": "vi.wikipedia.org",
+  "favicon": "https://www.google.com/s2/favicons?domain=vi.wikipedia.org"
+}
+,{
+  "type": "link",
+  "title": "Giá trị dinh dưỡng khi ăn các loại cá",
+  "desc": "Giá trị dinh dưỡng khi ăn các loại cá\n\nVinmec\nhttps://www.vinmec.com › bai-viet\n·\nTranslate this page",
+  "link": "https://www.vinmec.com/vie/bai-viet/gia-tri-dinh-duong-khi-cac-loai-ca-vi",
+  "domain": "www.vinmec.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.vinmec.com"
+}
+,{
+  "type": "link",
+  "title": "Loài cá bổ dưỡng ví như \"nhân sâm nước\", nuôi dày đặc ở ...",
+  "desc": "Loài cá bổ dưỡng ví như \"nhân sâm nước\", nuôi dày đặc ở ...\n\nBáo Dân Việt\nhttps://danviet.vn › Nhà nông\n·\nTranslate this page",
+  "link": "https://danviet.vn/loai-ca-bo-duong-vi-nhu-nhan-sam-nuoc-nuoi-day-dac-o-khanh-hoa-bat-ban-gia-cao-nhat-600000-dong-kg-d1369887.html",
+  "domain": "danviet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=danviet.vn"
+}
+,{
+  "type": "link",
+  "title": "Việt Nam sở hữu 3 loại cá tốt nhất thế giới",
+  "desc": "Việt Nam sở hữu 3 loại cá tốt nhất thế giới\n\nCafeF\nhttps://cafef.vn › Sống\n·\nTranslate this page",
+  "link": "https://cafef.vn/viet-nam-so-huu-3-loai-ca-tot-nhat-the-gioi-gia-binh-dan-chong-ung-thu-tang-ca-tuoi-tho-188251013193820564.chn",
+  "domain": "cafef.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=cafef.vn"
+}
+,{
+  "type": "link",
+  "title": "Việt Nam có loài cá vẻ ngoài đáng sợ ví như \"quái vật ...",
+  "desc": "Việt Nam có loài cá vẻ ngoài đáng sợ ví như \"quái vật ...\n\nTin tức 24h\nhttps://www.24h.com.vn › thi-truo...\n·\nTranslate this page",
+  "link": "https://www.24h.com.vn/thi-truong-tieu-dung/viet-nam-co-loai-ca-ve-ngoai-dang-so-vi-nhu-quai-vat-truoc-khong-ai-an-nay-hoa-mo-vang-c52a1708398.html",
+  "domain": "www.24h.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.24h.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Đa Dạng Loại Cá Tươi Sống - Chất Lượng",
+  "desc": "Đa Dạng Loại Cá Tươi Sống - Chất Lượng\n\nHải Sản Hoàng Gia\nhttps://haisanhoanggia.com › colle...\n·\nTranslate this page",
+  "link": "https://haisanhoanggia.com/collections/ca?srsltid=AfmBOopnLPz8sz8sojRwCPnrmYlWBqR2zoBIZ9gI1Bc4z-fcij6sdYBy",
+  "domain": "haisanhoanggia.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=haisanhoanggia.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Đa Dạng Loại Cá Tươi Sống - Chất Lượng\n\nHải Sản Hoàng Gia\nhttps://haisanhoanggia.com › colle...\n·\nTranslate this page",
+  "link": "https://haisanhoanggia.com/collections/ca",
+  "domain": "haisanhoanggia.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=haisanhoanggia.com"
+}
+,{
+  "type": "link",
+  "title": "Hơn 100 món ngon từ cá Việt Nam lập kỷ lục",
+  "desc": "Hơn 100 món ngon từ cá Việt Nam lập kỷ lục\n\nBáo Tuổi Trẻ\nhttps://tuoitre.vn › Văn hóa\n·\nTranslate this page",
+  "link": "https://tuoitre.vn/hon-100-mon-ngon-tu-ca-viet-nam-lap-ky-luc-2025102320072912.htm",
+  "domain": "tuoitre.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tuoitre.vn"
+}
+,{
+  "type": "link",
+  "title": "Tất tần tật tên các loài cá nước ngọt, nước mặn phổ biến nhất",
+  "desc": "Tất tần tật tên các loài cá nước ngọt, nước mặn phổ biến nhất\n\nFPTShop\nhttps://fptshop.com.vn › ... › Bài viết\n·\nTranslate this page",
+  "link": "https://fptshop.com.vn/tin-tuc/dien-may/ten-cac-loai-ca-178756",
+  "domain": "fptshop.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=fptshop.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Người huyết áp cao nên ăn loại cá này thường xuyên",
+  "desc": "Người huyết áp cao nên ăn loại cá này thường xuyên\n\nLaodong.vn\nhttps://laodong.vn › nguoi-huyet-...\n·\nTranslate this page",
+  "link": "https://laodong.vn/dinh-duong-am-thuc/nguoi-huyet-ap-cao-nen-an-loai-ca-nay-thuong-xuyen-1596231.ldo",
+  "domain": "laodong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=laodong.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá cảnh rẻ đẹp, tiệm bán cá cảnh siêu đẹp, dễ nuôi ở Việt ...",
+  "desc": "Cá cảnh rẻ đẹp, tiệm bán cá cảnh siêu đẹp, dễ nuôi ở Việt ...\n\nCá Cảnh Thủy Sinh Trung Tín\nhttps://cacanhthuysinhtrungtin.com › ...\n·\nTranslate this page",
+  "link": "https://cacanhthuysinhtrungtin.com/danh-muc-san-pham/ca-canh/",
+  "domain": "cacanhthuysinhtrungtin.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=cacanhthuysinhtrungtin.com"
+}
+,{
+  "type": "link",
+  "title": "Thả trên 81 nghìn con cá giống xuống hồ sông Đà",
+  "desc": "Thả trên 81 nghìn con cá giống xuống hồ sông Đà\n\nBáo Sơn La\nhttps://baosonla.vn › nong-nghiep\n·\nTranslate this page",
+  "link": "https://baosonla.vn/nong-nghiep/tha-tren-81-nghin-con-ca-giong-xuong-ho-song-da-TXlCGpRvg.html",
+  "domain": "baosonla.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baosonla.vn"
+}
+,{
+  "type": "link",
+  "title": "Tổng hợp cá cảnh đẹp dễ nuôi",
+  "desc": "Tổng hợp cá cảnh đẹp dễ nuôi\n\nYouTube · Anh Tư Mộng Vlog\n497K+ followers",
+  "link": "https://www.youtube.com/playlist?list=PLryRpR65QlBL0SQj3GAn9chTvSXwu1cX1",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
+,{
+  "type": "link",
+  "title": "Trúng đậm cá khủng khi kéo vó",
+  "desc": "Trúng đậm cá khủng khi kéo vó\n\nVnExpress\nhttps://vnexpress.net › thu-gian-vi...\n·\nTranslate this page",
+  "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-trung-dam-ca-khung-khi-keo-vo-4948861.html",
+  "domain": "vnexpress.net",
+  "favicon": "https://www.google.com/s2/favicons?domain=vnexpress.net"
+}
+,{
+  "type": "link",
+  "title": "DANH SÁCH CÁC LOÀI CÁ SỐNG VÀ CÁ CẢNH ĐƯỢC ...",
+  "desc": "DANH SÁCH CÁC LOÀI CÁ SỐNG VÀ CÁ CẢNH ĐƯỢC ...\n\ndichvuthutuchaiquan.vn\nhttps://dichvuthutuchaiquan.vn › da...\n·\nTranslate this page",
+  "link": "https://dichvuthutuchaiquan.vn/danh-sach-cac-loai-ca-song-va-ca-canh-duoc-phep-nhap-khau-vao-viet-nam",
+  "domain": "dichvuthutuchaiquan.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=dichvuthutuchaiquan.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá tầm nặng 50kg \"gây sốt\" tại Tuần lễ Nông sản, bán hơn ...",
+  "desc": "Cá tầm nặng 50kg \"gây sốt\" tại Tuần lễ Nông sản, bán hơn ...\n\nBáo Dân trí\nhttps://dantri.com.vn › kinh-doanh\n·\nTranslate this page",
+  "link": "https://dantri.com.vn/kinh-doanh/ca-tam-nang-50kg-gay-sot-tai-tuan-le-nong-san-ban-hon-100-trieu-dong-20251024174707423.htm",
+  "domain": "dantri.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=dantri.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Nuôi loài cá quý có vảy vàng óng ánh, thịt thơm, nông ...",
+  "desc": "Nuôi loài cá quý có vảy vàng óng ánh, thịt thơm, nông ...\n\nBáo Dân Việt\nhttps://danviet.vn › Nhà nông\n·\nTranslate this page",
+  "link": "https://danviet.vn/nuoi-loai-ca-quy-co-vay-vang-ong-anh-thit-thom-nong-dan-tuyen-quang-ban-gia-nua-trieu-dong-kg-van-het-veo-d1372769.html",
+  "domain": "danviet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=danviet.vn"
+}
+,{
+  "type": "link",
+  "title": "Ẩn mình dưới bùn, loại cá nhỏ bé này thành đặc sản lừng ...",
+  "desc": "Ẩn mình dưới bùn, loại cá nhỏ bé này thành đặc sản lừng ...\n\nVOV\nhttps://vov.vn › kinh-te › an-minh...\n·\nTranslate this page",
+  "link": "https://vov.vn/kinh-te/an-minh-duoi-bun-loai-ca-nho-be-nay-thanh-dac-san-lung-danh-mien-tay-post1240214.vov",
+  "domain": "vov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vov.vn"
+}
+,{
+  "type": "link",
+  "title": "11.314 món cá thơm ngon, đa dạng và dễ làm tại nhà",
+  "desc": "11.314 món cá thơm ngon, đa dạng và dễ làm tại nhà\n\nCookpad\nhttps://cookpad.com › tim-kiem › cá\n·\nTranslate this page",
+  "link": "https://cookpad.com/vn/tim-kiem/c%C3%A1",
+  "domain": "cookpad.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=cookpad.com"
+}
+,{
+  "type": "link",
+  "title": "Cá tầm nuôi 15 năm xuất hiện tại Hà Nội được mua với giá ...",
+  "desc": "Cá tầm nuôi 15 năm xuất hiện tại Hà Nội được mua với giá ...\n\nLaodong.vn\nhttps://laodong.vn › kinh-doanh\n·\nTranslate this page",
+  "link": "https://laodong.vn/kinh-doanh/ca-tam-nuoi-15-nam-xuat-hien-tai-ha-noi-duoc-mua-voi-gia-102-trieu-dong-1597554.ldo",
+  "domain": "laodong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=laodong.vn"
+}
+,{
+  "type": "link",
+  "title": "Công thức kho cá đơn giản, siêu tốn cơm cho ngày trở lạnh",
+  "desc": "Công thức kho cá đơn giản, siêu tốn cơm cho ngày trở lạnh\n\nTin tức 24h\nhttps://www.24h.com.vn › am-thuc\n·\nTranslate this page",
+  "link": "https://www.24h.com.vn/am-thuc/cong-thuc-kho-ca-don-gian-sieu-ton-com-cho-ngay-tro-lanh-c460a1708225.html",
+  "domain": "www.24h.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.24h.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Loại cá bé bằng ngón tay nhưng bụng đầy trứng, là đặc ...",
+  "desc": "Loại cá bé bằng ngón tay nhưng bụng đầy trứng, là đặc ...\n\nBáo Mới\nhttps://baomoi.com › ... › Ẩm thực\n·\nTranslate this page",
+  "link": "https://baomoi.com/loai-ca-be-bang-ngon-tay-nhung-bung-day-trung-la-dac-san-mien-tay-an-beo-bui-ma-khong-ngan-c53569840.epi",
+  "domain": "baomoi.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=baomoi.com"
+}
+,{
+  "type": "link",
+  "title": "Cá sông là cá gì? 16 Loại cá nước ngọt phổ biến nhất hiện ...",
+  "desc": "Cá sông là cá gì? 16 Loại cá nước ngọt phổ biến nhất hiện ...\n\nFPTShop\nhttps://fptshop.com.vn › ... › Bài viết\n·\nTranslate this page",
+  "link": "https://fptshop.com.vn/tin-tuc/dien-may/ca-song-180325",
+  "domain": "fptshop.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=fptshop.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá Cảnh, Tép Cảnh",
+  "desc": "Cá Cảnh, Tép Cảnh\n\nThủy Sinh Tím\nhttps://thuysinhtim.vn › ca-canh-te...\n·\nTranslate this page",
+  "link": "https://thuysinhtim.vn/ca-canh-tep-canh",
+  "domain": "thuysinhtim.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thuysinhtim.vn"
+}
+,{
+  "type": "link",
+  "title": "100 loại cá Việt Nam cùng 'lên bàn tiệc' lập kỷ lục ẩm thực👇",
+  "desc": "100 loại cá Việt Nam cùng 'lên bàn tiệc' lập kỷ lục ẩm thực👇\n\nFacebook · VnExpress.net\n110+ reactions · 22 hours ago",
+  "link": "https://www.facebook.com/congdongvnexpress/posts/100-lo%E1%BA%A1i-c%C3%A1-vi%E1%BB%87t-nam-c%C3%B9ng-l%C3%AAn-b%C3%A0n-ti%E1%BB%87c-l%E1%BA%ADp-k%E1%BB%B7-l%E1%BB%A5c-%E1%BA%A9m-th%E1%BB%B1c/1249747083853967/",
+  "domain": "www.facebook.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com"
+}
+,{
+  "type": "link",
+  "title": "Cá tầm 'khủng' 50 kg được đấu giá 102 triệu đồng",
+  "desc": "Cá tầm 'khủng' 50 kg được đấu giá 102 triệu đồng\n\nBáo Thanh Niên\nhttps://thanhnien.vn › Kinh tế\n·\nTranslate this page",
+  "link": "https://thanhnien.vn/ca-tam-khung-50-kg-duoc-dau-gia-102-trieu-dong-185251024175605649.htm",
+  "domain": "thanhnien.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thanhnien.vn"
+}
+,{
+  "type": "link",
+  "title": "Top những loại cá ngon nhất thế giới tại Việt Nam",
+  "desc": "Top những loại cá ngon nhất thế giới tại Việt Nam\n\nNgoc Huong Seafood Restaurant\nhttps://ngochuong.vn › top-nhung...\n·\nTranslate this page",
+  "link": "https://ngochuong.vn/top-nhung-loai-ca-ngon-nhat-the-gioi-tai-ngoc-huong-n218.html",
+  "domain": "ngochuong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=ngochuong.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá giống - Giá Tốt, Miễn Phí Vận Chuyển, Đủ Loại",
+  "desc": "Cá giống - Giá Tốt, Miễn Phí Vận Chuyển, Đủ Loại\n\nShopee Việt Nam\nhttps://shopee.vn › list › cá giống\n·\nTranslate this page",
+  "link": "https://shopee.vn/list/c%C3%A1%20gi%E1%BB%91ng",
+  "domain": "shopee.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=shopee.vn"
+}
+,{
+  "type": "link",
+  "title": "Các loại Cá Cảnh ĐẸP - Dễ Nuôi - Khỏe giá tốt",
+  "desc": "Các loại Cá Cảnh ĐẸP - Dễ Nuôi - Khỏe giá tốt\n\nCá Cảnh Kim Giang\nhttps://cacanhkimgiang.com › ca-c...\n·\nTranslate this page",
+  "link": "https://cacanhkimgiang.com/ca-canh-dep",
+  "domain": "cacanhkimgiang.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=cacanhkimgiang.com"
+}
+,{
+  "type": "link",
+  "title": "Thả hơn 2 tấn cá giống xuống lòng hồ Thủy điện Châu ...",
+  "desc": "Thả hơn 2 tấn cá giống xuống lòng hồ Thủy điện Châu ...\n\nCổng thông tin điện tử Nghệ An\nhttps://quephong.nghean.gov.vn › t...\n·\nTranslate this page",
+  "link": "https://quephong.nghean.gov.vn/van-hoa-xa-hoi/tha-hon-2-tan-ca-giong-xuong-long-ho-thuy-dien-chau-thang-979940",
+  "domain": "quephong.nghean.gov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=quephong.nghean.gov.vn"
+}
+,{
+  "type": "link",
+  "title": "Phân biệt các loại cá nước ngọt phổ biến vô cùng đơn giản",
+  "desc": "Phân biệt các loại cá nước ngọt phổ biến vô cùng đơn giản\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › p...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/vao-bep/phan-biet-cac-loai-ca-nuoc-ngot-pho-bien-vo-cung-don-gian-18377?srsltid=AfmBOopDcTB3-1FgNoofCLbBcOQGUEYNMOI1PjljHT9W7Lydcc74WYYG",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Phân biệt các loại cá nước ngọt phổ biến vô cùng đơn giản\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › p...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/vao-bep/phan-biet-cac-loai-ca-nuoc-ngot-pho-bien-vo-cung-don-gian-18377",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "TỔNG HỢP CÁC CÂU ĐỐ VUI VỀ LOÀI CÁ",
+  "desc": "TỔNG HỢP CÁC CÂU ĐỐ VUI VỀ LOÀI CÁ\n\nthcamlinh.edu.vn\nhttp://thcamlinh.edu.vn › tong-ho...\n·\nTranslate this page",
+  "link": "http://thcamlinh.edu.vn/tin-tuc-su-kien/tong-hop-cac-cau-do-vui-chuong-trinh-tieu-hoc-cau-do-vui-ve-loai-ca.html",
+  "domain": "thcamlinh.edu.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thcamlinh.edu.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 10 loại cá ngon nhất trên thế giới",
+  "desc": "Top 10 loại cá ngon nhất trên thế giới\n\nHải Sản Hoàng Long\nhttps://haisanhoanglong.com › top...\n·\nTranslate this page",
+  "link": "https://haisanhoanglong.com/top-10-loai-ca-ngon-nhat-tren-gioi/",
+  "domain": "haisanhoanglong.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=haisanhoanglong.com"
+}
+,{
+  "type": "link",
+  "title": "Tin tức - Xưởng sản xuất hồ cá PT AQUA",
+  "desc": "Tin tức - Xưởng sản xuất hồ cá PT AQUA\n\nhocamini.vn\nhttps://hocamini.vn › tin-tuc\n·\nTranslate this page",
+  "link": "https://hocamini.vn/tin-tuc",
+  "domain": "hocamini.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=hocamini.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá thuỷ sinh đẹp, nhiều mẫu giá rẻ",
+  "desc": "Cá thuỷ sinh đẹp, nhiều mẫu giá rẻ\n\nThủy Sinh Xanh\nhttps://thuysinhxanh.vn › ca-thuy-...\n·\nTranslate this page",
+  "link": "https://thuysinhxanh.vn/dm/ca-tep-oc-canh/ca-thuy-sinh/",
+  "domain": "thuysinhxanh.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thuysinhxanh.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá cảnh - Sản Phẩm Chính Hãng, Giá Tốt, Đảm Bảo",
+  "desc": "Cá cảnh - Sản Phẩm Chính Hãng, Giá Tốt, Đảm Bảo\n\nShopee Việt Nam\nhttps://shopee.vn › list › cá cảnh\n·\nTranslate this page",
+  "link": "https://shopee.vn/list/c%C3%A1%20c%E1%BA%A3nh",
+  "domain": "shopee.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=shopee.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá cung cấp chất gì? Lợi ích của cá đối với sức khỏe",
+  "desc": "Cá cung cấp chất gì? Lợi ích của cá đối với sức khỏe\n\nNhà thuốc Long Châu\nhttps://nhathuoclongchau.com.vn › ...\n·\nTranslate this page",
+  "link": "https://nhathuoclongchau.com.vn/bai-viet/ca-cung-cap-chat-gi-loi-ich-cua-ca-doi-voi-suc-khoe.html",
+  "domain": "nhathuoclongchau.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=nhathuoclongchau.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Tổng hợp 23 loài cá cảnh siêu đẹp tại Việt Nam",
+  "desc": "Tổng hợp 23 loài cá cảnh siêu đẹp tại Việt Nam\n\nTepbac.com\nhttps://tepbac.com › ... › Tổng hợp\n·\nTranslate this page",
+  "link": "https://tepbac.com/tin-tuc/full/tong-hop-23-loai-ca-canh-sieu-dep-tai-viet-nam-35762.html",
+  "domain": "tepbac.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=tepbac.com"
+}
+,{
+  "type": "link",
+  "title": "Cá rô phi vượt định kiến, trở thành mặt hàng xuất khẩu chủ ...",
+  "desc": "Cá rô phi vượt định kiến, trở thành mặt hàng xuất khẩu chủ ...\n\nVietnam+ (VietnamPlus)\nhttps://www.vietnamplus.vn › ca-ro...\n·\nTranslate this page",
+  "link": "https://www.vietnamplus.vn/ca-ro-phi-vuot-dinh-kien-tro-thanh-mat-hang-xuat-khau-chu-luc-post1072378.vnp",
+  "domain": "www.vietnamplus.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.vietnamplus.vn"
+}
+,{
+  "type": "link",
+  "title": "Nên uống dầu cá khi nào?",
+  "desc": "Nên uống dầu cá khi nào?\n\nBáo Sức khỏe & Đời sống\nhttps://suckhoedoisong.vn › nen-u...\n·\nTranslate this page",
+  "link": "https://suckhoedoisong.vn/nen-uong-dau-ca-khi-nao-169251023112342376.htm",
+  "domain": "suckhoedoisong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=suckhoedoisong.vn"
+}
+,{
+  "type": "link",
+  "title": "Ca sĩ Đức Phúc tham gia đấu giá cá tầm lớn nhất Lai Châu ...",
+  "desc": "Ca sĩ Đức Phúc tham gia đấu giá cá tầm lớn nhất Lai Châu ...\n\nBáo Người Lao Động\nhttps://nld.com.vn › Kinh tế\n·\nTranslate this page",
+  "link": "https://nld.com.vn/ca-si-duc-phuc-tham-gia-dau-gia-ca-tam-lon-nhat-lai-chau-bat-ngo-ket-qua-196251024180153399.htm",
+  "domain": "nld.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=nld.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá tầm 50kg lớn nhất Lai Châu được đấu giá 102 triệu đồng",
+  "desc": "Cá tầm 50kg lớn nhất Lai Châu được đấu giá 102 triệu đồng\n\nBáo Pháp Luật TP. Hồ Chí Minh\nhttps://plo.vn › ...\n·\nTranslate this page",
+  "link": "https://plo.vn/ca-tam-50kg-lon-nhat-lai-chau-duoc-dau-gia-102-trieu-dong-post877402.html",
+  "domain": "plo.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=plo.vn"
+}
+,{
+  "type": "link",
+  "title": "11 loại cá ngon mà bạn không nên ăn nhiều",
+  "desc": "11 loại cá ngon mà bạn không nên ăn nhiều\n\nHello Bacsi\nhttps://hellobacsi.com › ... › Thông tin dinh dưỡng",
+  "link": "https://hellobacsi.com/an-uong-lanh-manh/thong-tin-dinh-duong/11-loai-ca-ngon/",
+  "domain": "hellobacsi.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=hellobacsi.com"
+}
+,{
+  "type": "link",
+  "title": "TPHCM siết kiểm soát tàu cá né tránh cảng chỉ định",
+  "desc": "TPHCM siết kiểm soát tàu cá né tránh cảng chỉ định\n\nBÁO SÀI GÒN GIẢI PHÓNG\nhttps://www.sggp.org.vn › tphcm-si...\n·\nTranslate this page",
+  "link": "https://www.sggp.org.vn/tphcm-siet-kiem-soat-tau-ca-ne-tranh-cang-chi-dinh-post819708.html",
+  "domain": "www.sggp.org.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.sggp.org.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá tầm là cá gì, sống ở đâu? Cá tầm giá bao nhiêu? Nơi ...",
+  "desc": "Cá tầm là cá gì, sống ở đâu? Cá tầm giá bao nhiêu? Nơi ...\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › ca...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/vao-bep/ca-tam-la-ca-gi-song-o-dau-ca-tam-gia-bao-nhieu-noi-mua-ca-11438?srsltid=AfmBOopuZs98t2iqYbZ-k9OjU5APMOKIjeB8iPx3iwYmzxnVvmOSpHJd",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "(Không có tiêu đề)",
+  "desc": "Cá tầm là cá gì, sống ở đâu? Cá tầm giá bao nhiêu? Nơi ...\n\nSiêu thị Điện Máy XANH\nhttps://www.dienmayxanh.com › ca...\n·\nTranslate this page",
+  "link": "https://www.dienmayxanh.com/vao-bep/ca-tam-la-ca-gi-song-o-dau-ca-tam-gia-bao-nhieu-noi-mua-ca-11438",
+  "domain": "www.dienmayxanh.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.dienmayxanh.com"
+}
+,{
+  "type": "link",
+  "title": "Cá rô phi vượt định kiến, trở thành mặt hàng xuất khẩu chủ ...",
+  "desc": "Cá rô phi vượt định kiến, trở thành mặt hàng xuất khẩu chủ ...\n\nBáo Mới\nhttps://baomoi.com › Kinh tế\n·\nTranslate this page",
+  "link": "https://baomoi.com/ca-ro-phi-vuot-dinh-kien-tro-thanh-mat-hang-xuat-khau-chu-luc-c53576757.epi",
+  "domain": "baomoi.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=baomoi.com"
+}
+,{
+  "type": "link",
+  "title": "Tàu 521 kịp thời cứu nạn tàu cá gặp sự cố",
+  "desc": "Tàu 521 kịp thời cứu nạn tàu cá gặp sự cố\n\nBáo Hải quân Việt Nam\nhttps://baohaiquanvietnam.vn › tau-...\n·\nTranslate this page",
+  "link": "https://baohaiquanvietnam.vn/tin-tuc/tau-521-kip-thoi-cuu-nan-tau-ca-gap-su-co",
+  "domain": "baohaiquanvietnam.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baohaiquanvietnam.vn"
+}
+,{
+  "type": "link",
+  "title": "Quảng Ngãi một tàu cá đang di chuyển tránh bão số 12 thì ...",
+  "desc": "Quảng Ngãi một tàu cá đang di chuyển tránh bão số 12 thì ...\n\nBáo Dân Tộc\nhttps://baodantoc.vn › Xã hội\n·\nTranslate this page",
+  "link": "https://baodantoc.vn/quang-ngai-mot-tau-ca-dang-di-chuyen-tranh-bao-so-12-thi-bi-pha-nuoc-1761203631201.htm",
+  "domain": "baodantoc.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baodantoc.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá mồi, cá con: cá trắm cỏ, trôi, mè, chép con... để làm thức ăn ...",
+  "desc": "Cá mồi, cá con: cá trắm cỏ, trôi, mè, chép con... để làm thức ăn ...\n\ncarong1068.com\nhttps://m.carong1068.com › ca-moi-8\n·\nTranslate this page",
+  "link": "https://m.carong1068.com/ca-moi-8.htm",
+  "domain": "m.carong1068.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=m.carong1068.com"
+}
+,{
+  "type": "link",
+  "title": "Bắt được cá sấu hơn 50kg 'đi lạc' gần khu dân cư",
+  "desc": "Bắt được cá sấu hơn 50kg 'đi lạc' gần khu dân cư\n\nBáo Tuổi Trẻ\nhttps://tuoitre.vn › Thời sự\n·\nTranslate this page",
+  "link": "https://tuoitre.vn/bat-duoc-ca-sau-hon-50kg-di-lac-gan-khu-dan-cu-20251022205355026.htm",
+  "domain": "tuoitre.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tuoitre.vn"
+}
+,{
+  "type": "link",
+  "title": "thuysinh247.com",
+  "desc": "thuysinh247.com\n\nDropCatch.com\nhttps://thuysinh247.com › ca-da-an-gi",
+  "link": "https://thuysinh247.com/ca-da-an-gi/",
+  "domain": "thuysinh247.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=thuysinh247.com"
+}
+,{
+  "type": "link",
+  "title": "Mắt cá chân: Cấu tạo, chức năng và cách chăm sóc để ...",
+  "desc": "Mắt cá chân: Cấu tạo, chức năng và cách chăm sóc để ...\n\nTiêm chủng Long Châu\nhttps://tiemchunglongchau.com.vn › ...\n·\nTranslate this page",
+  "link": "https://tiemchunglongchau.com.vn/kien-thuc-tiem-chung/mat-ca-chan-cau-tao-chuc-nang-va-cach-cham-soc-de-luon-khoe-manh",
+  "domain": "tiemchunglongchau.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tiemchunglongchau.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Xử phạt hơn 130 tàu cá vi phạm mất kết nối VMS",
+  "desc": "Xử phạt hơn 130 tàu cá vi phạm mất kết nối VMS\n\nBáo Nhân Dân điện tử\nhttps://nhandan.vn › lam-dong-xu-...\n·\nTranslate this page",
+  "link": "https://nhandan.vn/lam-dong-xu-phat-hon-130-tau-ca-vi-pham-mat-ket-noi-vms-post917433.html",
+  "domain": "nhandan.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=nhandan.vn"
+}
+,{
+  "type": "link",
+  "title": "Gia Lai siết chặt quản lý tàu cá, quyết gỡ 'thẻ vàng'",
+  "desc": "Gia Lai siết chặt quản lý tàu cá, quyết gỡ 'thẻ vàng'\n\nBáo điện tử Tiền Phong\nhttps://tienphong.vn › gia-lai-siet-c...\n·\nTranslate this page",
+  "link": "https://tienphong.vn/gia-lai-siet-chat-quan-ly-tau-ca-quyet-go-the-vang-post1789815.tpo",
+  "domain": "tienphong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tienphong.vn"
+}
+,{
+  "type": "link",
+  "title": "5 loại cá tốt nhất cho làn da và vóc dáng: Ăn vào vừa khỏe ...",
+  "desc": "5 loại cá tốt nhất cho làn da và vóc dáng: Ăn vào vừa khỏe ...\n\nCafeF\nhttps://cafef.vn › Sống\n·\nTranslate this page",
+  "link": "https://cafef.vn/5-loai-ca-tot-nhat-cho-lan-da-va-voc-dang-an-vao-vua-khoe-con-khong-lo-beo-188251024132701649.chn",
+  "domain": "cafef.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=cafef.vn"
+}
+,{
+  "type": "link",
+  "title": "Ẩm thực Việt và màn công diễn đẹp mắt tại TP.HCM",
+  "desc": "Ẩm thực Việt và màn công diễn đẹp mắt tại TP.HCM\n\nBáo Thanh Niên\nhttps://thanhnien.vn › ... › Ẩm thực\n·\nTranslate this page",
+  "link": "https://thanhnien.vn/am-thuc-viet-va-man-cong-dien-dep-mat-tai-tphcm-mon-ngon-tu-100-loai-ca-185251023143936545.htm",
+  "domain": "thanhnien.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thanhnien.vn"
+}
+,{
+  "type": "link",
+  "title": "Tuyệt đối không ăn cá nóc",
+  "desc": "Tuyệt đối không ăn cá nóc\n\nBáo Lâm Đồng\nhttps://baolamdong.vn › tuyet-doi-...\n·\nTranslate this page",
+  "link": "https://baolamdong.vn/tuyet-doi-khong-an-ca-noc-397443.html",
+  "domain": "baolamdong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baolamdong.vn"
+}
+,{
+  "type": "link",
+  "title": "Thả hơn 2 tấn cá giống tái tạo nguồn lợi thủy sản tại lòng hồ ...",
+  "desc": "Thả hơn 2 tấn cá giống tái tạo nguồn lợi thủy sản tại lòng hồ ...\n\nthuonghieucongluan.com.vn\nhttps://thuonghieucongluan.com.vn › ...\n·\nTranslate this page",
+  "link": "https://thuonghieucongluan.com.vn/tha-hon-2-tan-ca-giong-tai-tao-nguon-loi-thuy-san-tai-long-ho-thuy-dien-chau-thang-a286954.html",
+  "domain": "thuonghieucongluan.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=thuonghieucongluan.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Thả hơn 2,3 tấn cá giống tái tạo nguồn lợi thủy sản tại hồ ...",
+  "desc": "Thả hơn 2,3 tấn cá giống tái tạo nguồn lợi thủy sản tại hồ ...\n\nbaonghean.vn\nhttps://baonghean.vn › Kinh tế\n·\nTranslate this page",
+  "link": "https://baonghean.vn/tha-hon-2-3-tan-ca-giong-tai-tao-nguon-loi-thuy-san-tai-ho-chau-thang-10308928.html",
+  "domain": "baonghean.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=baonghean.vn"
+}
+,{
+  "type": "link",
+  "title": "Photo by tớ là cá con 🐟 (@tolacacon) · October 24, 2025",
+  "desc": "Photo by tớ là cá con 🐟 (@tolacacon) · October 24, 2025\n\nInstagram · tolacacon\n770+ likes · 47 minutes ago",
+  "link": "https://www.instagram.com/p/DQMWdaHkord/",
+  "domain": "www.instagram.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.instagram.com"
+}
+,{
+  "type": "link",
+  "title": "Tối nay trời lạnh dắt nhau đi ăn nem chua nướng, cá bò ...",
+  "desc": "Tối nay trời lạnh dắt nhau đi ăn nem chua nướng, cá bò ...\n\nFacebook · Hà Nội Riviu - Riviu.vn\n5 comments · 4 hours ago",
+  "link": "https://www.facebook.com/groups/Thanhriviu.Hanoi/posts/1798083680855360/",
+  "domain": "www.facebook.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.facebook.com"
+}
+,{
+  "type": "link",
+  "title": "Doanh nghiệp dùng 6 người mẫu quảng cáo dịch vụ cá độ ...",
+  "desc": "Doanh nghiệp dùng 6 người mẫu quảng cáo dịch vụ cá độ ...\n\nBáo điện tử Tiền Phong\nhttps://tienphong.vn › doanh-nghie...\n·\nTranslate this page",
+  "link": "https://tienphong.vn/doanh-nghiep-dung-6-nguoi-mau-quang-cao-dich-vu-ca-do-tren-san-pickelbal-bi-phat-post1789803.tpo",
+  "domain": "tienphong.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tienphong.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá tầm 50kg lớn nhất Lai Châu được bán đấu giá bao ...",
+  "desc": "Cá tầm 50kg lớn nhất Lai Châu được bán đấu giá bao ...\n\nVTC News\nhttps://vtcnews.vn › ... › Thị trường\n·\nTranslate this page",
+  "link": "https://vtcnews.vn/ca-tam-50kg-lon-nhat-lai-chau-duoc-ban-dau-gia-bao-nhieu-ar973052.html",
+  "domain": "vtcnews.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vtcnews.vn"
+}
+,{
+  "type": "link",
+  "title": "Bắt tạm giam chủ tàu cá tắt định vị để khai thác hải sản bất ...",
+  "desc": "Bắt tạm giam chủ tàu cá tắt định vị để khai thác hải sản bất ...\n\nBáo Pháp Luật TP. Hồ Chí Minh\nhttps://plo.vn › bat-tam-giam-chu-t...\n·\nTranslate this page",
+  "link": "https://plo.vn/bat-tam-giam-chu-tau-ca-tat-dinh-vi-de-khai-thac-hai-san-bat-hop-phap-post877412.html",
+  "domain": "plo.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=plo.vn"
+}
+,{
+  "type": "link",
+  "title": "Cá sấu nặng hơn 50 kg “đi lạc” vào phố ở Gia Lai",
+  "desc": "Cá sấu nặng hơn 50 kg “đi lạc” vào phố ở Gia Lai\n\nBáo Người Lao Động\nhttps://nld.com.vn › Thời sự\n·\nTranslate this page",
+  "link": "https://nld.com.vn/ca-sau-nang-hon-50-kg-di-lac-vao-pho-o-gia-lai-19625102303001559.htm",
+  "domain": "nld.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=nld.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Bệnh mắt cá chân: Nguyên nhân, triệu chứng, điều trị và ...",
+  "desc": "Bệnh mắt cá chân: Nguyên nhân, triệu chứng, điều trị và ...\n\nTiêm chủng Long Châu\nhttps://tiemchunglongchau.com.vn › ...\n·\nTranslate this page",
+  "link": "https://tiemchunglongchau.com.vn/kien-thuc-tiem-chung/benh-mat-ca-chan-nguyen-nhan-trieu-chung-dieu-tri-va-cach-phong-ngua",
+  "domain": "tiemchunglongchau.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=tiemchunglongchau.com.vn"
+}
+,{
+  "type": "link",
+  "title": "Cao Bằng: Xử lý cá nhân chia sẻ thông tin sai sự thật",
+  "desc": "Cao Bằng: Xử lý cá nhân chia sẻ thông tin sai sự thật\n\nCổng Thông tin điện tử Bộ Công an\nhttps://bocongan.gov.vn › bai-viet\n·\nTranslate this page",
+  "link": "https://bocongan.gov.vn/bai-viet/cao-bang-xu-ly-ca-nhan-chia-se-thong-tin-sai-su-that-1761272148",
+  "domain": "bocongan.gov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=bocongan.gov.vn"
+}
+,{
+  "type": "link",
+  "title": "'Săn' loài cá kỳ lạ nhất hành tinh: Vừa biết lặn ...",
+  "desc": "'Săn' loài cá kỳ lạ nhất hành tinh: Vừa biết lặn ...\n\nBáo VietNamNet\nhttps://vietnamnet.vn › Kinh doanh › Thị trường",
+  "link": "https://vietnamnet.vn/san-loai-ca-ky-la-nhat-hanh-tinh-vua-biet-lan-vua-biet-leo-cay-545805.html",
+  "domain": "vietnamnet.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=vietnamnet.vn"
+}
+,{
+  "type": "link",
+  "title": "Loại cá có tên độc lạ, thân dài như đũa mà càng ăn ...",
+  "desc": "Loại cá có tên độc lạ, thân dài như đũa mà càng ăn ...\n\nXahoi.com.vn\nhttps://xahoi.com.vn › loai-ca-co-te...\n·\nTranslate this page",
+  "link": "https://xahoi.com.vn/loai-ca-co-ten-doc-la-than-dai-nhu-dua-ma-cang-an-cang-me-gia-290000-dongkg-393140.html",
+  "domain": "xahoi.com.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=xahoi.com.vn"
+}
+,{
+  "type": "link",
+  "title": "https://colab.moha.gov.vn/video/cá%20lớn%20ăn%20cá...",
+  "desc": "https://colab.moha.gov.vn/video/cá%20lớn%20ăn%20cá...\n\nBộ Nội vụ\nhttps://colab.moha.gov.vn › video\n·\nTranslate this page",
+  "link": "https://colab.moha.gov.vn/video/c%C3%A1%20l%E1%BB%9Bn%20%C4%83n%20c%C3%A1%20b%C3%A9%20y8.xhtml",
+  "domain": "colab.moha.gov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=colab.moha.gov.vn"
+}
+,{
+  "type": "link",
+  "title": "Untitled",
+  "desc": "Untitled\n\nbecaminideban.com\nhttps://becaminideban.com › blog",
+  "link": "https://becaminideban.com/blog/",
+  "domain": "becaminideban.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=becaminideban.com"
+}
+,{
+  "type": "link",
+  "title": "http://quynhluong.gov.vn/vn/cá-độ-gì-cho-vui.phtm",
+  "desc": "http://quynhluong.gov.vn/vn/cá-độ-gì-cho-vui.phtm\n\nquynhluong.gov.vn\nhttp://quynhluong.gov.vn › cá-độ-...\n·\nTranslate this page",
+  "link": "http://quynhluong.gov.vn/vn/c%C3%A1-%C4%91%E1%BB%99-g%C3%AC-cho-vui.phtm",
+  "domain": "quynhluong.gov.vn",
+  "favicon": "https://www.google.com/s2/favicons?domain=quynhluong.gov.vn"
+}
+,{
+  "type": "link",
+  "title": "Top 10 Những Loài Cá Săn Mồi Trên Thế Giới",
+  "desc": "Top 10 Những Loài Cá Săn Mồi Trên Thế Giới\n\nYouTube · ducphamvideo\n1.7K+ views · 2 years ago",
+  "link": "https://www.youtube.com/watch?v=GB673pBtLZk",
+  "domain": "www.youtube.com",
+  "favicon": "https://www.google.com/s2/favicons?domain=www.youtube.com"
+}
 
 ]
