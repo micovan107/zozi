@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8" />
-  <title>Kết quả tìm kiếm</title>
-  <link rel="stylesheet" href="style.css" />  
-  <style>
-    .load-more-container { text-align: center; margin: 20px 0; }
-    .load-more-btn {
-      background: #1a73e8; color: white; padding: 10px 20px;
-      border: none; border-radius: 6px; cursor: pointer; font-size: 15px;
-    }
-    .load-more-btn:hover { background: #0f5bb5; }
-    .result-title { cursor:pointer; color:blue; text-decoration:underline; }
-    .image-item img, .video-thumb img { max-width:100%; display:block; }
-  </style>
+<meta charset="UTF-8" />
+<title>Kết quả tìm kiếm</title>
+<link rel="stylesheet" href="style.css" />
+<style>
+  .load-more-container { text-align: center; margin: 20px 0; }
+  .load-more-btn {
+    background: #1a73e8; color: white; padding: 10px 20px;
+    border: none; border-radius: 6px; cursor: pointer; font-size: 15px;
+  }
+  .load-more-btn:hover { background: #0f5bb5; }
+</style>
 </head>
 <body class="srp">
   <header class="search-header">
     <form class="header-search-bar" onsubmit="return search()">
-      <div class="header-logo" onclick="window.location='index.html'">zozi</div>
+      <div class="header-logo" onclick="window.location='index.html'">Tìm Kiếm</div>
       <input type="text" id="searchBox" placeholder="Nhập từ khóa..." />
       <button type="submit">🔍</button>
     </form>
@@ -38,13 +36,6 @@
     const params = new URLSearchParams(window.location.search);
     const query = params.get('q') || '';
     document.getElementById('searchBox').value = query;
-
-    // 🔹 thêm: đổi tiêu đề trang theo từ khóa tìm kiếm
-    if (query) {
-      document.title = `${query} - Tìm kiếm Zozi`;
-    } else {
-      document.title = "Tìm kiếm Zozi";
-    }
 
     const tabs = document.querySelectorAll('.tab');
     let currentType = 'all';
@@ -69,13 +60,14 @@
       return false;
     }
 
-    function openInWebPage(url){
-      localStorage.setItem('webUrl', url);
-      window.location.href = 'web.html';
-    }
-
+    // === HÀM CẢI TIẾN ===
     function loadResults() {
-      const fileMap = { all: 'data.json', image: 'image.json', video: 'video.json' };
+      const fileMap = {
+        all: 'data.json',
+        image: 'image.json',
+        video: 'video.json'
+      };
+
       fetch(fileMap[currentType])
         .then(res => res.json())
         .then(data => {
@@ -91,15 +83,18 @@
               const desc = (item.desc || '').toLowerCase();
               const domain = (item.domain || '').toLowerCase();
               let score = 0;
+
+              // === ĐÁNH GIÁ ĐỘ LIÊN QUAN ===
               if (regexExact.test(title)) score += 100;
               else if (regexStart.test(title)) score += 60;
               else if (regex.test(title)) score += 30;
               if (regex.test(desc)) score += 10;
               if (regex.test(domain)) score += 5;
+
               return { ...item, score };
             })
             .filter(item => item.score > 0)
-            .sort((a,b) => b.score - a.score);
+            .sort((a, b) => b.score - a.score);
 
           renderResults();
         })
@@ -124,7 +119,7 @@
               <img src="${item.favicon}" alt="">
               <span>${item.domain}</span>
             </div>
-            <div class="result-title" onclick="openInWebPage('${item.link}')">${item.title}</div>
+            <a href="${item.link}" class="result-title" target="_blank">${item.title}</a>
             <p class="result-desc">${item.desc || ''}</p>
           </div>
         `).join('');
@@ -133,7 +128,9 @@
           <div class="image-grid">
             ${resultsToShow.map(item => `
               <div class="image-item">
-                <img src="${item.link}" alt="${item.title}" onclick="openInWebPage('${item.link}')" style="cursor:pointer;">
+                <a href="${item.link}" target="_blank">
+                  <img src="${item.link}" alt="${item.title}">
+                </a>
                 <div class="image-info">
                   <img src="${item.favicon}" alt="">
                   <span>${item.domain}</span>
@@ -145,17 +142,19 @@
       } else if (currentType === 'video') {
         container.innerHTML = resultsToShow.map(item => `
           <div class="video-item">
-            <div class="video-thumb" onclick="openInWebPage('${item.link}')" style="cursor:pointer;">
-              <img src="https://img.youtube.com/vi/${extractYoutubeId(item.link)}/0.jpg" alt="${item.title}">
-            </div>
-            <div class="video-info">
-              <div class="result-title" onclick="openInWebPage('${item.link}')">${item.title}</div>
-              <div class="result-desc">${item.desc || ''}</div>
-              <div class="result-link">
-                <img src="${item.favicon}" alt="">
-                <span>${item.domain}</span>
+            <a href="${item.link}" target="_blank">
+              <div class="video-thumb">
+                <img src="https://img.youtube.com/vi/${extractYoutubeId(item.link)}/0.jpg" alt="${item.title}">
               </div>
-            </div>
+              <div class="video-info">
+                <div class="result-title">${item.title}</div>
+                <div class="result-desc">${item.desc || ''}</div>
+                <div class="result-link">
+                  <img src="${item.favicon}" alt="">
+                  <span>${item.domain}</span>
+                </div>
+              </div>
+            </a>
           </div>
         `).join('');
       }
@@ -174,7 +173,7 @@
     }
 
     const typeFromUrl = params.get('type');
-    if (typeFromUrl && ['all','image','video'].includes(typeFromUrl)) {
+    if (typeFromUrl && ['all', 'image', 'video'].includes(typeFromUrl)) {
       currentType = typeFromUrl;
       tabs.forEach(t => t.classList.remove('active'));
       document.querySelector(`.tab[data-type="${currentType}"]`).classList.add('active');
