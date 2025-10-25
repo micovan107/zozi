@@ -11,7 +11,11 @@
     border: none; border-radius: 6px; cursor: pointer; font-size: 15px;
   }
   .load-more-btn:hover { background: #0f5bb5; }
+  .no-result { margin: 40px; font-size: 18px; color: #777; text-align: center; }
 </style>
+
+<!-- Fuse.js nhẹ và thông minh -->
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 </head>
 <body class="srp">
   <header class="search-header">
@@ -38,7 +42,7 @@
     document.getElementById('searchBox').value = query;
 
     const tabs = document.querySelectorAll('.tab');
-    let currentType = 'all';
+    let currentType = params.get('type') || 'all';
     let allResults = [];
     let visibleCount = 20;
 
@@ -60,45 +64,62 @@
       return false;
     }
 
-    // === HÀM CẢI TIẾN ===
-    function loadResults() {
+    async function fuzzySearch(query, data) {
+      const fuse = new Fuse(data, {
+        keys: ["title", "desc", "domain"],
+        threshold: 0.4, // càng thấp càng chính xác
+        ignoreLocation: true,
+        minMatchCharLength: 2,
+      });
+      return fuse.search(query).map(r => r.item);
+    }
+
+    async function loadResults() {
       const fileMap = {
         all: 'data.json',
         image: 'image.json',
         video: 'video.json'
       };
 
-      fetch(fileMap[currentType])
-        .then(res => res.json())
-        .then(data => {
-          const keyword = query.toLowerCase().trim();
-          const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-          const regex = new RegExp(`\\b${safeKeyword}\\b`, 'i');
-          const regexStart = new RegExp(`^${safeKeyword}\\b`, 'i');
-          const regexExact = new RegExp(`^${safeKeyword}$`, 'i');
+      try {
+        const res = await fetch(fileMap[currentType]);
+        const data = await res.json();
 
-          allResults = data
-            .map(item => {
-              const title = (item.title || '').toLowerCase().trim();
-              const desc = (item.desc || '').toLowerCase();
-              const domain = (item.domain || '').toLowerCase();
-              let score = 0;
+        const keyword = query.toLowerCase().trim();
+        const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const regex = new RegExp(`\\b${safeKeyword}\\b`, 'i');
+        const regexStart = new RegExp(`^${safeKeyword}\\b`, 'i');
+        const regexExact = new RegExp(`^${safeKeyword}$`, 'i');
 
-              // === ĐÁNH GIÁ ĐỘ LIÊN QUAN ===
-              if (regexExact.test(title)) score += 100;
-              else if (regexStart.test(title)) score += 60;
-              else if (regex.test(title)) score += 30;
-              if (regex.test(desc)) score += 10;
-              if (regex.test(domain)) score += 5;
+        // --- Tìm kiếm thông thường ---
+        let filtered = data.map(item => {
+          const title = (item.title || '').toLowerCase();
+          const desc = (item.desc || '').toLowerCase();
+          const domain = (item.domain || '').toLowerCase();
+          let score = 0;
 
-              return { ...item, score };
-            })
-            .filter(item => item.score > 0)
-            .sort((a, b) => b.score - a.score);
+          if (regexExact.test(title)) score += 100;
+          else if (regexStart.test(title)) score += 60;
+          else if (regex.test(title)) score += 30;
+          if (regex.test(desc)) score += 10;
+          if (regex.test(domain)) score += 5;
 
-          renderResults();
-        })
-        .catch(err => console.error('Lỗi tải dữ liệu:', err));
+          return { ...item, score };
+        }).filter(i => i.score > 0);
+
+        // --- Nếu không có hoặc quá ít kết quả thì tìm mờ ---
+        if (filtered.length < 5 && query.length > 1) {
+          console.log("🤖 Dùng Fuse.js để tìm mờ từ khóa...");
+          filtered = await fuzzySearch(query, data);
+        } else {
+          filtered.sort((a, b) => b.score - a.score);
+        }
+
+        allResults = filtered;
+        renderResults();
+      } catch (err) {
+        console.error('Lỗi tải dữ liệu:', err);
+      }
     }
 
     function renderResults() {
@@ -116,8 +137,8 @@
         container.innerHTML = resultsToShow.map(item => `
           <div class="result-item">
             <div class="result-link">
-              <img src="${item.favicon}" alt="">
-              <span>${item.domain}</span>
+              <img src="${item.favicon || ''}" alt="">
+              <span>${item.domain || ''}</span>
             </div>
             <a href="${item.link}" class="result-title" target="_blank">${item.title}</a>
             <p class="result-desc">${item.desc || ''}</p>
@@ -172,14 +193,8 @@
       return match ? match[1] : 'dQw4w9WgXcQ';
     }
 
-    const typeFromUrl = params.get('type');
-    if (typeFromUrl && ['all', 'image', 'video'].includes(typeFromUrl)) {
-      currentType = typeFromUrl;
-      tabs.forEach(t => t.classList.remove('active'));
-      document.querySelector(`.tab[data-type="${currentType}"]`).classList.add('active');
-    }
-
     loadResults();
   </script>
 </body>
 </html>
+
