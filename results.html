@@ -14,12 +14,11 @@
   .no-result { margin: 40px; font-size: 18px; color: #777; text-align: center; }
 </style>
 
-<!-- Fuse.js nhẹ và thông minh -->
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 </head>
 <body class="srp">
   <header class="search-header">
-    <form class="header-search-bar" onsubmit="return search()">
+    <form id="searchForm" class="header-search-bar">
       <div class="header-logo" onclick="window.location='index.html'">Tìm Kiếm</div>
       <input type="text" id="searchBox" placeholder="Nhập từ khóa..." />
       <button type="submit">🔍</button>
@@ -37,41 +36,62 @@
   </div>
 
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const query = params.get('q') || '';
+    let params = new URLSearchParams(window.location.search);
+    let query = params.get('q') || '';
     document.getElementById('searchBox').value = query;
 
     const tabs = document.querySelectorAll('.tab');
     let currentType = params.get('type') || 'all';
     let allResults = [];
     let visibleCount = 20;
+    const cache = {};
 
+    // --- Chọn tab ---
     tabs.forEach(tab => {
       tab.addEventListener('click', () => {
         tabs.forEach(t => t.classList.remove('active'));
         tab.classList.add('active');
         currentType = tab.getAttribute('data-type');
         visibleCount = 20;
+        updateUrl();  // Cập nhật URL khi đổi tab
         loadResults();
       });
     });
 
-    function search() {
+    // --- Không reload khi tìm ---
+    document.getElementById('searchForm').addEventListener('submit', async e => {
+      e.preventDefault();
       const q = document.getElementById('searchBox').value.trim();
-      if (q) {
-        window.location.href = `results.html?q=${encodeURIComponent(q)}&type=${currentType}`;
-      }
-      return false;
+      if (!q) return;
+      query = q;
+      visibleCount = 20;
+      updateUrl();
+      await loadResults();
+    });
+
+    // --- Cập nhật URL mà không reload ---
+    function updateUrl() {
+      const newUrl = `?q=${encodeURIComponent(query)}&type=${currentType}`;
+      history.replaceState({}, '', newUrl);
+      params = new URLSearchParams(newUrl);
     }
 
     async function fuzzySearch(query, data) {
       const fuse = new Fuse(data, {
         keys: ["title", "desc", "domain"],
-        threshold: 0.4, // càng thấp càng chính xác
+        threshold: 0.4,
         ignoreLocation: true,
         minMatchCharLength: 2,
       });
       return fuse.search(query).map(r => r.item);
+    }
+
+    async function getData(file) {
+      if (cache[file]) return cache[file];
+      const res = await fetch(file);
+      const data = await res.json();
+      cache[file] = data;
+      return data;
     }
 
     async function loadResults() {
@@ -82,34 +102,29 @@
       };
 
       try {
-        const res = await fetch(fileMap[currentType]);
-        const data = await res.json();
-
+        const data = await getData(fileMap[currentType]);
         const keyword = query.toLowerCase().trim();
+        if (!keyword) return;
+
         const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         const regex = new RegExp(`\\b${safeKeyword}\\b`, 'i');
         const regexStart = new RegExp(`^${safeKeyword}\\b`, 'i');
         const regexExact = new RegExp(`^${safeKeyword}$`, 'i');
 
-        // --- Tìm kiếm thông thường ---
         let filtered = data.map(item => {
           const title = (item.title || '').toLowerCase();
           const desc = (item.desc || '').toLowerCase();
           const domain = (item.domain || '').toLowerCase();
           let score = 0;
-
           if (regexExact.test(title)) score += 100;
           else if (regexStart.test(title)) score += 60;
           else if (regex.test(title)) score += 30;
           if (regex.test(desc)) score += 10;
           if (regex.test(domain)) score += 5;
-
           return { ...item, score };
         }).filter(i => i.score > 0);
 
-        // --- Nếu không có hoặc quá ít kết quả thì tìm mờ ---
         if (filtered.length < 5 && query.length > 1) {
-          console.log("🤖 Dùng Fuse.js để tìm mờ từ khóa...");
           filtered = await fuzzySearch(query, data);
         } else {
           filtered.sort((a, b) => b.score - a.score);
