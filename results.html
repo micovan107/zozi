@@ -45,6 +45,13 @@
     let allResults = [];
     let visibleCount = 20;
     const cache = {};
+    const stopwords = ["là","ai","cái","gì","ở","như","và","của"];
+
+    // Hàm bỏ dấu tiếng Việt
+    function removeVietnameseSigns(str) {
+      return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+                .replace(/đ/g,"d").replace(/Đ/g,"D");
+    }
 
     // --- Chọn tab ---
     tabs.forEach(tab => {
@@ -53,12 +60,12 @@
         tab.classList.add('active');
         currentType = tab.getAttribute('data-type');
         visibleCount = 20;
-        updateUrl();  // Cập nhật URL khi đổi tab
+        updateUrl();
         loadResults();
       });
     });
 
-    // --- Không reload khi tìm ---
+    // --- Tìm kiếm ---
     document.getElementById('searchForm').addEventListener('submit', async e => {
       e.preventDefault();
       const q = document.getElementById('searchBox').value.trim();
@@ -69,7 +76,6 @@
       await loadResults();
     });
 
-    // --- Cập nhật URL mà không reload ---
     function updateUrl() {
       const newUrl = `?q=${encodeURIComponent(query)}&type=${currentType}`;
       history.replaceState({}, '', newUrl);
@@ -81,7 +87,7 @@
         keys: ["title", "desc", "domain"],
         threshold: 0.4,
         ignoreLocation: true,
-        minMatchCharLength: 2,
+        minMatchCharLength: 2
       });
       return fuse.search(query).map(r => r.item);
     }
@@ -95,45 +101,35 @@
     }
 
     async function loadResults() {
-      const fileMap = {
-        all: 'data.json',
-        image: 'image.json',
-        video: 'video.json'
-      };
-
+      const fileMap = { all:'data.json', image:'image.json', video:'video.json' };
       try {
         const data = await getData(fileMap[currentType]);
-        const keyword = query.toLowerCase().trim();
-        if (!keyword) return;
+        if (!query) return;
 
-        const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        const regex = new RegExp(`\\b${safeKeyword}\\b`, 'i');
-        const regexStart = new RegExp(`^${safeKeyword}\\b`, 'i');
-        const regexExact = new RegExp(`^${safeKeyword}$`, 'i');
+        const keywords = removeVietnameseSigns(query.toLowerCase())
+                         .split(/\s+/)
+                         .filter(w => !stopwords.includes(w) && w.length>0);
 
         let filtered = data.map(item => {
-          const title = (item.title || '').toLowerCase();
-          const desc = (item.desc || '').toLowerCase();
-          const domain = (item.domain || '').toLowerCase();
           let score = 0;
-          if (regexExact.test(title)) score += 100;
-          else if (regexStart.test(title)) score += 60;
-          else if (regex.test(title)) score += 30;
-          if (regex.test(desc)) score += 10;
-          if (regex.test(domain)) score += 5;
-          return { ...item, score };
+          const title = removeVietnameseSigns((item.title || '').toLowerCase());
+          const desc = removeVietnameseSigns((item.desc || '').toLowerCase());
+          const domain = removeVietnameseSigns((item.domain || '').toLowerCase());
+          keywords.forEach(k => {
+            if(title.includes(k)) score += 30;
+            if(desc.includes(k)) score += 10;
+            if(domain.includes(k)) score += 5;
+          });
+          return {...item, score};
         }).filter(i => i.score > 0);
 
-        if (filtered.length < 5 && query.length > 1) {
-          filtered = await fuzzySearch(query, data);
-        } else {
-          filtered.sort((a, b) => b.score - a.score);
-        }
+        if(filtered.length < 5 && query.length>1) filtered = await fuzzySearch(query, data);
+        else filtered.sort((a,b)=>b.score - a.score);
 
         allResults = filtered;
         renderResults();
-      } catch (err) {
-        console.error('Lỗi tải dữ liệu:', err);
+      } catch(err) {
+        console.error('Lỗi tải dữ liệu:',err);
       }
     }
 
@@ -142,13 +138,13 @@
       const loadMoreContainer = document.getElementById('loadMoreContainer');
       const resultsToShow = allResults.slice(0, visibleCount);
 
-      if (allResults.length === 0) {
+      if(allResults.length===0){
         container.innerHTML = `<div class="no-result">Không tìm thấy kết quả nào cho “<b>${query}</b>”</div>`;
-        loadMoreContainer.style.display = 'none';
+        loadMoreContainer.style.display='none';
         return;
       }
 
-      if (currentType === 'all') {
+      if(currentType==='all'){
         container.innerHTML = resultsToShow.map(item => `
           <div class="result-item">
             <div class="result-link">
@@ -159,23 +155,19 @@
             <p class="result-desc">${item.desc || ''}</p>
           </div>
         `).join('');
-      } else if (currentType === 'image') {
-        container.innerHTML = `
-          <div class="image-grid">
-            ${resultsToShow.map(item => `
-              <div class="image-item">
-                <a href="${item.link}" target="_blank">
-                  <img src="${item.link}" alt="${item.title}">
-                </a>
-                <div class="image-info">
-                  <img src="${item.favicon}" alt="">
-                  <span>${item.domain}</span>
-                </div>
-              </div>
-            `).join('')}
+      } else if(currentType==='image'){
+        container.innerHTML = `<div class="image-grid">` + resultsToShow.map(item => `
+          <div class="image-item">
+            <a href="${item.link}" target="_blank">
+              <img src="${item.link}" alt="${item.title}">
+            </a>
+            <div class="image-info">
+              <img src="${item.favicon||''}" alt="">
+              <span>${item.domain||''}</span>
+            </div>
           </div>
-        `;
-      } else if (currentType === 'video') {
+        `).join('') + `</div>`;
+      } else if(currentType==='video'){
         container.innerHTML = resultsToShow.map(item => `
           <div class="video-item">
             <a href="${item.link}" target="_blank">
@@ -186,8 +178,8 @@
                 <div class="result-title">${item.title}</div>
                 <div class="result-desc">${item.desc || ''}</div>
                 <div class="result-link">
-                  <img src="${item.favicon}" alt="">
-                  <span>${item.domain}</span>
+                  <img src="${item.favicon||''}" alt="">
+                  <span>${item.domain||''}</span>
                 </div>
               </div>
             </a>
@@ -198,12 +190,12 @@
       loadMoreContainer.style.display = visibleCount < allResults.length ? 'block' : 'none';
     }
 
-    document.getElementById('loadMoreBtn').addEventListener('click', () => {
+    document.getElementById('loadMoreBtn').addEventListener('click',()=>{
       visibleCount += 20;
       renderResults();
     });
 
-    function extractYoutubeId(url) {
+    function extractYoutubeId(url){
       const match = url.match(/(?:v=|youtu\.be\/)([a-zA-Z0-9_-]+)/);
       return match ? match[1] : 'dQw4w9WgXcQ';
     }
@@ -212,4 +204,3 @@
   </script>
 </body>
 </html>
-
